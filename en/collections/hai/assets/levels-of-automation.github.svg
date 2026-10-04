@@ -1,0 +1,42 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Two-axis model of levels of automation: a ten-level autonomy scale on the left; on the right, four functional stages each set to a different level">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Two axes: autonomy × functional stage</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Sheridan &amp; Verplank (1978) · Parasuraman et al. (2000)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12">
+        <text x="60" y="72" fill="#868e96" font-size="11.5">Degree of autonomy (high at top)</text>
+        <line x1="110" y1="82" x2="110" y2="318" stroke="#495057" stroke-width="1.2"/>
+        <line x1="96" y1="86" x2="124" y2="86" stroke="#495057" stroke-width="1.4"/>
+        <line x1="96" y1="112" x2="124" y2="112" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="96" y1="138" x2="124" y2="138" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="96" y1="164" x2="124" y2="164" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="96" y1="190" x2="124" y2="190" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="96" y1="216" x2="124" y2="216" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="96" y1="242" x2="124" y2="242" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="96" y1="268" x2="124" y2="268" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="96" y1="290" x2="124" y2="290" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="96" y1="314" x2="124" y2="314" stroke="#495057" stroke-width="1.4"/>
+        <text x="134" y="90" fill="#212529">L10: computer does all, tells nothing</text>
+        <text x="134" y="318" fill="#212529">L1: the human does everything</text>
+        <text x="134" y="204" fill="#868e96" font-size="11.5">Middle levels omitted (not quoted)</text>
+        <g>
+          <line x1="360" y1="90" x2="360" y2="300" stroke="#dee2e6" stroke-width="1"/>
+          <line x1="455" y1="90" x2="455" y2="300" stroke="#dee2e6" stroke-width="1"/>
+          <line x1="550" y1="90" x2="550" y2="300" stroke="#dee2e6" stroke-width="1"/>
+          <line x1="645" y1="90" x2="645" y2="300" stroke="#dee2e6" stroke-width="1"/>
+          <circle cx="360" cy="112" r="6" fill="#46608c"/>
+          <circle cx="455" cy="136" r="6" fill="#46608c"/>
+          <circle cx="550" cy="274" r="6" fill="#f59e0b"/>
+          <circle cx="645" cy="238" r="6" fill="#f59e0b"/>
+          <path d="M 360 112 L 455 136 L 550 274 L 645 238" fill="none" stroke="#adb5bd" stroke-width="1.2" stroke-dasharray="4 4"/>
+          <text x="360" y="322" text-anchor="middle" fill="#495057">Acquire</text>
+          <text x="455" y="322" text-anchor="middle" fill="#495057">Analyze</text>
+          <text x="550" y="322" text-anchor="middle" fill="#495057">Decide</text>
+          <text x="645" y="322" text-anchor="middle" fill="#495057">Act</text>
+        </g>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">One system, four stages at different levels (right side is illustrative, not measured).</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

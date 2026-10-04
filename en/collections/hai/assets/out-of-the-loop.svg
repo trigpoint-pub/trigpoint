@@ -1,0 +1,27 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Relative trend of takeover performance after failure against degree of automation: the full-automation group declines most; intermediate levels keep more awareness and takeover capability">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Degree of automation and takeover after failure</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Endsley &amp; Kiris (1995)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif">
+        <line x1="80" y1="70" x2="80" y2="300" stroke="#495057" stroke-width="1.2"/>
+        <line x1="80" y1="300" x2="660" y2="300" stroke="#495057" stroke-width="1.2"/>
+        <text x="36" y="62" font-size="12" fill="#495057">Takeover performance</text>
+        <text x="660" y="336" text-anchor="end" font-size="11.5" fill="#868e96">Degree of automation</text>
+        <line x1="570" y1="70" x2="570" y2="300" stroke="#f59e0b" stroke-width="1.4" stroke-dasharray="5 4"/>
+        <text x="562" y="90" text-anchor="end" font-size="12.5" font-weight="600" fill="#8a5a00">Full automation: steepest decline</text>
+        <text x="562" y="108" text-anchor="end" font-size="11.5" fill="#8a5a00">awareness rebuilds slowly; takeover is slow and poor</text>
+        <path d="M 120 110 C 210 114, 300 124, 370 140 C 450 158, 520 218, 570 258"
+              fill="none" stroke="#46608c" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="170" cy="113" r="5" fill="#46608c"/>
+        <circle cx="370" cy="140" r="5" fill="#46608c"/>
+        <circle cx="570" cy="258" r="5" fill="#f59e0b"/>
+        <text x="170" y="322" text-anchor="middle" font-size="11.5" fill="#495057">Manual control</text>
+        <text x="370" y="322" text-anchor="middle" font-size="11.5" fill="#495057">Intermediate</text>
+        <text x="570" y="322" text-anchor="middle" font-size="11.5" fill="#495057">Full automation</text>
+        <text x="352" y="122" text-anchor="end" font-size="11.5" fill="#495057">Intermediate: more awareness kept</text>
+        <line x1="80" y1="344" x2="660" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <rect x="80" y="356" width="10" height="3" fill="#46608c"/>
+        <text x="98" y="364" font-size="11.5" fill="#868e96">Relative trend of takeover performance after failure</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

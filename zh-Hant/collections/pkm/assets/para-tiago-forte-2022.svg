@@ -1,0 +1,30 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PARA 四層按可行動性由高至低排列示意：Projects 帶目標、Areas 需持續關注、Resources 備參考、Archives 已停用">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">四層：按可行動性排序</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Forte (2022)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <text x="40" y="70" fill="#868e96" font-size="11.5">可行動性（左高右低）</text>
+        <line x1="48" y1="80" x2="48" y2="316" stroke="#495057" stroke-width="1.2"/>
+        <line x1="40" y1="84" x2="56" y2="84" stroke="#495057" stroke-width="1.4"/>
+        <line x1="40" y1="312" x2="56" y2="312" stroke="#495057" stroke-width="1.4"/>
+        <rect x="84" y="78" width="146" height="56" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="157" y="100" text-anchor="middle" fill="#8a5a00" font-weight="600">Projects 專案</text>
+        <text x="157" y="120" text-anchor="middle" fill="#8a5a00" font-size="11.5">有目標、短期完成</text>
+        <rect x="236" y="136" width="146" height="56" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="309" y="158" text-anchor="middle" fill="#212529" font-weight="600">Areas 領域</text>
+        <text x="309" y="178" text-anchor="middle" fill="#495057" font-size="11.5">持續關注、無完成態</text>
+        <rect x="388" y="194" width="146" height="56" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="461" y="216" text-anchor="middle" fill="#212529" font-weight="600">Resources 資源</text>
+        <text x="461" y="236" text-anchor="middle" fill="#495057" font-size="11.5">將來備用的參考</text>
+        <rect x="540" y="252" width="146" height="56" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="613" y="274" text-anchor="middle" fill="#868e96" font-weight="600">Archives 檔案庫</text>
+        <text x="613" y="294" text-anchor="middle" fill="#868e96" font-size="11.5">已停用、離開視線</text>
+        <path d="M 157 134 L 157 164 L 309 164" fill="none" stroke="#adb5bd" stroke-width="1.2" stroke-dasharray="4 4"/>
+        <path d="M 309 192 L 309 222 L 461 222" fill="none" stroke="#adb5bd" stroke-width="1.2" stroke-dasharray="4 4"/>
+        <path d="M 461 250 L 461 280 L 613 280" fill="none" stroke="#adb5bd" stroke-width="1.2" stroke-dasharray="4 4"/>
+        <text x="84" y="326" fill="#868e96" font-size="11.5">同一結構在檔案系統、筆記工具、專案軟件之間鏡像使用。</text>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">排序軸是「多快要用到」，不是主題（四層判準為壓縮轉述，非逐字引錄）。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">圖：trigpoint.pub</text>
+      </g>
+    </svg>

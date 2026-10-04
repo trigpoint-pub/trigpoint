@@ -1,0 +1,34 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A three-column personal kanban board, to do, doing with a work-in-progress limit attached, and done, under two rules: visualise the work and limit how much runs at once">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Three columns, two rules</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Benson &amp; Barry (2011)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="80" y="70" width="170" height="220" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="165" y="94" text-anchor="middle" fill="#212529" font-weight="600">To do</text>
+        <rect x="96" y="110" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="96" y="142" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="96" y="174" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="96" y="206" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="96" y="238" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="165" y="280" text-anchor="middle" fill="#868e96" font-size="11.5">the list only grows</text>
+        <rect x="275" y="70" width="170" height="220" rx="4" fill="#fdf3e0" stroke="#ecd3a8" stroke-width="1.2"/>
+        <text x="360" y="94" text-anchor="middle" fill="#8a5a00" font-weight="600">Doing</text>
+        <rect x="291" y="110" width="138" height="24" rx="3" fill="#ffffff" stroke="#ecd3a8"/>
+        <rect x="291" y="142" width="138" height="24" rx="3" fill="#ffffff" stroke="#ecd3a8"/>
+        <rect x="291" y="174" width="138" height="24" rx="3" fill="#ffffff" stroke="#ecd3a8"/>
+        <text x="360" y="226" text-anchor="middle" fill="#8a5a00" font-size="11.5">WIP limit (say, 3)</text>
+        <text x="360" y="246" text-anchor="middle" fill="#8a5a00" font-size="11.5">one in means one out</text>
+        <text x="360" y="280" text-anchor="middle" fill="#8a5a00" font-size="11.5">the engine is this column</text>
+        <rect x="470" y="70" width="170" height="220" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="555" y="94" text-anchor="middle" fill="#212529" font-weight="600">Done</text>
+        <rect x="486" y="110" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="486" y="142" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="555" y="280" text-anchor="middle" fill="#868e96" font-size="11.5">throughput = real capacity</text>
+        <text x="80" y="316" fill="#495057" font-size="11.5">Rule one: visualise the work. Rule two: limit WIP, turning “focus” into “the column is full”.</text>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">A limit of three is the book's suggested starting value, adjusted by flow; it is not a hard rule.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

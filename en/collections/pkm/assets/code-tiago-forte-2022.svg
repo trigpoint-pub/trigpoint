@@ -1,0 +1,47 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The four CODE steps as a flow: Capture and Organize are divergent, Distill and Express are convergent; small pieces made while expressing are saved back for the next project; the Organize step uses the PARA structure">
+      <defs>
+        <marker id="arr-code" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#46608c"/></marker>
+        <marker id="arr-code-a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#f59e0b"/></marker>
+      </defs>
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">From material to finished work: four steps, two modes</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Forte (2022)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <path d="M 60 124 L 60 116 L 360 116 L 360 124" fill="none" stroke="#46608c" stroke-width="1.2"/>
+        <text x="210" y="106" text-anchor="middle" fill="#46608c" font-weight="600">Divergent: widen the material</text>
+        <path d="M 380 124 L 380 116 L 680 116 L 680 124" fill="none" stroke="#46608c" stroke-width="1.2"/>
+        <text x="530" y="106" text-anchor="middle" fill="#46608c" font-weight="600">Convergent: cut, decide, finish</text>
+        <text x="360" y="80" text-anchor="middle" fill="#868e96" font-size="11.5">⇄ the two modes alternate (author's 2018 blog)</text>
+        <text x="30" y="190" text-anchor="middle" fill="#868e96" font-size="11" transform="rotate(-90 30 186)">Outside material</text>
+        <text x="698" y="190" text-anchor="middle" fill="#868e96" font-size="11" transform="rotate(90 698 186)">Finished work</text>
+        <rect x="60" y="150" width="140" height="72" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="130" y="174" text-anchor="middle" fill="#212529" font-weight="600">Capture</text>
+        <text x="130" y="194" text-anchor="middle" fill="#495057" font-size="11.5">keep what resonates</text>
+        <text x="130" y="210" text-anchor="middle" fill="#868e96" font-size="11">ch.4</text>
+        <line x1="202" y1="186" x2="216" y2="186" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-code)"/>
+        <rect x="220" y="150" width="140" height="72" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="290" y="174" text-anchor="middle" fill="#212529" font-weight="600">Organize</text>
+        <text x="290" y="194" text-anchor="middle" fill="#495057" font-size="11.5">file by actionability</text>
+        <text x="290" y="210" text-anchor="middle" fill="#868e96" font-size="11">ch.5</text>
+        <line x1="362" y1="186" x2="376" y2="186" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-code)"/>
+        <rect x="380" y="150" width="140" height="72" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="450" y="174" text-anchor="middle" fill="#212529" font-weight="600">Distill</text>
+        <text x="450" y="194" text-anchor="middle" fill="#495057" font-size="11.5">mark the essentials</text>
+        <text x="450" y="210" text-anchor="middle" fill="#868e96" font-size="11">ch.6</text>
+        <line x1="522" y1="186" x2="536" y2="186" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-code)"/>
+        <rect x="540" y="150" width="140" height="72" rx="4" fill="#fbfaf8" stroke="#dee2e6"/>
+        <text x="610" y="174" text-anchor="middle" fill="#212529" font-weight="600">Express</text>
+        <text x="610" y="194" text-anchor="middle" fill="#495057" font-size="11.5">build from packets</text>
+        <text x="610" y="210" text-anchor="middle" fill="#868e96" font-size="11">ch.7</text>
+        <line x1="370" y1="132" x2="370" y2="236" stroke="#dee2e6" stroke-width="1" stroke-dasharray="3 3"/>
+        <line x1="290" y1="222" x2="290" y2="244" stroke="#f59e0b" stroke-width="1.2" stroke-dasharray="4 3"/>
+        <rect x="198" y="244" width="184" height="26" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="290" y="261" text-anchor="middle" fill="#8a5a00" font-size="11.5">Structure = PARA (see that node)</text>
+        <path d="M 610 222 L 610 300 L 130 300 L 130 226" fill="none" stroke="#46608c" stroke-width="1.2" stroke-dasharray="5 4" marker-end="url(#arr-code)"/>
+        <rect x="200" y="290" width="340" height="20" fill="#ffffff"/>
+        <text x="370" y="304" text-anchor="middle" fill="#46608c" font-size="11.5">Small pieces saved back for the next project (ch.7)</text>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">Step labels paraphrase the titles of chapters 4 to 7; sides follow chapter 8. Redrawn; not a diagram from the book.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

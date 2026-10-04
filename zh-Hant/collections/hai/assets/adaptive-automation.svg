@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="適應性自動化機制圖：靜態分配的兩頭風險，改為運行中動態分配，四類觸發，切換權在系統或在人的分界">
+      <defs>
+        <marker id="arr-aa" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#46608c"/></marker>
+      </defs>
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">分配由常數變成變數</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Scerbo (1996)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="40" y="58" width="300" height="40" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="190" y="83" text-anchor="middle" fill="#495057">檔位定高：低負荷時，人脫離迴路</text>
+        <rect x="380" y="58" width="300" height="40" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="530" y="83" text-anchor="middle" fill="#495057">檔位定低：高負荷時，人過載</text>
+        <text x="360" y="111" text-anchor="middle" fill="#868e96" font-size="11.5">靜態分配的死結：同一個檔位，兩頭都顧不了</text>
+        <line x1="263.7" y1="118" x2="330" y2="136" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <line x1="456.3" y1="118" x2="390" y2="136" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <rect x="160" y="140" width="400" height="38" rx="4" fill="#fbfaf8" stroke="#dee2e6"/>
+        <text x="360" y="164" text-anchor="middle" fill="#212529">分配改為運行中變數：隨狀態、負荷、績效調整</text>
+        <line x1="360" y1="178" x2="360" y2="200" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <rect x="100" y="204" width="520" height="46" rx="4" fill="#ffffff" stroke="#dee2e6" stroke-dasharray="5 4"/>
+        <text x="150" y="232" fill="#868e96" font-size="11.5">觸發方式</text>
+        <text x="255" y="232" text-anchor="middle" fill="#495057">關鍵事件</text>
+        <text x="365" y="232" text-anchor="middle" fill="#495057">績效衰退</text>
+        <text x="470" y="232" text-anchor="middle" fill="#495057">生理量測</text>
+        <text x="570" y="232" text-anchor="middle" fill="#495057">模型推算</text>
+        <line x1="250" y1="250" x2="200" y2="282" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <line x1="470" y1="250" x2="520" y2="282" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <rect x="80" y="286" width="240" height="56" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="200" y="309" text-anchor="middle" fill="#212529" font-weight="600">adaptive：系統發起切換</text>
+        <text x="200" y="329" text-anchor="middle" fill="#868e96" font-size="11.5">機器偵測狀態，自動升降檔</text>
+        <rect x="400" y="286" width="240" height="56" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="520" y="309" text-anchor="middle" fill="#8a5a00" font-weight="600">adaptable：人保留切換權</text>
+        <text x="520" y="329" text-anchor="middle" fill="#8a5a00" font-size="11.5">系統可以提，掣在人手上</text>
+        <line x1="80" y1="372" x2="640" y2="372" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="392" font-size="11.5" fill="#868e96">切換由誰發起＝治理分界（Miller 與 Parasuraman 2007）：兩者權柄歸屬相反。</text>
+        <text x="696" y="430" text-anchor="end" font-size="10.5" fill="#c9ccd2">圖：trigpoint.pub</text>
+      </g>
+    </svg>

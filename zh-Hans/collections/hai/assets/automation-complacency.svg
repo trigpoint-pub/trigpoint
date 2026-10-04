@@ -1,0 +1,38 @@
+<svg viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="自满与偏误的注意力整合机制图：多任务负荷令监控采样率下降，分支为监控端自满与决策端偏误，高可靠度形成自我强化回环">
+      <defs>
+        <marker id="arr-cp" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#46608c"/></marker>
+        <marker id="arr-cp-a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#f59e0b"/></marker>
+      </defs>
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">一个注意力机制，两张脸</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Parasuraman &amp; Manzey (2010)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="80" y="58" width="240" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="200" y="80" text-anchor="middle" fill="#212529">多任务负荷</text>
+        <line x1="200" y1="92" x2="200" y2="110" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-cp)"/>
+        <rect x="80" y="114" width="240" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="200" y="136" text-anchor="middle" fill="#212529">注意力稀缺：配给要动手的任务</text>
+        <line x1="200" y1="148" x2="200" y2="166" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-cp)"/>
+        <rect x="80" y="170" width="240" height="48" rx="4" fill="#fbfaf8" stroke="#dee2e6"/>
+        <text x="200" y="191" text-anchor="middle" fill="#212529" font-weight="600">对自动化的监控</text>
+        <text x="200" y="209" text-anchor="middle" fill="#212529">采样率下降</text>
+        <rect x="420" y="106" width="260" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="550" y="128" text-anchor="middle" fill="#8a5a00">系统长期可靠，信任上升</text>
+        <text x="550" y="147" text-anchor="middle" fill="#8a5a00" font-size="11.5">回环：越可靠，越少人核对</text>
+        <path d="M 320 186 C 400 180, 470 170, 520 158" fill="none" stroke="#f59e0b" stroke-width="1.4" stroke-dasharray="5 4"/>
+        <path d="M 480 158 C 420 190, 370 196, 324 198" fill="none" stroke="#f59e0b" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#arr-cp-a)"/>
+        <line x1="160" y1="218" x2="140" y2="256" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-cp)"/>
+        <line x1="280" y1="218" x2="440" y2="256" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-cp)"/>
+        <rect x="60" y="260" width="280" height="72" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="200" y="284" text-anchor="middle" fill="#212529" font-weight="600">自满（监控端）</text>
+        <text x="200" y="304" text-anchor="middle" fill="#495057" font-size="11.5">沉默失误被漏看</text>
+        <text x="200" y="322" text-anchor="middle" fill="#495057" font-size="11.5">侦测延迟、漏报</text>
+        <rect x="380" y="260" width="280" height="72" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="520" y="284" text-anchor="middle" fill="#212529" font-weight="600">偏误（决策端）</text>
+        <text x="520" y="304" text-anchor="middle" fill="#495057" font-size="11.5">错的建议照单全收（commission）</text>
+        <text x="520" y="322" text-anchor="middle" fill="#495057" font-size="11.5">没提示的漏掉（omission）</text>
+        <line x1="80" y1="360" x2="640" y2="360" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="380" font-size="11.5" fill="#868e96">两分支共享同一中介：注意力。新手专家都中招，单纯练习消除不了。</text>
+        <text x="696" y="430" text-anchor="end" font-size="10.5" fill="#c9ccd2">图：trigpoint.pub</text>
+      </g>
+    </svg>

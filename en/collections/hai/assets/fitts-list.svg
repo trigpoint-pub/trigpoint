@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Structure of the 1951 Fitts list: columns for what humans do better and what machines do better, with the 2002 substitution-myth critique below">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The 1951 comparison list, and its blind spot</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Fitts (1951) · Dekker &amp; Woods (2002)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="40" y="60" width="310" height="176" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="60" y="86" fill="#212529" font-weight="600">What humans do better (as judged in 1951)</text>
+        <line x1="60" y1="96" x2="330" y2="96" stroke="#eceff1" stroke-width="1"/>
+        <text x="60" y="122" fill="#495057">· Perceiving complex patterns</text>
+        <text x="60" y="148" fill="#495057">· Improvised, flexible judgment</text>
+        <text x="60" y="174" fill="#495057">· Inductive reasoning</text>
+        <text x="60" y="200" fill="#495057">· Experience and long-term memory</text>
+        <rect x="370" y="60" width="310" height="176" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="390" y="86" fill="#212529" font-weight="600">What machines did better back then</text>
+        <line x1="390" y1="96" x2="660" y2="96" stroke="#eceff1" stroke-width="1"/>
+        <text x="390" y="122" fill="#495057">· Fast repetitive computation</text>
+        <text x="390" y="148" fill="#495057">· Precise force output</text>
+        <text x="390" y="174" fill="#495057">· Handling many tasks at once</text>
+        <text x="390" y="200" fill="#495057">· Short-term storage</text>
+        <text x="360" y="258" text-anchor="middle" fill="#495057">Allocation rule: compare item by item, the stronger side wins (a static split)</text>
+        <rect x="40" y="274" width="640" height="60" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="298" text-anchor="middle" fill="#8a5a00" font-weight="600">The Dekker and Woods (2002) critique: allocation is not a zero-sum transfer</text>
+        <text x="360" y="318" text-anchor="middle" fill="#8a5a00">automation transforms the work left to the human; swapping lists does not cure the frame</text>
+        <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="370" font-size="11.5" fill="#868e96">Entries are representative paraphrases, not verbatim quotations (full report not checked first-hand).</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Adaptive automation mechanism: static allocation fails at both ends, so allocation becomes a runtime variable with four trigger types; the governance divide is whether the system or the human initiates the switch">
+      <defs>
+        <marker id="arr-aa" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#46608c"/></marker>
+      </defs>
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Allocation becomes a variable</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Scerbo (1996)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="40" y="58" width="300" height="40" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="190" y="83" text-anchor="middle" fill="#495057">Level set high: at low load, the human drops out</text>
+        <rect x="380" y="58" width="300" height="40" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="530" y="83" text-anchor="middle" fill="#495057">Level set low: at high load, the human overloads</text>
+        <text x="360" y="111" text-anchor="middle" fill="#868e96" font-size="11.5">the static-allocation deadlock: one fixed level cannot cover both ends</text>
+        <line x1="263.7" y1="118" x2="330" y2="136" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <line x1="456.3" y1="118" x2="390" y2="136" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <rect x="160" y="140" width="400" height="38" rx="4" fill="#fbfaf8" stroke="#dee2e6"/>
+        <text x="360" y="164" text-anchor="middle" fill="#212529">Allocation goes dynamic: adjusted by state, load, performance</text>
+        <line x1="360" y1="178" x2="360" y2="200" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <rect x="100" y="204" width="520" height="46" rx="4" fill="#ffffff" stroke="#dee2e6" stroke-dasharray="5 4"/>
+        <text x="112" y="232" fill="#868e96" font-size="11.5">Triggers</text>
+        <text x="210" y="232" text-anchor="middle" fill="#495057">Critical events</text>
+        <text x="328" y="232" text-anchor="middle" fill="#495057">Performance decline</text>
+        <text x="458" y="232" text-anchor="middle" fill="#495057">Psychophysiology</text>
+        <text x="566" y="232" text-anchor="middle" fill="#495057">Model-based</text>
+        <line x1="250" y1="250" x2="200" y2="282" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <line x1="470" y1="250" x2="520" y2="282" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-aa)"/>
+        <rect x="80" y="286" width="240" height="56" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="200" y="309" text-anchor="middle" fill="#212529" font-weight="600">adaptive: the system initiates</text>
+        <text x="200" y="329" text-anchor="middle" fill="#868e96" font-size="11.5">machine detects state, shifts level itself</text>
+        <rect x="400" y="286" width="240" height="56" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="520" y="309" text-anchor="middle" fill="#8a5a00" font-weight="600">adaptable: the human keeps the switch</text>
+        <text x="520" y="329" text-anchor="middle" fill="#8a5a00" font-size="11.5">the system proposes, the human disposes</text>
+        <line x1="80" y1="372" x2="640" y2="372" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="392" font-size="11.5" fill="#868e96">Who initiates the switch = the governance divide (Miller &amp; Parasuraman 2007): authority sits on opposite sides.</text>
+        <text x="696" y="430" text-anchor="end" font-size="10.5" fill="#c9ccd2">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

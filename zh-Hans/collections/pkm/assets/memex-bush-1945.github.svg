@@ -1,0 +1,38 @@
+<svg viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="联想轨迹机制流：知识爆量令阶层索引失效，联想索引让任一条目牵出另一条目，命名轨迹可分支合并传递，终点是网状而非树状的知识">
+<rect x="0" y="0" width="720" height="440" fill="#ffffff"/>
+
+      <defs>
+        <marker id="arr-mx" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#46608c"/></marker>
+        <marker id="arr-mx-a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#f59e0b"/></marker>
+      </defs>
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">从分类槽到网：联想轨迹</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Bush (1945)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="80" y="58" width="260" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="80" text-anchor="middle" fill="#212529">知识爆量：检索跟不上储存</text>
+        <line x1="210" y1="92" x2="210" y2="110" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-mx)"/>
+        <rect x="80" y="114" width="260" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="136" text-anchor="middle" fill="#212529">阶层索引失效：一份资料只有一个槽</text>
+        <line x1="210" y1="148" x2="210" y2="166" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-mx)"/>
+        <rect x="80" y="170" width="260" height="48" rx="4" fill="#fbfaf8" stroke="#dee2e6"/>
+        <text x="210" y="191" text-anchor="middle" fill="#212529" font-weight="600">联想索引</text>
+        <text x="210" y="209" text-anchor="middle" fill="#212529">任一条目即时牵出另一条目</text>
+        <line x1="210" y1="218" x2="210" y2="236" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-mx)"/>
+        <rect x="80" y="240" width="260" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="262" text-anchor="middle" fill="#212529">命名轨迹：可分支、可合并、可传递</text>
+        <line x1="210" y1="274" x2="210" y2="292" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-mx)"/>
+        <rect x="80" y="296" width="260" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="318" text-anchor="middle" fill="#212529">网状知识：非树状</text>
+        <rect x="420" y="150" width="260" height="52" rx="4" fill="#ffffff" stroke="#dee2e6" stroke-dasharray="4 3"/>
+        <text x="550" y="172" text-anchor="middle" fill="#868e96">对照：图书馆式阶层分类</text>
+        <text x="550" y="191" text-anchor="middle" fill="#868e96" font-size="11.5">逐层下钻，违反联想运作的心智</text>
+        <rect x="420" y="286" width="260" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="550" y="308" text-anchor="middle" fill="#8a5a00">血缘：Engelbart 实作 · Nelson 命名</text>
+        <text x="550" y="327" text-anchor="middle" fill="#8a5a00" font-size="11.5">八十年后：双向连结笔记的祖型</text>
+        <path d="M 340 313 C 375 313, 385 313, 414 313" fill="none" stroke="#f59e0b" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#arr-mx-a)"/>
+        <line x1="80" y1="360" x2="640" y2="360" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="380" font-size="11.5" fill="#868e96">Memex 从未建造：这是「联想胜于阶层」公理的首次明确表述，不是机器规格。</text>
+        <text x="696" y="430" text-anchor="end" font-size="10.5" fill="#c9ccd2">图：trigpoint.pub</text>
+      </g>
+    </svg>

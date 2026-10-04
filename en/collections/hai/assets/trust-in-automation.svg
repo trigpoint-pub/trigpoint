@@ -1,0 +1,34 @@
+<svg viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="How trust forms and calibrates: system information feeds three psychological routes to trust, calibrated against true capability; the two mismatch poles are misuse and disuse">
+      <defs>
+        <marker id="arr-tr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#46608c"/></marker>
+      </defs>
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">How trust forms and calibrates</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Lee &amp; See (2004)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="180" y="56" width="360" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="360" y="78" text-anchor="middle" fill="#212529">What the system reveals: purpose · process · performance</text>
+        <line x1="360" y1="90" x2="360" y2="108" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-tr)"/>
+        <rect x="180" y="112" width="360" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="360" y="134" text-anchor="middle" fill="#212529">Three formation routes: analytic · analogical · affective</text>
+        <text x="552" y="124" fill="#8a5a00" font-size="11.5">short of information, trust</text>
+        <text x="552" y="141" fill="#8a5a00" font-size="11.5">leans on affect and analogy</text>
+        <line x1="360" y1="146" x2="360" y2="164" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-tr)"/>
+        <rect x="280" y="168" width="160" height="34" rx="4" fill="#fbfaf8" stroke="#dee2e6"/>
+        <text x="360" y="190" text-anchor="middle" fill="#212529" font-weight="600">Trust</text>
+        <line x1="360" y1="202" x2="360" y2="220" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-tr)"/>
+        <rect x="150" y="224" width="420" height="52" rx="4" fill="#fbfaf8" stroke="#dee2e6"/>
+        <text x="360" y="246" text-anchor="middle" fill="#212529">Calibration: trust matched to true capability</text>
+        <text x="360" y="265" text-anchor="middle" fill="#495057" font-size="11.5">resolution: telling reliable contexts from unreliable ones</text>
+        <line x1="360" y1="276" x2="360" y2="294" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-tr)"/>
+        <rect x="280" y="298" width="160" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="360" y="320" text-anchor="middle" fill="#212529">Reliance decision</text>
+        <line x1="300" y1="332" x2="240" y2="356" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-tr)"/>
+        <line x1="420" y1="332" x2="480" y2="356" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-tr)"/>
+        <rect x="120" y="360" width="220" height="36" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="230" y="383" text-anchor="middle" fill="#8a5a00">Trust &gt; capability: misuse</text>
+        <rect x="380" y="360" width="220" height="36" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="490" y="383" text-anchor="middle" fill="#8a5a00">Trust &lt; capability: disuse</text>
+        <text x="696" y="430" text-anchor="end" font-size="10.5" fill="#c9ccd2">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

@@ -1,0 +1,32 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="康乃尔笔记法三区版面：右栏上课即时记，左窄栏课后抽问题，底带总结；配合五步课后复习回圈">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">一页三区，捕捉与加工分离</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Pauk (1962)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="80" y="66" width="330" height="250" rx="4" fill="#ffffff" stroke="#adb5bd" stroke-width="1.2"/>
+        <line x1="185" y1="66" x2="185" y2="256" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="80" y1="256" x2="410" y2="256" stroke="#adb5bd" stroke-width="1"/>
+        <text x="132" y="96" text-anchor="middle" fill="#212529" font-weight="600" font-size="11.5">cue 线索栏</text>
+        <text x="132" y="116" text-anchor="middle" fill="#495057" font-size="11">课后才填：</text>
+        <text x="132" y="133" text-anchor="middle" fill="#495057" font-size="11">问题／关键词</text>
+        <text x="132" y="153" text-anchor="middle" fill="#8a5a00" font-size="11">自测触发器</text>
+        <text x="297" y="96" text-anchor="middle" fill="#212529" font-weight="600" font-size="11.5">notes 笔记栏</text>
+        <text x="297" y="116" text-anchor="middle" fill="#495057" font-size="11">上课即时记：要点／例子</text>
+        <text x="297" y="133" text-anchor="middle" fill="#495057" font-size="11">不求工整，只做捕捉</text>
+        <text x="245" y="285" fill="#212529" font-weight="600" font-size="11.5" text-anchor="middle">summary 总结带：用自己的话浓缩整页</text>
+        <g font-size="11.5">
+          <text x="470" y="86" fill="#868e96">五步课后回圈（引擎在此）</text>
+          <text x="470" y="112" fill="#212529">1 Record　课堂即时记</text>
+          <text x="470" y="136" fill="#212529">2 Questions　课后尽快抽问题</text>
+          <text x="470" y="160" fill="#212529">3 Recite　遮右栏，自问自答</text>
+          <text x="470" y="184" fill="#212529">4 Reflect　接上既有知识</text>
+          <text x="470" y="208" fill="#212529">5 Review　每周短时复习</text>
+          <path d="M 668 108 C 690 140, 690 176, 668 204" fill="none" stroke="#f59e0b" stroke-width="1.4" stroke-dasharray="5 4"/>
+          <text x="470" y="240" fill="#8a5a00" font-size="11">只画三栏不跑回圈 =</text>
+          <text x="470" y="257" fill="#8a5a00" font-size="11">退化成普通笔记</text>
+        </g>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">版面是脚手架，效益来自主动回忆与间隔复习；栏宽比例为示意（示意重绘）。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">图：trigpoint.pub</text>
+      </g>
+    </svg>

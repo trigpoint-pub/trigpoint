@@ -1,0 +1,30 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The scope conditions on the fragmentation penalty, shown qualitatively: it fires only where the split is forced by system design and crosses ecosystems and formats">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The fragmentation penalty bites one cell only</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Bergman &amp; Whittaker (2016)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <text x="395" y="72" text-anchor="middle" fill="#868e96" font-size="11.5">One substrate (a single vault)<tspan dx="23">←</tspan><tspan dx="23">→</tspan><tspan dx="23">Across ecosystems and formats</tspan></text>
+        <rect x="200" y="84" width="190" height="100" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="295" y="122" text-anchor="middle" fill="#212529">Voluntary × one substrate</text>
+        <text x="295" y="144" text-anchor="middle" fill="#495057" font-size="11.5">splitting files: no penalty</text>
+        <rect x="410" y="84" width="190" height="100" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="505" y="122" text-anchor="middle" fill="#212529">Voluntary × across</text>
+        <text x="505" y="144" text-anchor="middle" fill="#495057" font-size="11.5">a chosen division: not the claim</text>
+        <rect x="200" y="196" width="190" height="100" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="295" y="234" text-anchor="middle" fill="#212529">Forced × one substrate</text>
+        <text x="295" y="256" text-anchor="middle" fill="#495057" font-size="11.5">rare combination: not the claim</text>
+        <rect x="410" y="196" width="190" height="100" rx="4" fill="#fdf3e0" stroke="#ecd3a8" stroke-width="1.4"/>
+        <text x="505" y="230" text-anchor="middle" fill="#8a5a00" font-weight="600">Forced × across</text>
+        <text x="505" y="252" text-anchor="middle" fill="#8a5a00" font-size="11.5">the penalty fires here</text>
+        <text x="505" y="270" text-anchor="middle" fill="#8a5a00" font-size="11.5">(a format split forced by design)</text>
+        <text x="170" y="130" text-anchor="middle" fill="#868e96" font-size="11.5" transform="rotate(-90 170 130)">Voluntary split</text>
+        <text x="170" y="252" text-anchor="middle" fill="#868e96" font-size="11.5" transform="rotate(-90 170 252)">Forced by design</text>
+        <line x1="400" y1="88" x2="400" y2="292" stroke="#eceff1" stroke-width="1"/>
+        <line x1="204" y1="190" x2="596" y2="190" stroke="#eceff1" stroke-width="1"/>
+        <text x="395" y="312" text-anchor="middle" fill="#495057" font-size="11.5">another finding: for personal data, your own structure beats pure search</text>
+        <text x="395" y="328" text-anchor="middle" fill="#495057" font-size="11.5">(people remember place, time and function)</text>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">Qualitative, no measured values; “forced” glosses the source's format-related and design-encouraged wording.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

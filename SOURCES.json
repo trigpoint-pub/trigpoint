@@ -1,0 +1,1829 @@
+{
+  "captured_at": "2026-10-05T03:32:24.381468+08:00",
+  "source": "https://trigpoint.pub/",
+  "mode": "anonymous-public-html",
+  "pages": [
+    {
+      "url": "https://trigpoint.pub/collections/hai/",
+      "canonical": "https://trigpoint.pub/collections/hai/",
+      "language": "en",
+      "kind": "shelf",
+      "title": "Human-Automation Interaction",
+      "captured_at": "2026-10-05T03:32:04.387426+08:00",
+      "source_html_sha256": "194ab17490504219d6e39dbe929ef81ceac2c0be548ef43c807225d2b3ba1508",
+      "file": "en/collections/hai/README.md",
+      "markdown_sha256": "9ca15093f52d86010a2fe8062e8bb09bac714d556fc6db229f3b91453a87e7dd",
+      "source_revision": null,
+      "assets": [],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/",
+      "canonical": "https://trigpoint.pub/collections/pkm/",
+      "language": "en",
+      "kind": "shelf",
+      "title": "Personal Knowledge Management",
+      "captured_at": "2026-10-05T03:32:04.443212+08:00",
+      "source_html_sha256": "f97636de7ef48e3e19fb28815f427b6a826316b188eb93c40f720372b8a1aea4",
+      "file": "en/collections/pkm/README.md",
+      "markdown_sha256": "835949fe75f371e748c7281fbf2b79deae1df2b79be41b4bfc61ce3b1ee6e5f8",
+      "source_revision": null,
+      "assets": [],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/",
+      "language": "zh-Hans",
+      "kind": "shelf",
+      "title": "人机自动化",
+      "captured_at": "2026-10-05T03:32:04.495897+08:00",
+      "source_html_sha256": "5d3ff690fa590e4f437b690c45e6af514d5c9800bacc2b767bf0684e5258f9ad",
+      "file": "zh-Hans/collections/hai/README.md",
+      "markdown_sha256": "3a22b4844575cea745516e2d1f88929206581076c226056f828c75e07202528d",
+      "source_revision": null,
+      "assets": [],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/",
+      "language": "zh-Hans",
+      "kind": "shelf",
+      "title": "个人知识管理",
+      "captured_at": "2026-10-05T03:32:04.506263+08:00",
+      "source_html_sha256": "df7ff74c9e2ab829f950e7610164493f8f956c41e3a2fde7b4e46ebdf9872c54",
+      "file": "zh-Hans/collections/pkm/README.md",
+      "markdown_sha256": "cbf280e2ae9477f92facbc5abe926a91b88f2cce6a038ffd4874aa4e0611e858",
+      "source_revision": null,
+      "assets": [],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/",
+      "language": "zh-Hant",
+      "kind": "shelf",
+      "title": "人機自動化",
+      "captured_at": "2026-10-05T03:32:05.290362+08:00",
+      "source_html_sha256": "b4dec44571ff641ce85f1f299f6643855d24ae91e293a89d7fee16ca0653e7a1",
+      "file": "zh-Hant/collections/hai/README.md",
+      "markdown_sha256": "b0887b309f73b4ed9d9f8f1f3aaa758620675adda90106663090359807cacfe2",
+      "source_revision": null,
+      "assets": [],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/",
+      "language": "zh-Hant",
+      "kind": "shelf",
+      "title": "個人知識管理",
+      "captured_at": "2026-10-05T03:32:05.297236+08:00",
+      "source_html_sha256": "3c2f08aa3d6aa81e0f1cdadc871b1ca95c461fd33a825a5756d27023baf5b180",
+      "file": "zh-Hant/collections/pkm/README.md",
+      "markdown_sha256": "07b47d73eaa37c1564ffe02f79c08235739b910f272dd81105c93eaa37d21eee",
+      "source_revision": null,
+      "assets": [],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/rules",
+      "canonical": null,
+      "language": "en",
+      "kind": "rules",
+      "title": "Ground Rules",
+      "captured_at": "2026-10-05T03:32:06.160888+08:00",
+      "source_html_sha256": "c68b0ff5a7b6ee797218efb5c7b6a05687a5873c75b7d5e7eb13e356ab835364",
+      "file": "en/rules.md",
+      "markdown_sha256": "283cc0ce1b177fed61affcfec8813756aa3971b7d96db604651988e2423f2a46",
+      "source_revision": null,
+      "assets": [],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/rules",
+      "canonical": null,
+      "language": "zh-Hans",
+      "kind": "rules",
+      "title": "前置规则",
+      "captured_at": "2026-10-05T03:32:06.161886+08:00",
+      "source_html_sha256": "0ce2c2d3a931c5a0548440d72374910aa4fdac449b6f79fddfa38e27d86a0927",
+      "file": "zh-Hans/rules.md",
+      "markdown_sha256": "5a83cda39b174aa5cf1d5d880db633ad96229182f2b3e605babbb41cf7015d1b",
+      "source_revision": null,
+      "assets": [],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/rules",
+      "canonical": null,
+      "language": "zh-Hant",
+      "kind": "rules",
+      "title": "前置規則",
+      "captured_at": "2026-10-05T03:32:06.162888+08:00",
+      "source_html_sha256": "062c71291bf08e68595d080132fc1e118c6ef72974e62d0bc4099e45213731c2",
+      "file": "zh-Hant/rules.md",
+      "markdown_sha256": "76ce2d911304922029d5481987fb2cc76bad1d949e71a8f0abfbe0dc13f62107",
+      "source_revision": null,
+      "assets": [],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/adaptive-automation",
+      "canonical": "https://trigpoint.pub/collections/hai/adaptive-automation",
+      "language": "en",
+      "kind": "node",
+      "title": "Adaptive automation",
+      "captured_at": "2026-10-05T03:32:07.518698+08:00",
+      "source_html_sha256": "188a3d5d74c1dba7494200c8819dfc2edd59c90a47146d2f9c2e6eb49e224540",
+      "file": "en/collections/hai/adaptive-automation.md",
+      "markdown_sha256": "6695c454e33325f518518e11863afc4804e9671d7af870db045c74df86e646a2",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/adaptive-automation.svg",
+          "sha256": "42a7e32004899ca767bd5fd99783887a935a275234f390255bd63cacb108afe6",
+          "source_svg_sha256": "42a7e32004899ca767bd5fd99783887a935a275234f390255bd63cacb108afe6",
+          "viewBox": "0 0 720 440",
+          "display_file": "en/collections/hai/assets/adaptive-automation.github.svg",
+          "display_sha256": "d868836ead8b529e284d23b2606e3d9c978f190b984ebba4c73fe386013e885c",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/automation-complacency",
+      "canonical": "https://trigpoint.pub/collections/hai/automation-complacency",
+      "language": "en",
+      "kind": "node",
+      "title": "Automation complacency and bias",
+      "captured_at": "2026-10-05T03:32:07.519699+08:00",
+      "source_html_sha256": "a8546f94e80b5459bbf6cbdb64b8b783ceb4a5cdf3e30bbb4e0063010e272ce2",
+      "file": "en/collections/hai/automation-complacency.md",
+      "markdown_sha256": "9802bd5a82ab0dcbe8a33c9d24553bc8040139463da19c0cc7342c6234f7294e",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/automation-complacency.svg",
+          "sha256": "b74ec3afe103528fa5cc7b219ac4acdd5b9f09e430098cc7c2ee7e96d3dbf2ab",
+          "source_svg_sha256": "b74ec3afe103528fa5cc7b219ac4acdd5b9f09e430098cc7c2ee7e96d3dbf2ab",
+          "viewBox": "0 0 720 440",
+          "display_file": "en/collections/hai/assets/automation-complacency.github.svg",
+          "display_sha256": "e3ef62ce6f89167dc23b85c0a45a779e545dfbaa663f52a4171bd50105d67177",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/fitts-list",
+      "canonical": "https://trigpoint.pub/collections/hai/fitts-list",
+      "language": "en",
+      "kind": "node",
+      "title": "Function allocation",
+      "captured_at": "2026-10-05T03:32:07.519699+08:00",
+      "source_html_sha256": "2806a9b5915976aa06cc7f16394ac01da730e89c2e88f99d6ca55b78172e146c",
+      "file": "en/collections/hai/fitts-list.md",
+      "markdown_sha256": "d6f487bf290a6c5e374b10aeefea105c5fc298064f7923d8f42452a8727d10e9",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/fitts-list.svg",
+          "sha256": "491d8f7ce27932fb24dbf8f4752fb3261d8e73288f32869894bd60505d2c43a0",
+          "source_svg_sha256": "491d8f7ce27932fb24dbf8f4752fb3261d8e73288f32869894bd60505d2c43a0",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/hai/assets/fitts-list.github.svg",
+          "display_sha256": "8057e43528c0ef5f0cda97f62cd6ef082d1cbad4fb6bdddd9b185bf069f52011",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/ironies-of-automation",
+      "canonical": "https://trigpoint.pub/collections/hai/ironies-of-automation",
+      "language": "en",
+      "kind": "node",
+      "title": "Ironies of automation",
+      "captured_at": "2026-10-05T03:32:07.520702+08:00",
+      "source_html_sha256": "4030483a8d169ea232794ba6c9172ca3f401f3bbac3057275d362e513b0d9af0",
+      "file": "en/collections/hai/ironies-of-automation.md",
+      "markdown_sha256": "7f82ede365a980e3ddb531d446a2d13ba47e3365aa06b227666e5308ddabeee6",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/ironies-of-automation.svg",
+          "sha256": "52c5d1759fec13d654c68537678d67d9442293bc67726bea9ca3dc471cf63505",
+          "source_svg_sha256": "52c5d1759fec13d654c68537678d67d9442293bc67726bea9ca3dc471cf63505",
+          "viewBox": "0 0 720 440",
+          "display_file": "en/collections/hai/assets/ironies-of-automation.github.svg",
+          "display_sha256": "69fabc257511d14a3f0f2e2d252b34c66ace4ac8aad196f80113f46e6a803b3c",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/levels-of-automation",
+      "canonical": "https://trigpoint.pub/collections/hai/levels-of-automation",
+      "language": "en",
+      "kind": "node",
+      "title": "Levels of automation",
+      "captured_at": "2026-10-05T03:32:08.397187+08:00",
+      "source_html_sha256": "c42825c892cf5a648a24fdba13c0fd51bf5b9e4d46a64201b79de4232a92aab2",
+      "file": "en/collections/hai/levels-of-automation.md",
+      "markdown_sha256": "ccd3364bcc032da28cb2e0b4af2d52c79af78381ead5c616f26cae45df5e9872",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/levels-of-automation.svg",
+          "sha256": "e4001727531fe85b687e48997d27524188cbb0cc72d677fd2f41fca491fcefb7",
+          "source_svg_sha256": "e4001727531fe85b687e48997d27524188cbb0cc72d677fd2f41fca491fcefb7",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/hai/assets/levels-of-automation.github.svg",
+          "display_sha256": "329f4ea8f1bb1712136f8d52a55207021f4f2ff061be512bb0fbce55109b4aec",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/mental-workload-nasa-tlx",
+      "canonical": "https://trigpoint.pub/collections/hai/mental-workload-nasa-tlx",
+      "language": "en",
+      "kind": "node",
+      "title": "Mental workload (NASA-TLX)",
+      "captured_at": "2026-10-05T03:32:08.402201+08:00",
+      "source_html_sha256": "704b4c03dd7c6dfcae8390e89e4970deb29bc3d08660b6c91dcee756dc99e1d5",
+      "file": "en/collections/hai/mental-workload-nasa-tlx.md",
+      "markdown_sha256": "f21c8d799ff7c0969bcd85521f4e28fef635a5da36096a66f67c5be747fcf661",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/mental-workload-nasa-tlx.svg",
+          "sha256": "73aec6bc9bdf8f52e551d5cc5781aba90a5e185c40e1dad3306f47da9ea21dfd",
+          "source_svg_sha256": "73aec6bc9bdf8f52e551d5cc5781aba90a5e185c40e1dad3306f47da9ea21dfd",
+          "viewBox": "0 0 720 440",
+          "display_file": "en/collections/hai/assets/mental-workload-nasa-tlx.github.svg",
+          "display_sha256": "5af52ed3a57ae3430b19b70cd467bc09ae200ce15422348242bf4aa1e90b791b",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/out-of-the-loop",
+      "canonical": "https://trigpoint.pub/collections/hai/out-of-the-loop",
+      "language": "en",
+      "kind": "node",
+      "title": "Out-of-the-loop performance problem",
+      "captured_at": "2026-10-05T03:32:08.418654+08:00",
+      "source_html_sha256": "a67a0b48a73acb3b41222b44a08184c73fdb41c459c6c1ed4ddc243b2d4dc0bd",
+      "file": "en/collections/hai/out-of-the-loop.md",
+      "markdown_sha256": "bd935357313d6ae086c8495ccdb8532a50c935d8c50874ed642d25e427b92879",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/out-of-the-loop.svg",
+          "sha256": "f7ed4bdbc7a4ccae68fda25a7881f6fac11d2baf192ae9c2d56ae27688a05181",
+          "source_svg_sha256": "f7ed4bdbc7a4ccae68fda25a7881f6fac11d2baf192ae9c2d56ae27688a05181",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/hai/assets/out-of-the-loop.github.svg",
+          "display_sha256": "504c7ac2c801cca27caee182360159a0bce9b084ebc023c7ad988c91f9fd11bf",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/situation-awareness",
+      "canonical": "https://trigpoint.pub/collections/hai/situation-awareness",
+      "language": "en",
+      "kind": "node",
+      "title": "Situation awareness",
+      "captured_at": "2026-10-05T03:32:08.419654+08:00",
+      "source_html_sha256": "a8352b9da44ee7eb483de22f4aa870c6409602218e1362e3eb912af249de5219",
+      "file": "en/collections/hai/situation-awareness.md",
+      "markdown_sha256": "7308799cc06f73715c2e8704167c702917c614c618d8119b1768bed3d48bde18",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/situation-awareness.svg",
+          "sha256": "decea17d0661ff1835f2cd7a33e64a18df31b4f79646f259c5f7885c03752072",
+          "source_svg_sha256": "decea17d0661ff1835f2cd7a33e64a18df31b4f79646f259c5f7885c03752072",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/hai/assets/situation-awareness.github.svg",
+          "display_sha256": "9e85b127a28841b55ca4ff24c3a0698ead9725ae50c6ce66c4c0fbb5ee071c74",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/trust-in-automation",
+      "canonical": "https://trigpoint.pub/collections/hai/trust-in-automation",
+      "language": "en",
+      "kind": "node",
+      "title": "Trust in automation",
+      "captured_at": "2026-10-05T03:32:09.406358+08:00",
+      "source_html_sha256": "a2cc35cb97c2cd1cf82e62670aa52d53d858e37aef1d4ecc496394f96d7eaa3c",
+      "file": "en/collections/hai/trust-in-automation.md",
+      "markdown_sha256": "a187f63027aa59d46e1bd208c35e571320711f9831ac19cc074597ccf5403b4a",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/trust-in-automation.svg",
+          "sha256": "9b2bbb14597bcc2ea9e020bc41b06df35623e5acffae1fe78d42c262e886852c",
+          "source_svg_sha256": "9b2bbb14597bcc2ea9e020bc41b06df35623e5acffae1fe78d42c262e886852c",
+          "viewBox": "0 0 720 440",
+          "display_file": "en/collections/hai/assets/trust-in-automation.github.svg",
+          "display_sha256": "691b8a3d501b2e962bf91ce91fad8a3b54ae3256e4c38de7e109ecbfa6b5be2c",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/use-misuse-disuse-abuse",
+      "canonical": "https://trigpoint.pub/collections/hai/use-misuse-disuse-abuse",
+      "language": "en",
+      "kind": "node",
+      "title": "Use, misuse, disuse, abuse",
+      "captured_at": "2026-10-05T03:32:09.409359+08:00",
+      "source_html_sha256": "593b3c375eb4b34955331a9468309ab387fc32e36aee14358fc084cf483854ee",
+      "file": "en/collections/hai/use-misuse-disuse-abuse.md",
+      "markdown_sha256": "35366ef1870042f9e97f0db5a05955cd2b9ee32e207e60cf7769bd98a82f50dd",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/use-misuse-disuse-abuse.svg",
+          "sha256": "fbf7bf03fc9dd7bfe57528f4ec632e06c7c7af1786770adb3a744a6480e38c46",
+          "source_svg_sha256": "fbf7bf03fc9dd7bfe57528f4ec632e06c7c7af1786770adb3a744a6480e38c46",
+          "viewBox": "0 0 720 440",
+          "display_file": "en/collections/hai/assets/use-misuse-disuse-abuse.github.svg",
+          "display_sha256": "d61da22afe519aa1c9c6cd9897bf333d058ce827caa03ecd6b8db5047710088f",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/hai/vigilance-decrement",
+      "canonical": "https://trigpoint.pub/collections/hai/vigilance-decrement",
+      "language": "en",
+      "kind": "node",
+      "title": "Vigilance decrement",
+      "captured_at": "2026-10-05T03:32:09.569012+08:00",
+      "source_html_sha256": "76793de15a26ea479cb1f8baf5b1aaa8bb417e123820f90b7cb5573df370130c",
+      "file": "en/collections/hai/vigilance-decrement.md",
+      "markdown_sha256": "21e46c83b291e1a93d30666dd85cbba37f51b697552582512d49462b34cc465f",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "en/collections/hai/assets/vigilance-decrement.svg",
+          "sha256": "def0abb4aaf65b25fc155a3d156cd5c652ed3a17efc32e9169c0d3b4f723a0ef",
+          "source_svg_sha256": "def0abb4aaf65b25fc155a3d156cd5c652ed3a17efc32e9169c0d3b4f723a0ef",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/hai/assets/vigilance-decrement.github.svg",
+          "display_sha256": "6f6e42aa9103de2e82ce08ea66d938ed21733cb65d89c951ae0122028792fcab",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/bergman-whittaker-2016-pim",
+      "canonical": "https://trigpoint.pub/collections/pkm/bergman-whittaker-2016-pim",
+      "language": "en",
+      "kind": "node",
+      "title": "Personal information management",
+      "captured_at": "2026-10-05T03:32:09.590602+08:00",
+      "source_html_sha256": "04810c03a1be5866e26003cabed2819936c5ef67b88b69e2679fcceb72ddc0a2",
+      "file": "en/collections/pkm/bergman-whittaker-2016-pim.md",
+      "markdown_sha256": "ea5896e5b79332a8b160dadce55b1e439951e658c2a2b595435b0b579dd5f8ad",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/bergman-whittaker-2016-pim.svg",
+          "sha256": "a5c953efe609ef16e21e5baf16057d0f07897bc595cc9b5985c308a3ec15ea21",
+          "source_svg_sha256": "a5c953efe609ef16e21e5baf16057d0f07897bc595cc9b5985c308a3ec15ea21",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/bergman-whittaker-2016-pim.github.svg",
+          "display_sha256": "cdf3d9e3991e410973143dc8ec7c69680b6116f8cb035eec2fbeb695b2fbcae4",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/code-tiago-forte-2022",
+      "canonical": "https://trigpoint.pub/collections/pkm/code-tiago-forte-2022",
+      "language": "en",
+      "kind": "node",
+      "title": "The CODE method",
+      "captured_at": "2026-10-05T03:32:10.398685+08:00",
+      "source_html_sha256": "27edd58c8dcb8dd59066d7588fa66ee32ec41d3adac0fdbc77428a21f7aeb72f",
+      "file": "en/collections/pkm/code-tiago-forte-2022.md",
+      "markdown_sha256": "35742e1bdaf4d05ca76e539cc2f4f62ea3dea8a4f262de3b6f57e79574a8781e",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/code-tiago-forte-2022.svg",
+          "sha256": "82a95a6b033955b9ba3c954ce53c4d2c0ecebf271ee97fc3fb109b42e6b5bcf8",
+          "source_svg_sha256": "82a95a6b033955b9ba3c954ce53c4d2c0ecebf271ee97fc3fb109b42e6b5bcf8",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/code-tiago-forte-2022.github.svg",
+          "display_sha256": "82475c8a24e34aa343e1b912006649546711debb6a4c2f4a0281ed04f7c17cde",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/cornell-note-taking-pauk-1962",
+      "canonical": "https://trigpoint.pub/collections/pkm/cornell-note-taking-pauk-1962",
+      "language": "en",
+      "kind": "node",
+      "title": "Cornell note-taking system",
+      "captured_at": "2026-10-05T03:32:10.400686+08:00",
+      "source_html_sha256": "222692446831688661162e208830b3b2c7be5e1ae5e9a2fedd4755d99372a194",
+      "file": "en/collections/pkm/cornell-note-taking-pauk-1962.md",
+      "markdown_sha256": "1af2872c78dafe30e019913495473ddd0979c7e1fd6ff8e6ca4ab2c3789e2a09",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/cornell-note-taking-pauk-1962.svg",
+          "sha256": "f0a838ff23aebd9f7c0b03f1ba0432d1a690f90901fff3240a7bb55978116be4",
+          "source_svg_sha256": "f0a838ff23aebd9f7c0b03f1ba0432d1a690f90901fff3240a7bb55978116be4",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/cornell-note-taking-pauk-1962.github.svg",
+          "display_sha256": "e04938dbb838904987ae5638e7d62db3c88b3c3fb3a66b21b2e4118d8bebf975",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/diataxis-procida",
+      "canonical": "https://trigpoint.pub/collections/pkm/diataxis-procida",
+      "language": "en",
+      "kind": "node",
+      "title": "Diátaxis",
+      "captured_at": "2026-10-05T03:32:10.595769+08:00",
+      "source_html_sha256": "beb2d58fe659576c2de1e41855efa34b3656e8d6e6f2ed9c04c68ba5d62cc1d7",
+      "file": "en/collections/pkm/diataxis-procida.md",
+      "markdown_sha256": "67eebbe276048b8c3dadfcae2b631911abd1db98f0b243d93830494db6c87733",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/diataxis-procida.svg",
+          "sha256": "771212738cdb73af519c334d001714891d98254279c2e5b337a900fb33fba9d1",
+          "source_svg_sha256": "771212738cdb73af519c334d001714891d98254279c2e5b337a900fb33fba9d1",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/diataxis-procida.github.svg",
+          "display_sha256": "a46b927b6463e8513b23706a21b5651fa46808e1b71d11ed3b29fb8631e3d4d2",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/evergreen-notes-matuschak",
+      "canonical": "https://trigpoint.pub/collections/pkm/evergreen-notes-matuschak",
+      "language": "en",
+      "kind": "node",
+      "title": "Evergreen notes",
+      "captured_at": "2026-10-05T03:32:10.685219+08:00",
+      "source_html_sha256": "d8a781de17e2a981f57eba49390837986fe9479d649443af594760c02fec5767",
+      "file": "en/collections/pkm/evergreen-notes-matuschak.md",
+      "markdown_sha256": "3bb8c5b90331b8e27e47e271b1203a0b60c1e0413fa5d412ebbccae7d36f8dd8",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/evergreen-notes-matuschak.svg",
+          "sha256": "8877e0c0f0bb39e9a8c2c1f597ec75d2dde9be93ace942f75d2b542bad8dcbfa",
+          "source_svg_sha256": "8877e0c0f0bb39e9a8c2c1f597ec75d2dde9be93ace942f75d2b542bad8dcbfa",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/evergreen-notes-matuschak.github.svg",
+          "display_sha256": "2669206cfe923be743387540dbe73d7e7568fe1e8dca2665003152202cdb60ae",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/hypertext-transclusion-nelson-1965",
+      "canonical": "https://trigpoint.pub/collections/pkm/hypertext-transclusion-nelson-1965",
+      "language": "en",
+      "kind": "node",
+      "title": "Hypertext and transclusion",
+      "captured_at": "2026-10-05T03:32:11.478907+08:00",
+      "source_html_sha256": "94e02ebfd20a150e74b0cf6eb793fb9a917d2e65b0ad62c25d610eb6808abc7c",
+      "file": "en/collections/pkm/hypertext-transclusion-nelson-1965.md",
+      "markdown_sha256": "dd4a5690a152293506c3a9a9d5ee1432291031c556fccd1452354d1072c0fadc",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/hypertext-transclusion-nelson-1965.svg",
+          "sha256": "56c6d34657743105a2749667fe9dd6731f7dd29e51aa639cebc8721fb9b3cdbe",
+          "source_svg_sha256": "56c6d34657743105a2749667fe9dd6731f7dd29e51aa639cebc8721fb9b3cdbe",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/hypertext-transclusion-nelson-1965.github.svg",
+          "display_sha256": "cc5e33c70eb5a17ffdfa49b0b7709b6b2aeb166b85f0c8026bce8536fd3668d9",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/li-dey-forlizzi-2010-personal-informatics",
+      "canonical": "https://trigpoint.pub/collections/pkm/li-dey-forlizzi-2010-personal-informatics",
+      "language": "en",
+      "kind": "node",
+      "title": "Stage-based model of personal informatics",
+      "captured_at": "2026-10-05T03:32:11.481679+08:00",
+      "source_html_sha256": "330a5ab462ee3e762a4c1e86c7d6ea8de9f165699713f913abcb3ca389d3cb7f",
+      "file": "en/collections/pkm/li-dey-forlizzi-2010-personal-informatics.md",
+      "markdown_sha256": "b5c0dcc148663ce2eaead0a53bb54cdb679a3080bed9ac3e4a8bdc534b73d6df",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/li-dey-forlizzi-2010-personal-informatics.svg",
+          "sha256": "7fc5b3f2c158a0021fa4efcc15cd9aa161655efecea188ee8e99c7213b5a4c73",
+          "source_svg_sha256": "7fc5b3f2c158a0021fa4efcc15cd9aa161655efecea188ee8e99c7213b5a4c73",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/li-dey-forlizzi-2010-personal-informatics.github.svg",
+          "display_sha256": "0aaa3423d2636bfc5223758e8960e3713dfbb7e5ccf502a2605ef68266c0825b",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/lyt-nick-milo",
+      "canonical": "https://trigpoint.pub/collections/pkm/lyt-nick-milo",
+      "language": "en",
+      "kind": "node",
+      "title": "LYT and maps of content",
+      "captured_at": "2026-10-05T03:32:11.691514+08:00",
+      "source_html_sha256": "2a983e2cde58f91964ea4eab4bcb848854a792c79388cdd1d4fcd2f7044f8570",
+      "file": "en/collections/pkm/lyt-nick-milo.md",
+      "markdown_sha256": "a3d99ce64ebdc6f8fc2a4d3a766fe596b4667b4e419ea06b0a158f127a733a2e",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/lyt-nick-milo.svg",
+          "sha256": "36e50d0137d72822bc915987c0752dc321581f5ff0cfd1168841bbec45585299",
+          "source_svg_sha256": "36e50d0137d72822bc915987c0752dc321581f5ff0cfd1168841bbec45585299",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/lyt-nick-milo.github.svg",
+          "display_sha256": "245d52c7bf73206cdb06089e02c528c8dd3aaf77eea878c14a4f0789ea429c50",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/memex-bush-1945",
+      "canonical": "https://trigpoint.pub/collections/pkm/memex-bush-1945",
+      "language": "en",
+      "kind": "node",
+      "title": "Memex",
+      "captured_at": "2026-10-05T03:32:11.694586+08:00",
+      "source_html_sha256": "a7907e54220b74478acd7250b209ff8fd0e884cb7e37485b27bbeea411e7fa10",
+      "file": "en/collections/pkm/memex-bush-1945.md",
+      "markdown_sha256": "75b8c48ad783109b8ddd54dd58163918581888ad8e3fc9e261700b0fd83d6c52",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/memex-bush-1945.svg",
+          "sha256": "c3195a0072e79e05262a49919c5a3581579fdda85c8a790d36b4f0ac1bc232ba",
+          "source_svg_sha256": "c3195a0072e79e05262a49919c5a3581579fdda85c8a790d36b4f0ac1bc232ba",
+          "viewBox": "0 0 720 440",
+          "display_file": "en/collections/pkm/assets/memex-bush-1945.github.svg",
+          "display_sha256": "3a73556742298aa5d12a5cb3a7ed8928b3e233a7c1a7d9452ba211d273f4714c",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/para-tiago-forte-2022",
+      "canonical": "https://trigpoint.pub/collections/pkm/para-tiago-forte-2022",
+      "language": "en",
+      "kind": "node",
+      "title": "The PARA method",
+      "captured_at": "2026-10-05T03:32:12.500037+08:00",
+      "source_html_sha256": "e55e97fe34d440a0d4dbfa98b3e38d9f81128c7a50a54861a4c68eff8ef96d37",
+      "file": "en/collections/pkm/para-tiago-forte-2022.md",
+      "markdown_sha256": "141b53978bbfb9d367a5ee1192c2a398d5e65527c8e8edb9a303c660d3780635",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/para-tiago-forte-2022.svg",
+          "sha256": "e7586ed18b89f345ea95b24a12a8903c06c54427be06e2802b65ed5b5704f629",
+          "source_svg_sha256": "e7586ed18b89f345ea95b24a12a8903c06c54427be06e2802b65ed5b5704f629",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/para-tiago-forte-2022.github.svg",
+          "display_sha256": "e3a07298c8304abddf97fdbe67805834bf639e4648497b1a05f14ff054084c88",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/personal-kanban-benson-barry-2011",
+      "canonical": "https://trigpoint.pub/collections/pkm/personal-kanban-benson-barry-2011",
+      "language": "en",
+      "kind": "node",
+      "title": "Personal kanban",
+      "captured_at": "2026-10-05T03:32:12.692365+08:00",
+      "source_html_sha256": "48f5ea615bfe1ba2b3d1a39306537aff83f31487461d2a940366153d6f0f523e",
+      "file": "en/collections/pkm/personal-kanban-benson-barry-2011.md",
+      "markdown_sha256": "5e7498852c89b0d249b713a1cd13336b87a6c977ee377055b5870ce376ce2488",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/personal-kanban-benson-barry-2011.svg",
+          "sha256": "3687c0be75cc38e5257c068402ca8ad10cb21081869c68060d8fd294169338c7",
+          "source_svg_sha256": "3687c0be75cc38e5257c068402ca8ad10cb21081869c68060d8fd294169338c7",
+          "viewBox": "0 0 720 400",
+          "display_file": "en/collections/pkm/assets/personal-kanban-benson-barry-2011.github.svg",
+          "display_sha256": "97738f69b31d3a446c0762e550e0e6b7801a6ac3898887b95faff6fc3d02820e",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/collections/pkm/zettelkasten-luhmann-1981",
+      "canonical": "https://trigpoint.pub/collections/pkm/zettelkasten-luhmann-1981",
+      "language": "en",
+      "kind": "node",
+      "title": "Zettelkasten",
+      "captured_at": "2026-10-05T03:32:12.700899+08:00",
+      "source_html_sha256": "0573832f77a73bebe6067a05197966c34c1747874fca8ed25865dfbb13856bb7",
+      "file": "en/collections/pkm/zettelkasten-luhmann-1981.md",
+      "markdown_sha256": "49f26ed1981508f35ffd824e2552d04989fcd847a3ab9bda4cce617430dffbe0",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "en/collections/pkm/assets/zettelkasten-luhmann-1981.svg",
+          "sha256": "972092feffcac12515ed3d15edc61d19a81f916dea8c2c878106e39d8f9630c4",
+          "source_svg_sha256": "972092feffcac12515ed3d15edc61d19a81f916dea8c2c878106e39d8f9630c4",
+          "viewBox": "0 0 720 440",
+          "display_file": "en/collections/pkm/assets/zettelkasten-luhmann-1981.github.svg",
+          "display_sha256": "05a6b4ce7863f4344615c82ba6b495c5445ea9832524b76049a63ce2dd7e7f54",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/adaptive-automation",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/adaptive-automation",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "适应性自动化",
+      "captured_at": "2026-10-05T03:32:12.704406+08:00",
+      "source_html_sha256": "fb9afa6451e816516b2f21bd1daadfc425b571eac736e9947144c9e0dee5d478",
+      "file": "zh-Hans/collections/hai/adaptive-automation.md",
+      "markdown_sha256": "16da2adbe884cae24789d29d0b9b59d886c77ade3d060e9947be8758caa2f56a",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/adaptive-automation.svg",
+          "sha256": "dc08a5fe36907d5ff7d0d0fcb31f2236ae98f3339e49e696c39b0d1ffab799db",
+          "source_svg_sha256": "dc08a5fe36907d5ff7d0d0fcb31f2236ae98f3339e49e696c39b0d1ffab799db",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hans/collections/hai/assets/adaptive-automation.github.svg",
+          "display_sha256": "9285e9d95f182f9b6a751ffcf92df1607c1804615eec45cabcf4fc2edfc5c798",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/automation-complacency",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/automation-complacency",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "自动化自满与偏误",
+      "captured_at": "2026-10-05T03:32:13.521544+08:00",
+      "source_html_sha256": "4d347463023895e1a37e7988287269e820e7d021a9890046eb17209919176da2",
+      "file": "zh-Hans/collections/hai/automation-complacency.md",
+      "markdown_sha256": "b81e078662eeb60c304bc4e755717cbb45e36df9b9e39bf892bfcb1fd8f55185",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/automation-complacency.svg",
+          "sha256": "3edc52634812d9aeac01c12769c1f41a41c27faf073d67305ebde08b6d3a1bae",
+          "source_svg_sha256": "3edc52634812d9aeac01c12769c1f41a41c27faf073d67305ebde08b6d3a1bae",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hans/collections/hai/assets/automation-complacency.github.svg",
+          "display_sha256": "06cd48978af4bdb387e9ec49599fe5a1fa07d3549a06c19516e0d7171f70d40f",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/fitts-list",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/fitts-list",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "功能分配",
+      "captured_at": "2026-10-05T03:32:13.736124+08:00",
+      "source_html_sha256": "aa042169097212d75af48c3b9c8ef777a48c34a032eaf2e337ecf4a8143670c2",
+      "file": "zh-Hans/collections/hai/fitts-list.md",
+      "markdown_sha256": "9f079f0847171c7e3b4448c015c705f346d77d1ad8973fd77f5e3a7869c96fd9",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/fitts-list.svg",
+          "sha256": "a06b50430c2a3a52bf6f05e0fa6fb8e0da900411a22a2448d18e28c5112ba351",
+          "source_svg_sha256": "a06b50430c2a3a52bf6f05e0fa6fb8e0da900411a22a2448d18e28c5112ba351",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/hai/assets/fitts-list.github.svg",
+          "display_sha256": "f54a341ce2913b8915ff66266dd7576620670030b93b9bc81476fb9c3dd210c4",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/ironies-of-automation",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/ironies-of-automation",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "自动化反讽",
+      "captured_at": "2026-10-05T03:32:13.738124+08:00",
+      "source_html_sha256": "4d1dbd6434bcf95b9262991bd9c3797e39225b172bf63d0f18faa6a2bf8f5efb",
+      "file": "zh-Hans/collections/hai/ironies-of-automation.md",
+      "markdown_sha256": "28dea51af4a69f43b466be4c4522362b857651e67b1b56ac1865dbd94762ad4f",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/ironies-of-automation.svg",
+          "sha256": "9e304055b9ec7f64cdbe7d948b29a79f6f81792e5f1cee3387e671a0e8b06ce0",
+          "source_svg_sha256": "9e304055b9ec7f64cdbe7d948b29a79f6f81792e5f1cee3387e671a0e8b06ce0",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hans/collections/hai/assets/ironies-of-automation.github.svg",
+          "display_sha256": "122c683a66ae136ae9b7a46c6929c281c5345a350c330ee26ce0e2f8287bf09e",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/levels-of-automation",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/levels-of-automation",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "自动化等级",
+      "captured_at": "2026-10-05T03:32:13.740165+08:00",
+      "source_html_sha256": "fe4168615eae1fab53c5a6d3c76767049e22f0ca371945d11ad82e45742625c3",
+      "file": "zh-Hans/collections/hai/levels-of-automation.md",
+      "markdown_sha256": "f0b53151d0ae2752791f72a70eb96d4a60cf4c6ecaa57f0e6ce9d1d0f4cfa625",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/levels-of-automation.svg",
+          "sha256": "1fb1cd38aecf1fef77ee6a62a1843d6e7db36c354fad312bf06f19211a12137a",
+          "source_svg_sha256": "1fb1cd38aecf1fef77ee6a62a1843d6e7db36c354fad312bf06f19211a12137a",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/hai/assets/levels-of-automation.github.svg",
+          "display_sha256": "d20de51074880fc0077f0727098d5cd03057aac1a2a49da1dae64909bef4c9f7",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/mental-workload-nasa-tlx",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/mental-workload-nasa-tlx",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "心智负荷",
+      "captured_at": "2026-10-05T03:32:14.745835+08:00",
+      "source_html_sha256": "d799e1f249966791af3904de7f1d97f7bdd178e3588d6d0f6485fb3f5291d723",
+      "file": "zh-Hans/collections/hai/mental-workload-nasa-tlx.md",
+      "markdown_sha256": "4a0e803beb4d29cba64b3adc358ea65d6164865f996620d3418a7481affe8af5",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/mental-workload-nasa-tlx.svg",
+          "sha256": "ad82f6e29e007d2a9e69e5fd91a0bd9863bb73e7dec72950d1b5ef2b12f57204",
+          "source_svg_sha256": "ad82f6e29e007d2a9e69e5fd91a0bd9863bb73e7dec72950d1b5ef2b12f57204",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hans/collections/hai/assets/mental-workload-nasa-tlx.github.svg",
+          "display_sha256": "f5d862b84f8c81b2a0c36524575a35d39f9774b1856a9c9200f99d2910f48d07",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/out-of-the-loop",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/out-of-the-loop",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "脱离回路",
+      "captured_at": "2026-10-05T03:32:14.861117+08:00",
+      "source_html_sha256": "a9a633aca271bcd69fb8fd43a224440618833f9fffe3abda57e0fdb140d27dfc",
+      "file": "zh-Hans/collections/hai/out-of-the-loop.md",
+      "markdown_sha256": "0a76842cc1767ed8a5e58c65a69cafd7d209791bba2f3355c9ee66dfe8127202",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/out-of-the-loop.svg",
+          "sha256": "82537567f0d7bc5b111135a57848b1ce25820221ac3f520629f105b6f4f10bc9",
+          "source_svg_sha256": "82537567f0d7bc5b111135a57848b1ce25820221ac3f520629f105b6f4f10bc9",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/hai/assets/out-of-the-loop.github.svg",
+          "display_sha256": "5d77a991b1b3b06493e6d2c69c02ea9ff0bca46ae3cceecd29ecd811468de29a",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/situation-awareness",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/situation-awareness",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "情境觉知",
+      "captured_at": "2026-10-05T03:32:14.870380+08:00",
+      "source_html_sha256": "e0fc3aba322671ae00c0942807aa4fedfb75857142ea674cb81adabcb2e3872d",
+      "file": "zh-Hans/collections/hai/situation-awareness.md",
+      "markdown_sha256": "45bee3f48379e74f7ce276562b7a333597ca6da0665ab0ea0513521309388190",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/situation-awareness.svg",
+          "sha256": "26a63ef2c148897ed2d1509ead044e5b9be3e5c91caa78198ab1c1ba57753828",
+          "source_svg_sha256": "26a63ef2c148897ed2d1509ead044e5b9be3e5c91caa78198ab1c1ba57753828",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/hai/assets/situation-awareness.github.svg",
+          "display_sha256": "a10ac83434a379f50d8031f760e45f59e406606b6a2dc5fddb1697192754f7c5",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/trust-in-automation",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/trust-in-automation",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "自动化信任",
+      "captured_at": "2026-10-05T03:32:14.907971+08:00",
+      "source_html_sha256": "c0ef7a1052f03093dd545acb7b2958a39099c2d418034b2e433e569713836465",
+      "file": "zh-Hans/collections/hai/trust-in-automation.md",
+      "markdown_sha256": "7a26e9e0650264678fdcd8b628a99882524912ce393c261a9a77522c34127652",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/trust-in-automation.svg",
+          "sha256": "6ffe1c51bb6baf7d4f63bb031b063a1e86317ff9ee1a99d7aa67950cf79b37af",
+          "source_svg_sha256": "6ffe1c51bb6baf7d4f63bb031b063a1e86317ff9ee1a99d7aa67950cf79b37af",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hans/collections/hai/assets/trust-in-automation.github.svg",
+          "display_sha256": "f3d8dac74df245547cc65825dec9ae8456bc1dc85edc11019252e5a229babb2e",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/use-misuse-disuse-abuse",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/use-misuse-disuse-abuse",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "使用、误用、弃用、滥用",
+      "captured_at": "2026-10-05T03:32:15.660013+08:00",
+      "source_html_sha256": "8c86a86e61d27e13fd97301ea8cafef5b0797f66b438915a9702eac8f8ba85c0",
+      "file": "zh-Hans/collections/hai/use-misuse-disuse-abuse.md",
+      "markdown_sha256": "f05be45cdaa8bf877876511f734b6d26e4bfb6ef7baaa4845a6daea9a70c8c8b",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/use-misuse-disuse-abuse.svg",
+          "sha256": "534aa0ffd858d82587b50731898c933637094e5b4e43cd51cf3b1364c37069dd",
+          "source_svg_sha256": "534aa0ffd858d82587b50731898c933637094e5b4e43cd51cf3b1364c37069dd",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hans/collections/hai/assets/use-misuse-disuse-abuse.github.svg",
+          "display_sha256": "ca270d7f825d987843bc8989d4166ebaf15d257c493485bb1a4803a30e81966f",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/hai/vigilance-decrement",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/hai/vigilance-decrement",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "警觉递减",
+      "captured_at": "2026-10-05T03:32:15.776477+08:00",
+      "source_html_sha256": "4aa4496e30b0b4636d258679aaa0d7a45b6e6d80f985a784e44a8e72b58153ab",
+      "file": "zh-Hans/collections/hai/vigilance-decrement.md",
+      "markdown_sha256": "53af167596c50184784d3af131bca8fe6a51b6378541f555b3821b61c79208f0",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/hai/assets/vigilance-decrement.svg",
+          "sha256": "b6f126bc597f17963e4726ca7e0595bf1fd47149db3b911b5358656d517d2b26",
+          "source_svg_sha256": "b6f126bc597f17963e4726ca7e0595bf1fd47149db3b911b5358656d517d2b26",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/hai/assets/vigilance-decrement.github.svg",
+          "display_sha256": "0cdfb709a3f50dea19434e066fd3cec0d14aae13452a828f3b6ac481b42dd3de",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/bergman-whittaker-2016-pim",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/bergman-whittaker-2016-pim",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "个人资讯管理",
+      "captured_at": "2026-10-05T03:32:15.797105+08:00",
+      "source_html_sha256": "9adf09e7254a11ed184d2cd61dbfda2c78cc38234aec758f2c61db7973e3d2d3",
+      "file": "zh-Hans/collections/pkm/bergman-whittaker-2016-pim.md",
+      "markdown_sha256": "20a1b4adcd849981b7f1ec4bb5235e43abb476c8bfa0e154f6546cf048e40cbf",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/bergman-whittaker-2016-pim.svg",
+          "sha256": "3688b540e2c596d01cbcf229727f9107ea3aea27bd2c4636d00a5dd6333b0865",
+          "source_svg_sha256": "3688b540e2c596d01cbcf229727f9107ea3aea27bd2c4636d00a5dd6333b0865",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/bergman-whittaker-2016-pim.github.svg",
+          "display_sha256": "d616f94b5bde3a2a5c596c978d6185dd4ba94fd362cd0df3c560b986bfcadb51",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/code-tiago-forte-2022",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/code-tiago-forte-2022",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "CODE 四步法",
+      "captured_at": "2026-10-05T03:32:15.861789+08:00",
+      "source_html_sha256": "712b9c568254444e5b63710981907c084cdfea7dce90ddc9eab8c6f907b33adc",
+      "file": "zh-Hans/collections/pkm/code-tiago-forte-2022.md",
+      "markdown_sha256": "52ca594dfe28e2a2854506bb14d80f2bc43f8a7bdd81feabebc2a076fefd9712",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/code-tiago-forte-2022.svg",
+          "sha256": "e52c9fe0d9df8932f39022e3269ea9304830070cd84588f1a2bb2901fdfca16e",
+          "source_svg_sha256": "e52c9fe0d9df8932f39022e3269ea9304830070cd84588f1a2bb2901fdfca16e",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/code-tiago-forte-2022.github.svg",
+          "display_sha256": "a9386408141da1fadf1b0e418275f6ba554fb41681d316dc32656f970958d928",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/cornell-note-taking-pauk-1962",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/cornell-note-taking-pauk-1962",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "康乃尔笔记法",
+      "captured_at": "2026-10-05T03:32:16.511991+08:00",
+      "source_html_sha256": "99e4792b147e5d063382c3d18f64f6a7c1b49bd17fb688e58e47f32265963541",
+      "file": "zh-Hans/collections/pkm/cornell-note-taking-pauk-1962.md",
+      "markdown_sha256": "38a9d052ae7a7988b808f6bd3ae34a189529926174fe88cfe934bafe8107c633",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/cornell-note-taking-pauk-1962.svg",
+          "sha256": "c4109393446902d320e2e40cb7b8eda53a71af5cf4d85dcc045e04d1f220bc51",
+          "source_svg_sha256": "c4109393446902d320e2e40cb7b8eda53a71af5cf4d85dcc045e04d1f220bc51",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/cornell-note-taking-pauk-1962.github.svg",
+          "display_sha256": "09260f21440e9718690472670c02ccd9c384d3de75b9872c256a82882ecc57bc",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/diataxis-procida",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/diataxis-procida",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "Diátaxis 文件四型",
+      "captured_at": "2026-10-05T03:32:16.656528+08:00",
+      "source_html_sha256": "a02768c06ee55c1dd2cbf76f10bf783a33a131e09ce91ecc92d596b34f701ab8",
+      "file": "zh-Hans/collections/pkm/diataxis-procida.md",
+      "markdown_sha256": "b83c23ee5f1f4aa4dc89ef02aa3f5a636782d4956ef7164715117eed70564c12",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/diataxis-procida.svg",
+          "sha256": "d9e1f123c4cc5b0b07224eaca7bebac519801536e65056eebf81a85361086330",
+          "source_svg_sha256": "d9e1f123c4cc5b0b07224eaca7bebac519801536e65056eebf81a85361086330",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/diataxis-procida.github.svg",
+          "display_sha256": "424c338bd4e402457f5fc4a252ab5bde678d6386b33ff169d7d10d4e4a8ee547",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/evergreen-notes-matuschak",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/evergreen-notes-matuschak",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "常青笔记",
+      "captured_at": "2026-10-05T03:32:16.683858+08:00",
+      "source_html_sha256": "c7b6b0b5b7646ff088ae8bd2ca54b624a5f9176977221e743fec925dc8b2d577",
+      "file": "zh-Hans/collections/pkm/evergreen-notes-matuschak.md",
+      "markdown_sha256": "b6630a9ffb4bf0524bbe7e97a1b51928cab0d7264e9223d5bbaf618d306bbc4a",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/evergreen-notes-matuschak.svg",
+          "sha256": "c44ecd86c0cb613119d0bfc19cf1de01601da3b00cff509375fca43df4c7d2a8",
+          "source_svg_sha256": "c44ecd86c0cb613119d0bfc19cf1de01601da3b00cff509375fca43df4c7d2a8",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/evergreen-notes-matuschak.github.svg",
+          "display_sha256": "92e3b1d701d7921b74a4c01979b676a28ee16d5c10772b8915b1b93e23924734",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/hypertext-transclusion-nelson-1965",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/hypertext-transclusion-nelson-1965",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "超文本与跨包含",
+      "captured_at": "2026-10-05T03:32:16.757260+08:00",
+      "source_html_sha256": "50aae4245d5404379fd4bf2d7336d0346786a47f7d5a791308dd4016c636b1ce",
+      "file": "zh-Hans/collections/pkm/hypertext-transclusion-nelson-1965.md",
+      "markdown_sha256": "52589be6b37b539acb76b1fcc88ff928dbe70f8fde713b836b29da5562ae99c8",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/hypertext-transclusion-nelson-1965.svg",
+          "sha256": "671c87147ec0508ec7c4ae1b0719fbe70780b3501923b4df12cd00ddc9a28891",
+          "source_svg_sha256": "671c87147ec0508ec7c4ae1b0719fbe70780b3501923b4df12cd00ddc9a28891",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/hypertext-transclusion-nelson-1965.github.svg",
+          "display_sha256": "9088ee7ce48e697becfeed42f443ea192ff4a4a5fc3e855c10e2faab29ce2a8f",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": [
+        {
+          "scope": "related-node-link-label",
+          "original_separator": "U+2014",
+          "replacement_separator": "U+00B7",
+          "label": "对照 ▸Zettelkasten · Luhmann 1981"
+        },
+        {
+          "scope": "related-node-link-label",
+          "original_separator": "U+2014",
+          "replacement_separator": "U+00B7",
+          "label": "对照 ▸Evergreen Notes · Andy Matuschak"
+        }
+      ]
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/li-dey-forlizzi-2010-personal-informatics",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/li-dey-forlizzi-2010-personal-informatics",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "个人资讯学五阶段",
+      "captured_at": "2026-10-05T03:32:17.384137+08:00",
+      "source_html_sha256": "d009a480a224a194e639c164b7ae5c5dd94fabe7e01e26e0863eb370c7b62051",
+      "file": "zh-Hans/collections/pkm/li-dey-forlizzi-2010-personal-informatics.md",
+      "markdown_sha256": "eaa07fdfc3de3d52baf6587723bf50cfb992d7e2c68406eebf7e9e7b579845b3",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/li-dey-forlizzi-2010-personal-informatics.svg",
+          "sha256": "e11021802801930582cbf78b589108d8542bb6a44bce8de3c3e237810310707f",
+          "source_svg_sha256": "e11021802801930582cbf78b589108d8542bb6a44bce8de3c3e237810310707f",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/li-dey-forlizzi-2010-personal-informatics.github.svg",
+          "display_sha256": "827871e8a1ef31b7c0816d8f3e676cdd83199bb5c5601878d6cefdb1d3093037",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/lyt-nick-milo",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/lyt-nick-milo",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "LYT 与内容地图",
+      "captured_at": "2026-10-05T03:32:17.592842+08:00",
+      "source_html_sha256": "3bf7efb19424f1ee4088ea74f8681b28272f39698052d7fa0e754072eec37245",
+      "file": "zh-Hans/collections/pkm/lyt-nick-milo.md",
+      "markdown_sha256": "62afb5ef16f1a7e57448c893c070810a7236017be39d8fb6430802f6eb13663c",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/lyt-nick-milo.svg",
+          "sha256": "7b36aee6b3b2b985399a3926e6174299fe92ca3a9a6a9d09e882d52a0d9916d8",
+          "source_svg_sha256": "7b36aee6b3b2b985399a3926e6174299fe92ca3a9a6a9d09e882d52a0d9916d8",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/lyt-nick-milo.github.svg",
+          "display_sha256": "fea81e34abbd0324d0fccada7ed281239677d8c54c08a535b554145e1b547d5c",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/memex-bush-1945",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/memex-bush-1945",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "记忆延伸机",
+      "captured_at": "2026-10-05T03:32:17.621500+08:00",
+      "source_html_sha256": "7a04df9403c41a8b41120635c43017bf2b1cff3d49001e09ba87eee2ce31d475",
+      "file": "zh-Hans/collections/pkm/memex-bush-1945.md",
+      "markdown_sha256": "7fde786476cc0164e6246da0a436f5e3e1fddb8f5f2b0a3eed81e82ceb3a0613",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/memex-bush-1945.svg",
+          "sha256": "032f273a5de163fc59721ac3a5f0efdb7e403240ecdf4a02904cb17da0362abd",
+          "source_svg_sha256": "032f273a5de163fc59721ac3a5f0efdb7e403240ecdf4a02904cb17da0362abd",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hans/collections/pkm/assets/memex-bush-1945.github.svg",
+          "display_sha256": "cd301ae6fe87c48c99f7c1cbefc53becd2d7c75e42bd03620c49e8fdd72171ed",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": [
+        {
+          "scope": "related-node-link-label",
+          "original_separator": "U+2014",
+          "replacement_separator": "U+00B7",
+          "label": "应用于 ▸Evergreen Notes · Andy Matuschak"
+        }
+      ]
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/para-tiago-forte-2022",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/para-tiago-forte-2022",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "PARA 组织法",
+      "captured_at": "2026-10-05T03:32:17.676604+08:00",
+      "source_html_sha256": "72a434496dbd9e10afa6e2da80630d785de2c6548d3916dfa7e1326101095533",
+      "file": "zh-Hans/collections/pkm/para-tiago-forte-2022.md",
+      "markdown_sha256": "ae11d9f9316000568733cc4c1b8a7dde94d665879d9c851f3d3c522997a0b45b",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/para-tiago-forte-2022.svg",
+          "sha256": "991d5af80a052ea6a0ee0f58e53b3ef918c7341848fead8773bfdde80c41128f",
+          "source_svg_sha256": "991d5af80a052ea6a0ee0f58e53b3ef918c7341848fead8773bfdde80c41128f",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/para-tiago-forte-2022.github.svg",
+          "display_sha256": "13535bb2eeaf1d994d2320d2d977e6fc907fbf54176a1ae74d391ea1062b939e",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/personal-kanban-benson-barry-2011",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/personal-kanban-benson-barry-2011",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "个人看板",
+      "captured_at": "2026-10-05T03:32:18.260588+08:00",
+      "source_html_sha256": "b2c0c498faffbfdcd065c7080d864e9218da55f98e0fa1da2cc49df845385d92",
+      "file": "zh-Hans/collections/pkm/personal-kanban-benson-barry-2011.md",
+      "markdown_sha256": "b98ac1ecf8ea77c87968fce4a757e2e4a29a1ce74a77b32a0470509ce0dbd6ce",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/personal-kanban-benson-barry-2011.svg",
+          "sha256": "396a159009be682da0cd686f1bf92b32237fe7eb97f5ff07cba9bbf8a7b436aa",
+          "source_svg_sha256": "396a159009be682da0cd686f1bf92b32237fe7eb97f5ff07cba9bbf8a7b436aa",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hans/collections/pkm/assets/personal-kanban-benson-barry-2011.github.svg",
+          "display_sha256": "17537439fda0f299983b6394eec67ba8838f74474007cd548dfbe00f031955a1",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hans/collections/pkm/zettelkasten-luhmann-1981",
+      "canonical": "https://trigpoint.pub/zh-Hans/collections/pkm/zettelkasten-luhmann-1981",
+      "language": "zh-Hans",
+      "kind": "node",
+      "title": "卡片盒笔记法",
+      "captured_at": "2026-10-05T03:32:18.446748+08:00",
+      "source_html_sha256": "d7945e516a87e6487ebb0d1ff5a87cb0854baf7467f70f43b4e65620d668d6c3",
+      "file": "zh-Hans/collections/pkm/zettelkasten-luhmann-1981.md",
+      "markdown_sha256": "d119aa00de71081d5a8bfcd9ffccdfe233091e82cab29a52266b9b42d56101d1",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hans/collections/pkm/assets/zettelkasten-luhmann-1981.svg",
+          "sha256": "935c03493af7d4d4f8641ece8e40f7b64a4fe997c3422dff9b0d174e16d68813",
+          "source_svg_sha256": "935c03493af7d4d4f8641ece8e40f7b64a4fe997c3422dff9b0d174e16d68813",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hans/collections/pkm/assets/zettelkasten-luhmann-1981.github.svg",
+          "display_sha256": "834bb12e7cddab26ab704aa3451fc68aa984031acbf57f6eeffdd53e0e440dd3",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/adaptive-automation",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/adaptive-automation",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "適應性自動化",
+      "captured_at": "2026-10-05T03:32:18.464092+08:00",
+      "source_html_sha256": "baa3a182228f98e8fb3ef58da59d9d537bbbd434ff91d6df919cab0f891142f3",
+      "file": "zh-Hant/collections/hai/adaptive-automation.md",
+      "markdown_sha256": "a858f8265be2a8dd99ba67d9f0317e85137505ebb4bb3b099c9f083f24d6f83a",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/adaptive-automation.svg",
+          "sha256": "e6c0aa6a4b719a235e2e1a49b2e071f3f01e44d32cef7f30c8171b5058cba9f2",
+          "source_svg_sha256": "e6c0aa6a4b719a235e2e1a49b2e071f3f01e44d32cef7f30c8171b5058cba9f2",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hant/collections/hai/assets/adaptive-automation.github.svg",
+          "display_sha256": "7e29bc23c836a5ec1cec8a60b962da89fb85dcd13131ec025c4180f4c31fa28b",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/automation-complacency",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/automation-complacency",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "自動化自滿與偏誤",
+      "captured_at": "2026-10-05T03:32:18.574770+08:00",
+      "source_html_sha256": "92d091efc607b5a7ad221c4e6eb3021dd279c7776aecd4ca1c1838c3bba509c7",
+      "file": "zh-Hant/collections/hai/automation-complacency.md",
+      "markdown_sha256": "9d203dedbd3b1774e28e6e436588dde25203bd52f464acfac34b8ae7f4f59676",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/automation-complacency.svg",
+          "sha256": "7e3ea15b78bec4f4a41a4ca5cb1e1f6064aeb36af011d1029d3c52e9ca83cf4b",
+          "source_svg_sha256": "7e3ea15b78bec4f4a41a4ca5cb1e1f6064aeb36af011d1029d3c52e9ca83cf4b",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hant/collections/hai/assets/automation-complacency.github.svg",
+          "display_sha256": "6f3ef4d4f73f35082565e7d1f0af4a0908f792eac21526981571c111f513b04a",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/fitts-list",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/fitts-list",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "功能分配",
+      "captured_at": "2026-10-05T03:32:19.117940+08:00",
+      "source_html_sha256": "70fc7a91547ab30149f3a3c26eccfe239ea09b4a2ca239df63b5f9ed20184043",
+      "file": "zh-Hant/collections/hai/fitts-list.md",
+      "markdown_sha256": "4b47046138c1516e8fb6de83ca130571c41cab05c68d946daa8ae1b636986653",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/fitts-list.svg",
+          "sha256": "6f68a1480f00e3ae1b1d9c902db959b37f4ae9a78fee26fd3e92bc46b9913d96",
+          "source_svg_sha256": "6f68a1480f00e3ae1b1d9c902db959b37f4ae9a78fee26fd3e92bc46b9913d96",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/hai/assets/fitts-list.github.svg",
+          "display_sha256": "576da6cf7a16a1458a93a5709e45ed6a582c62b86eedd3e5fa80f11bfb4bd7a4",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/ironies-of-automation",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/ironies-of-automation",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "自動化反諷",
+      "captured_at": "2026-10-05T03:32:19.362518+08:00",
+      "source_html_sha256": "4876ac35b19391231e0797818405b7ef0e11d14f725d848e11a63c01be530543",
+      "file": "zh-Hant/collections/hai/ironies-of-automation.md",
+      "markdown_sha256": "626534ffe7043dbc5260ce0978a5dd57b4a6c68e3f5f22b06bcf4ec5c8dd458a",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/ironies-of-automation.svg",
+          "sha256": "4c817a66c923093ae67edec9317cb87d8dbb4a036bfcfbf611c09098ea867a08",
+          "source_svg_sha256": "4c817a66c923093ae67edec9317cb87d8dbb4a036bfcfbf611c09098ea867a08",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hant/collections/hai/assets/ironies-of-automation.github.svg",
+          "display_sha256": "1a859ee55d96a0450d20c19c64d4910b199ecac8d6cb09e4e11cd816592fbbf8",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/levels-of-automation",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/levels-of-automation",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "自動化等級",
+      "captured_at": "2026-10-05T03:32:19.389519+08:00",
+      "source_html_sha256": "9430161501503528b16f96981ec99c07889f0dadaf6e8f4b7f01fb6ac5fd6ee0",
+      "file": "zh-Hant/collections/hai/levels-of-automation.md",
+      "markdown_sha256": "2bdc17c9f5e84b9cd5f7b07de0bf472c6295bb58eb37e786a510a8c08d50bda9",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/levels-of-automation.svg",
+          "sha256": "e66a9c96a4e99e1bac945013d459c92656ad25950a1f1ba89b96ce7dd9d9b162",
+          "source_svg_sha256": "e66a9c96a4e99e1bac945013d459c92656ad25950a1f1ba89b96ce7dd9d9b162",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/hai/assets/levels-of-automation.github.svg",
+          "display_sha256": "d028596281dab98004300c45879dd9014a13f47cb784e57f162675b39eabf824",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/mental-workload-nasa-tlx",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/mental-workload-nasa-tlx",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "心智負荷",
+      "captured_at": "2026-10-05T03:32:19.535922+08:00",
+      "source_html_sha256": "7a000d61308b5dfb3e75e891b960f97da12f9100b763ce05d5c8f73e72f05a7e",
+      "file": "zh-Hant/collections/hai/mental-workload-nasa-tlx.md",
+      "markdown_sha256": "a9d77d3bf9a229f95828305ea28e800e64f6e031023b385aa15a0697aa98a7fa",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/mental-workload-nasa-tlx.svg",
+          "sha256": "2840227910710c24e4933680fe8deedc05e9476d91c61f6e330103019cb5defd",
+          "source_svg_sha256": "2840227910710c24e4933680fe8deedc05e9476d91c61f6e330103019cb5defd",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hant/collections/hai/assets/mental-workload-nasa-tlx.github.svg",
+          "display_sha256": "e160a1beea2bdb1c73672cefaa87e48b1d767540ae11f3c42f09caf5a8ec3ba8",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/out-of-the-loop",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/out-of-the-loop",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "脫離迴路",
+      "captured_at": "2026-10-05T03:32:19.991305+08:00",
+      "source_html_sha256": "7c6a5e1c6aec4e5565dc5c6aabce398c1be608acbf450a0e9ae213907ede6c40",
+      "file": "zh-Hant/collections/hai/out-of-the-loop.md",
+      "markdown_sha256": "ae713bb9d1d7d928ad6e1bf13ec4709721ae3bf253bccea774af895f2097b161",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/out-of-the-loop.svg",
+          "sha256": "cd295b3972aae862e98d7c0414bc76a1f5b1294ea3b7a737e6cb0dfc916d2969",
+          "source_svg_sha256": "cd295b3972aae862e98d7c0414bc76a1f5b1294ea3b7a737e6cb0dfc916d2969",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/hai/assets/out-of-the-loop.github.svg",
+          "display_sha256": "1924c180be4eebf0e0328e624031abef3b367e367b038c1af7960a257e1fd5a8",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/situation-awareness",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/situation-awareness",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "情境覺知",
+      "captured_at": "2026-10-05T03:32:20.225692+08:00",
+      "source_html_sha256": "0fe304023a79b93a7c560cf19328687d11d68f8c70a7cb47bdfca1e7703e5fe2",
+      "file": "zh-Hant/collections/hai/situation-awareness.md",
+      "markdown_sha256": "c0382440d60bc882d4951991200868bdde0a55820e905207a0f4d10818aae605",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/situation-awareness.svg",
+          "sha256": "3a39384a6981be5bdcdc7aeb22eb46392adfa7d987ec05415d1ee0bc9dc0c211",
+          "source_svg_sha256": "3a39384a6981be5bdcdc7aeb22eb46392adfa7d987ec05415d1ee0bc9dc0c211",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/hai/assets/situation-awareness.github.svg",
+          "display_sha256": "2bc5afed7b88a9517cefe821836d0b119b8757165408c746f78cdade611a9502",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/trust-in-automation",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/trust-in-automation",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "自動化信任",
+      "captured_at": "2026-10-05T03:32:20.281743+08:00",
+      "source_html_sha256": "3edd06c3d8b8a07c4e73b11fd7522ab84ac48ba6a7dd06e6e0f06dc41935fd13",
+      "file": "zh-Hant/collections/hai/trust-in-automation.md",
+      "markdown_sha256": "a1e4be2ee0cc6e7284d4db3d2571df7784e72ecb42af9e5f08a9a3176a1315a2",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/trust-in-automation.svg",
+          "sha256": "a3906a04534c97f31bb5c018abae0c91f175b9de0051314c7efcfb04bcb40013",
+          "source_svg_sha256": "a3906a04534c97f31bb5c018abae0c91f175b9de0051314c7efcfb04bcb40013",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hant/collections/hai/assets/trust-in-automation.github.svg",
+          "display_sha256": "248eca55a62d766e543bd91bced630bc2e7114cbec2a3800490e31b9fa267713",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/use-misuse-disuse-abuse",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/use-misuse-disuse-abuse",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "使用、誤用、棄用、濫用",
+      "captured_at": "2026-10-05T03:32:20.462685+08:00",
+      "source_html_sha256": "950169fd28cf87b594b4ac17f3f8a02f0bf6dc77ad54075fe66e9b66d844c877",
+      "file": "zh-Hant/collections/hai/use-misuse-disuse-abuse.md",
+      "markdown_sha256": "17ab6c8641fc48ac5b1acfe79472136452034b3f22b24527ec0c888dd651a330",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/use-misuse-disuse-abuse.svg",
+          "sha256": "b8a020d617a7c0b290abcbd160e5991245bf2da5b4851494d85c7579123d569e",
+          "source_svg_sha256": "b8a020d617a7c0b290abcbd160e5991245bf2da5b4851494d85c7579123d569e",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hant/collections/hai/assets/use-misuse-disuse-abuse.github.svg",
+          "display_sha256": "933698b093b3484c26689982a2db50865b8988ef09c7562d00d998474eba9810",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/hai/vigilance-decrement",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/hai/vigilance-decrement",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "警覺遞減",
+      "captured_at": "2026-10-05T03:32:20.849834+08:00",
+      "source_html_sha256": "d1b7bb483d77eabab80fde7777e22a9de3d60a52164deb81465426ebf62773da",
+      "file": "zh-Hant/collections/hai/vigilance-decrement.md",
+      "markdown_sha256": "4a4d66bcc4365e5aee7e24dcbbc46421e41a6c8efd667e2b2e693096a8e9e584",
+      "source_revision": "2026-09-28",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/hai/assets/vigilance-decrement.svg",
+          "sha256": "1efdefd3a9bc0f63a537dbc9c89d611e08ebdafc8be65285b12a3f311ae395d8",
+          "source_svg_sha256": "1efdefd3a9bc0f63a537dbc9c89d611e08ebdafc8be65285b12a3f311ae395d8",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/hai/assets/vigilance-decrement.github.svg",
+          "display_sha256": "2cf1e071cd19e1aead44ea330d1aa5477522626d2b9877f70ae62f85b09ff7b5",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/bergman-whittaker-2016-pim",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/bergman-whittaker-2016-pim",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "個人資訊管理",
+      "captured_at": "2026-10-05T03:32:21.092946+08:00",
+      "source_html_sha256": "2ad145c4d241fd7e295a8d95089c2c2aff1aa0c875d9e524f0e40ae954acb832",
+      "file": "zh-Hant/collections/pkm/bergman-whittaker-2016-pim.md",
+      "markdown_sha256": "a92c51cdf29cdc6f523443aa38f3a768da2e7c6ba8c1e97232ede78aaf46f83c",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/bergman-whittaker-2016-pim.svg",
+          "sha256": "d25df239e01d98cb96912dea9f5bd8b7fa1236325c4af782b12f8cfa193c68f4",
+          "source_svg_sha256": "d25df239e01d98cb96912dea9f5bd8b7fa1236325c4af782b12f8cfa193c68f4",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/bergman-whittaker-2016-pim.github.svg",
+          "display_sha256": "c789f25aa2460b44c151f6cf2358531d53c16fcd0a81f816f8eee066a2bea745",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/code-tiago-forte-2022",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/code-tiago-forte-2022",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "CODE 四步法",
+      "captured_at": "2026-10-05T03:32:21.173668+08:00",
+      "source_html_sha256": "f69e85476a645e877011a6dfa4f0cba211ed82bdafcb58627a0b23544cf08d68",
+      "file": "zh-Hant/collections/pkm/code-tiago-forte-2022.md",
+      "markdown_sha256": "b494a2598f2b7c3b4fa9a9882f6ab68486bcfb041a8f244f670a8b0283525b05",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/code-tiago-forte-2022.svg",
+          "sha256": "ef96a502bfacd879d7cebcd8b4266f36e673da6c5d659d7385274f735a22fedf",
+          "source_svg_sha256": "ef96a502bfacd879d7cebcd8b4266f36e673da6c5d659d7385274f735a22fedf",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/code-tiago-forte-2022.github.svg",
+          "display_sha256": "d90c104c446b6f779c2219d53575938c6cd563f8308ae44a471263e7fbbb3a33",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/cornell-note-taking-pauk-1962",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/cornell-note-taking-pauk-1962",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "康乃爾筆記法",
+      "captured_at": "2026-10-05T03:32:21.331302+08:00",
+      "source_html_sha256": "38145813d9592c17123f5c76d9e6db94af97b4aacb7d16a05ad86869719f1018",
+      "file": "zh-Hant/collections/pkm/cornell-note-taking-pauk-1962.md",
+      "markdown_sha256": "3ca1c8e5551eec1cb114587d031c67abdb87910c0692c548bfa46d1147200249",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/cornell-note-taking-pauk-1962.svg",
+          "sha256": "f2ea148494b2942b52d2276224c20ce7518c2c65d826b6578966c4d57894c86a",
+          "source_svg_sha256": "f2ea148494b2942b52d2276224c20ce7518c2c65d826b6578966c4d57894c86a",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/cornell-note-taking-pauk-1962.github.svg",
+          "display_sha256": "57da12b2a77a75cec9198b97966aa4fc47f426e5838e92179d188fd5fcd91325",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/diataxis-procida",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/diataxis-procida",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "Diátaxis 文件四型",
+      "captured_at": "2026-10-05T03:32:21.724558+08:00",
+      "source_html_sha256": "84cc7e6b1489d425d9a1771feae5bdc5d1689780b4355f97baf5369e0d9a3cef",
+      "file": "zh-Hant/collections/pkm/diataxis-procida.md",
+      "markdown_sha256": "4896c1bfb0f687e2541d0cf74059e73fd1ac8ff4c5864f280b2c0d7cab94428a",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/diataxis-procida.svg",
+          "sha256": "8918d8f0826a4b15eec376c77f74afc24c32b60b14542bf23f40e2229b681641",
+          "source_svg_sha256": "8918d8f0826a4b15eec376c77f74afc24c32b60b14542bf23f40e2229b681641",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/diataxis-procida.github.svg",
+          "display_sha256": "e04cbfc61f0343029b4f7af6678ddf1972ef03e71de2c6f9e3e844300d6c2a83",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/evergreen-notes-matuschak",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/evergreen-notes-matuschak",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "常青筆記",
+      "captured_at": "2026-10-05T03:32:21.965227+08:00",
+      "source_html_sha256": "46188980be6691f8f3547c96c021eafebd560ebe644d25fc87c13959e527dbef",
+      "file": "zh-Hant/collections/pkm/evergreen-notes-matuschak.md",
+      "markdown_sha256": "9be74089ce3a46cc7f23208e639cf781543290deab2e1accaece9d9050b7be27",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/evergreen-notes-matuschak.svg",
+          "sha256": "c82374b401a8e4424d9c0439d520a294073ecbed6f58cd8a3a676cfdfa624879",
+          "source_svg_sha256": "c82374b401a8e4424d9c0439d520a294073ecbed6f58cd8a3a676cfdfa624879",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/evergreen-notes-matuschak.github.svg",
+          "display_sha256": "d17885f8d79ed09bb3e4c3cc5f4ffae724b6bd61d57ae2c2ab32f571b136e590",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/hypertext-transclusion-nelson-1965",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/hypertext-transclusion-nelson-1965",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "超文本與跨包含",
+      "captured_at": "2026-10-05T03:32:22.057783+08:00",
+      "source_html_sha256": "297a342cbabb9655ffeb8bd42e49d6b7fe358d344b512788115decac87542109",
+      "file": "zh-Hant/collections/pkm/hypertext-transclusion-nelson-1965.md",
+      "markdown_sha256": "4d57383db4f217348d2e7842b6c4593e593a986fdac461cd6eac238687084cb3",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/hypertext-transclusion-nelson-1965.svg",
+          "sha256": "b420bc46ed8940d57060db065fcbc076e97f4577076baa2acc1665b63b46fe79",
+          "source_svg_sha256": "b420bc46ed8940d57060db065fcbc076e97f4577076baa2acc1665b63b46fe79",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/hypertext-transclusion-nelson-1965.github.svg",
+          "display_sha256": "31c44337a323c132a4cf372a13ec20aa74e6b83b69cb50ffd7a4568fe91b0c19",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": [
+        {
+          "scope": "related-node-link-label",
+          "original_separator": "U+2014",
+          "replacement_separator": "U+00B7",
+          "label": "對照 ▸Zettelkasten · Luhmann 1981"
+        },
+        {
+          "scope": "related-node-link-label",
+          "original_separator": "U+2014",
+          "replacement_separator": "U+00B7",
+          "label": "對照 ▸Evergreen Notes · Andy Matuschak"
+        }
+      ]
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/li-dey-forlizzi-2010-personal-informatics",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/li-dey-forlizzi-2010-personal-informatics",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "個人資訊學五階段",
+      "captured_at": "2026-10-05T03:32:22.219921+08:00",
+      "source_html_sha256": "f7051edd8f1abbb414bcbf8a69694d78cf754fe0e5eb48603e6b815f2e24cd9a",
+      "file": "zh-Hant/collections/pkm/li-dey-forlizzi-2010-personal-informatics.md",
+      "markdown_sha256": "80acdfbfcff05a4eace8eee80ea484f03f7880de0f85f306fd32dff46e8c61fc",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/li-dey-forlizzi-2010-personal-informatics.svg",
+          "sha256": "54bd638895f158803d1c7584ceea4430e06100ae568ab2b18b8537ef3bb0e58f",
+          "source_svg_sha256": "54bd638895f158803d1c7584ceea4430e06100ae568ab2b18b8537ef3bb0e58f",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/li-dey-forlizzi-2010-personal-informatics.github.svg",
+          "display_sha256": "cfda28eb842f90b9c90c374a8ab5b05ec92d63eb278c1eb1146d5c2f1643041b",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/lyt-nick-milo",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/lyt-nick-milo",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "LYT 與內容地圖",
+      "captured_at": "2026-10-05T03:32:22.579865+08:00",
+      "source_html_sha256": "eda9f4b4d16956b351d2a9e2532ceb87184acc8d2e54ce1b2bae066f726e33d0",
+      "file": "zh-Hant/collections/pkm/lyt-nick-milo.md",
+      "markdown_sha256": "c284e051acea831ff97f85ed9b2a388983de02107f41342a3cdad06526178bd7",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/lyt-nick-milo.svg",
+          "sha256": "938a1bac444f2ee0349ab56fc24d28b6d1d15ac31b689df24ee99a0046b01e49",
+          "source_svg_sha256": "938a1bac444f2ee0349ab56fc24d28b6d1d15ac31b689df24ee99a0046b01e49",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/lyt-nick-milo.github.svg",
+          "display_sha256": "80c51fdb6095569117242858578600f4985cba9c017bc086417d33306f28d72e",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/memex-bush-1945",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/memex-bush-1945",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "記憶延伸機",
+      "captured_at": "2026-10-05T03:32:22.809222+08:00",
+      "source_html_sha256": "f68d8f0da0f82d01ef1b662827925f46c6ea9b817b1d9173f277d085b165c3c3",
+      "file": "zh-Hant/collections/pkm/memex-bush-1945.md",
+      "markdown_sha256": "49ebf657a37e697eaf9af13c40d408f32584e6d75b9eefddedf51bd57d9c259e",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/memex-bush-1945.svg",
+          "sha256": "f33a83844240f66476828be4d60b49baf1f52efd9dec911f7a200795ffbb6c65",
+          "source_svg_sha256": "f33a83844240f66476828be4d60b49baf1f52efd9dec911f7a200795ffbb6c65",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hant/collections/pkm/assets/memex-bush-1945.github.svg",
+          "display_sha256": "daff421bf79cc418b9c0cf742a14735cf6d54272ae24cb1483666c932a05864e",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": [
+        {
+          "scope": "related-node-link-label",
+          "original_separator": "U+2014",
+          "replacement_separator": "U+00B7",
+          "label": "應用於 ▸Evergreen Notes · Andy Matuschak"
+        }
+      ]
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/para-tiago-forte-2022",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/para-tiago-forte-2022",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "PARA 組織法",
+      "captured_at": "2026-10-05T03:32:22.911101+08:00",
+      "source_html_sha256": "4a5bc9f8e6c94da61878281b313ba5608f6f81dc0dcecafd889659c209857a82",
+      "file": "zh-Hant/collections/pkm/para-tiago-forte-2022.md",
+      "markdown_sha256": "999b24251aa448af165fff14a5ce976213e7143e54d004a1394d4c20ac67ae25",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/para-tiago-forte-2022.svg",
+          "sha256": "4b97037247abf169e614c2467cbbf8f0f442d60e73e82968efd32dc9cf4210d8",
+          "source_svg_sha256": "4b97037247abf169e614c2467cbbf8f0f442d60e73e82968efd32dc9cf4210d8",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/para-tiago-forte-2022.github.svg",
+          "display_sha256": "8efce1d9edb5cc7a72350f95e984e8cb4a3257abeba721b68b91f66005314553",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/personal-kanban-benson-barry-2011",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/personal-kanban-benson-barry-2011",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "個人看板",
+      "captured_at": "2026-10-05T03:32:23.088546+08:00",
+      "source_html_sha256": "0603db73d41c8f3221d35bb0a9355e2d770aac8eeee5839b8e24cd12a22f1914",
+      "file": "zh-Hant/collections/pkm/personal-kanban-benson-barry-2011.md",
+      "markdown_sha256": "b8b37abf2ef3714ed6d8eade51dd4961f35e533db7aad26fe612786eb823aaaa",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/personal-kanban-benson-barry-2011.svg",
+          "sha256": "6bd8516b8f4511068a1b5845e54fb75fd59351630f500e3e822383485bb9e663",
+          "source_svg_sha256": "6bd8516b8f4511068a1b5845e54fb75fd59351630f500e3e822383485bb9e663",
+          "viewBox": "0 0 720 400",
+          "display_file": "zh-Hant/collections/pkm/assets/personal-kanban-benson-barry-2011.github.svg",
+          "display_sha256": "562a808cf2ca16ed96e26224c8e90bbc63e6574e47e343b406a094e42771f89a",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    },
+    {
+      "url": "https://trigpoint.pub/zh-Hant/collections/pkm/zettelkasten-luhmann-1981",
+      "canonical": "https://trigpoint.pub/zh-Hant/collections/pkm/zettelkasten-luhmann-1981",
+      "language": "zh-Hant",
+      "kind": "node",
+      "title": "卡片盒筆記法",
+      "captured_at": "2026-10-05T03:32:23.475330+08:00",
+      "source_html_sha256": "1092177a74c770d89835d611a0121176c39f8e9f143a782f78c2b3360c9c055b",
+      "file": "zh-Hant/collections/pkm/zettelkasten-luhmann-1981.md",
+      "markdown_sha256": "9b5bba4b5682ba5a6bf93b8dce06a2e1f81c94ef8feaf77568d2a4206c5dfc40",
+      "source_revision": "2026-10-01",
+      "assets": [
+        {
+          "file": "zh-Hant/collections/pkm/assets/zettelkasten-luhmann-1981.svg",
+          "sha256": "883b6def0962bbca3ddd073ee91598cdd0202f484321891ae094e4fa4bcbbcac",
+          "source_svg_sha256": "883b6def0962bbca3ddd073ee91598cdd0202f484321891ae094e4fa4bcbbcac",
+          "viewBox": "0 0 720 440",
+          "display_file": "zh-Hant/collections/pkm/assets/zettelkasten-luhmann-1981.github.svg",
+          "display_sha256": "ee93f8fddc040d9e860dcf8c02b3e486ae8b9d3e6752967cc248efa86c0415f9",
+          "display_change": "White background rectangle only; source graphic unchanged."
+        }
+      ],
+      "format_changes": []
+    }
+  ]
+}

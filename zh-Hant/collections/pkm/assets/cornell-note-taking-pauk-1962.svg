@@ -1,0 +1,32 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="康乃爾筆記法三區版面：右欄上課即時記，左窄欄課後抽問題，底帶總結；配合五步課後複習迴圈">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">一頁三區，捕捉與加工分離</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Pauk (1962)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="80" y="66" width="330" height="250" rx="4" fill="#ffffff" stroke="#adb5bd" stroke-width="1.2"/>
+        <line x1="185" y1="66" x2="185" y2="256" stroke="#adb5bd" stroke-width="1"/>
+        <line x1="80" y1="256" x2="410" y2="256" stroke="#adb5bd" stroke-width="1"/>
+        <text x="132" y="96" text-anchor="middle" fill="#212529" font-weight="600" font-size="11.5">cue 線索欄</text>
+        <text x="132" y="116" text-anchor="middle" fill="#495057" font-size="11">課後才填：</text>
+        <text x="132" y="133" text-anchor="middle" fill="#495057" font-size="11">問題／關鍵詞</text>
+        <text x="132" y="153" text-anchor="middle" fill="#8a5a00" font-size="11">自測觸發器</text>
+        <text x="297" y="96" text-anchor="middle" fill="#212529" font-weight="600" font-size="11.5">notes 筆記欄</text>
+        <text x="297" y="116" text-anchor="middle" fill="#495057" font-size="11">上課即時記：要點／例子</text>
+        <text x="297" y="133" text-anchor="middle" fill="#495057" font-size="11">不求工整，只做捕捉</text>
+        <text x="245" y="285" fill="#212529" font-weight="600" font-size="11.5" text-anchor="middle">summary 總結帶：用自己的話濃縮整頁</text>
+        <g font-size="11.5">
+          <text x="470" y="86" fill="#868e96">五步課後迴圈（引擎在此）</text>
+          <text x="470" y="112" fill="#212529">1 Record　課堂即時記</text>
+          <text x="470" y="136" fill="#212529">2 Questions　課後盡快抽問題</text>
+          <text x="470" y="160" fill="#212529">3 Recite　遮右欄，自問自答</text>
+          <text x="470" y="184" fill="#212529">4 Reflect　接上既有知識</text>
+          <text x="470" y="208" fill="#212529">5 Review　每週短時複習</text>
+          <path d="M 668 108 C 690 140, 690 176, 668 204" fill="none" stroke="#f59e0b" stroke-width="1.4" stroke-dasharray="5 4"/>
+          <text x="470" y="240" fill="#8a5a00" font-size="11">只畫三欄不跑迴圈 =</text>
+          <text x="470" y="257" fill="#8a5a00" font-size="11">退化成普通筆記</text>
+        </g>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">版面是腳手架，效益來自主動回憶與間隔複習；欄寬比例為示意（示意重繪）。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">圖：trigpoint.pub</text>
+      </g>
+    </svg>

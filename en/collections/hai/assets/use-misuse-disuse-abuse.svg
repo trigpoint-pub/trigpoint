@@ -1,0 +1,29 @@
+<svg viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Reliance-calibration quadrants: human trust against true system reliability; too much trust is misuse, too little is disuse; abuse is a design-side dimension">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The reliance-calibration quadrants</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Parasuraman &amp; Riley (1997)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <text x="150" y="80" fill="#495057" font-size="11.5">Trust</text>
+        <text x="178" y="98" text-anchor="end" fill="#868e96" font-size="11.5">High</text>
+        <text x="178" y="300" text-anchor="end" fill="#868e96" font-size="11.5">Low</text>
+        <rect x="200" y="66" width="220" height="120" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="310" y="118" text-anchor="middle" fill="#8a5a00" font-weight="600">Misuse</text>
+        <text x="310" y="140" text-anchor="middle" fill="#8a5a00" font-size="11.5">overtrust: relied on even when broken</text>
+        <rect x="420" y="66" width="220" height="120" fill="#f2f8f4" stroke="#b7d5c4"/>
+        <text x="530" y="118" text-anchor="middle" fill="#1d5c3d" font-weight="600">Appropriate use</text>
+        <text x="530" y="140" text-anchor="middle" fill="#1d5c3d" font-size="11.5">trust tracks reliability</text>
+        <rect x="200" y="186" width="220" height="120" fill="#f2f8f4" stroke="#b7d5c4"/>
+        <text x="310" y="238" text-anchor="middle" fill="#1d5c3d" font-weight="600">Appropriate rejection</text>
+        <text x="310" y="260" text-anchor="middle" fill="#1d5c3d" font-size="11.5">the unreliable earns no reliance</text>
+        <rect x="420" y="186" width="220" height="120" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="530" y="238" text-anchor="middle" fill="#8a5a00" font-weight="600">Disuse</text>
+        <text x="530" y="260" text-anchor="middle" fill="#8a5a00" font-size="11.5">undertrust: often fed by false alarms</text>
+        <text x="220" y="326" fill="#868e96" font-size="11.5">Low</text>
+        <text x="620" y="326" text-anchor="end" fill="#868e96" font-size="11.5">High</text>
+        <text x="420" y="326" text-anchor="middle" fill="#495057" font-size="11.5">True system reliability</text>
+        <rect x="200" y="346" width="440" height="40" rx="4" fill="#fbfaf8" stroke="#ecd3a8" stroke-dasharray="5 4"/>
+        <text x="420" y="371" text-anchor="middle" fill="#8a5a00" font-size="11.5">Abuse: design-side, off this plane, yet it creates the mismatches on it</text>
+        <text x="24" y="410" font-size="11.5" fill="#868e96">Redrawn sketch of the framework logic: misuse and disuse have independent causes, not two ends of one knob.</text>
+        <text x="696" y="430" text-anchor="end" font-size="10.5" fill="#c9ccd2">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

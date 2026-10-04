@@ -1,0 +1,28 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="1951 年 Fitts 對照清單結構示意：人擅長與機器擅長兩欄，下方為 2002 年替換神話批判">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">1951 年對照清單，與它的盲點</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Fitts (1951) · Dekker &amp; Woods (2002)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="40" y="60" width="310" height="176" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="60" y="86" fill="#212529" font-weight="600">人擅長（1951 年的判斷）</text>
+        <line x1="60" y1="96" x2="330" y2="96" stroke="#eceff1" stroke-width="1"/>
+        <text x="60" y="122" fill="#495057">· 感知複雜模式</text>
+        <text x="60" y="148" fill="#495057">· 即興判斷、靈活應變</text>
+        <text x="60" y="174" fill="#495057">· 歸納推理</text>
+        <text x="60" y="200" fill="#495057">· 經驗與長期記憶</text>
+        <rect x="370" y="60" width="310" height="176" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="390" y="86" fill="#212529" font-weight="600">當年的機器擅長</text>
+        <line x1="390" y1="96" x2="660" y2="96" stroke="#eceff1" stroke-width="1"/>
+        <text x="390" y="122" fill="#495057">· 高速重複運算</text>
+        <text x="390" y="148" fill="#495057">· 精準出力</text>
+        <text x="390" y="174" fill="#495057">· 同時處理多工</text>
+        <text x="390" y="200" fill="#495057">· 短期儲存</text>
+        <text x="360" y="258" text-anchor="middle" fill="#495057">分派規則：逐項比對，強者得之（靜態二分）</text>
+        <rect x="40" y="274" width="640" height="60" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="298" text-anchor="middle" fill="#8a5a00" font-weight="600">Dekker 與 Woods（2002）的批判：分工並非零和搬移</text>
+        <text x="360" y="318" text-anchor="middle" fill="#8a5a00">自動化會質變留給人的工作；換清單醫不好框架的病</text>
+        <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="370" font-size="11.5" fill="#868e96">清單條目為代表項轉述，非逐條引錄（原報告一手全文取得受阻）。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">圖：trigpoint.pub</text>
+      </g>
+    </svg>

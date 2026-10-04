@@ -1,0 +1,37 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="常青笔记三条纪律机制流：一节点一概念、按概念组织、密集连结，笔记随回访迭代长青；判准是可引用可重用而非长度">
+      <defs>
+        <marker id="arr-ev" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#46608c"/></marker>
+        <marker id="arr-ev-a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#f59e0b"/></marker>
+      </defs>
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">常青：熟成，不是一次写好</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Matuschak</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="80" y="62" width="260" height="40" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="80" text-anchor="middle" fill="#212529" font-weight="600">原子</text>
+        <text x="210" y="96" text-anchor="middle" fill="#495057" font-size="11.5">一节点一概念：引用有精确目标</text>
+        <line x1="210" y1="102" x2="210" y2="120" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-ev)"/>
+        <rect x="80" y="124" width="260" height="40" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="142" text-anchor="middle" fill="#212529" font-weight="600">按概念组织</text>
+        <text x="210" y="158" text-anchor="middle" fill="#495057" font-size="11.5">同一主题可拆多节点：概念才是重用单位</text>
+        <line x1="210" y1="164" x2="210" y2="182" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-ev)"/>
+        <rect x="80" y="186" width="260" height="40" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="204" text-anchor="middle" fill="#212529" font-weight="600">密集连结</text>
+        <text x="210" y="220" text-anchor="middle" fill="#495057" font-size="11.5">连结是一等公民，不是装饰</text>
+        <line x1="210" y1="226" x2="210" y2="244" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-ev)"/>
+        <rect x="80" y="248" width="260" height="48" rx="4" fill="#fbfaf8" stroke="#dee2e6"/>
+        <text x="210" y="269" text-anchor="middle" fill="#212529" font-weight="600">跨时迭代</text>
+        <text x="210" y="287" text-anchor="middle" fill="#212529">回访令笔记长青，不是重写</text>
+        <rect x="420" y="230" width="260" height="66" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="550" y="254" text-anchor="middle" fill="#8a5a00">判准是两个问题，不是长度：</text>
+        <text x="550" y="272" text-anchor="middle" fill="#8a5a00" font-size="11.5">能否被单独连结而不失义？</text>
+        <text x="550" y="289" text-anchor="middle" fill="#8a5a00" font-size="11.5">半年后另一个项目还用得上吗？</text>
+        <path d="M 340 272 C 370 272, 385 268, 414 264" fill="none" stroke="#f59e0b" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#arr-ev-a)"/>
+        <text x="420" y="96" fill="#868e96" font-size="11.5">三条纪律 = 原站逐字标题；</text>
+        <text x="420" y="114" fill="#868e96" font-size="11.5">坊间流传的第四条「context-free」</text>
+        <text x="420" y="132" fill="#868e96" font-size="11.5">原站不存在（衍生精神被误当原则）。</text>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">individual practitioner 内容：语料为公开工作笔记，无书无论文（示意重绘）。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">图：trigpoint.pub</text>
+      </g>
+    </svg>

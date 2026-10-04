@@ -1,0 +1,33 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MOC 機制流：筆記爆量後資料夾單一歸屬接不住跨域檢索，MOC 以節點引用節點作導航中樞，資料夾管擁有權而地圖管導航">
+      <defs>
+        <marker id="arr-ly" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#46608c"/></marker>
+        <marker id="arr-ly-a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#f59e0b"/></marker>
+      </defs>
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">資料夾管擁有權，地圖管導航</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Milo (2020)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="80" y="60" width="260" height="34" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="82" text-anchor="middle" fill="#212529">筆記爆量：檢索問題浮現</text>
+        <line x1="210" y1="94" x2="210" y2="112" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-ly)"/>
+        <rect x="80" y="116" width="260" height="40" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="134" text-anchor="middle" fill="#212529">資料夾：每件事只有一個家</text>
+        <text x="210" y="150" text-anchor="middle" fill="#495057" font-size="11.5">真實問題常橫跨多個分支，接不住</text>
+        <line x1="210" y1="156" x2="210" y2="174" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-ly)"/>
+        <rect x="80" y="178" width="260" height="48" rx="4" fill="#fbfaf8" stroke="#dee2e6"/>
+        <text x="210" y="199" text-anchor="middle" fill="#212529" font-weight="600">MOC：把導航本身寫成筆記</text>
+        <text x="210" y="217" text-anchor="middle" fill="#212529">節點引用節點，附次序與理由</text>
+        <line x1="210" y1="226" x2="210" y2="244" stroke="#46608c" stroke-width="1.5" marker-end="url(#arr-ly)"/>
+        <rect x="80" y="248" width="260" height="40" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="210" y="266" text-anchor="middle" fill="#212529">分工：位置唯一，地圖無限多</text>
+        <text x="210" y="282" text-anchor="middle" fill="#495057" font-size="11.5">擁有權答「誰的」，地圖答「去哪找」</text>
+        <rect x="420" y="188" width="260" height="66" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="550" y="212" text-anchor="middle" fill="#8a5a00">兩個資料夾做不到的性質：</text>
+        <text x="550" y="230" text-anchor="middle" fill="#8a5a00" font-size="11.5">多重成員：同一節點入多張地圖</text>
+        <text x="550" y="247" text-anchor="middle" fill="#8a5a00" font-size="11.5">敘事層：先讀哪個、為何放一起</text>
+        <path d="M 340 208 C 370 208, 385 210, 414 214" fill="none" stroke="#f59e0b" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#arr-ly-a)"/>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">MOC 為 Milo 之命名與普及，樞紐筆記慣例早已存在；individual practitioner 內容（示意重繪）。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">圖：trigpoint.pub</text>
+      </g>
+    </svg>

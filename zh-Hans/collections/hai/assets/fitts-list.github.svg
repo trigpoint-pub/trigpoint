@@ -1,0 +1,30 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="1951 年 Fitts 对照清单结构示意：人擅长与机器擅长两栏，下方为 2002 年替换神话批判">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">1951 年对照清单，与它的盲点</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Fitts (1951) · Dekker &amp; Woods (2002)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="40" y="60" width="310" height="176" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="60" y="86" fill="#212529" font-weight="600">人擅长（1951 年的判断）</text>
+        <line x1="60" y1="96" x2="330" y2="96" stroke="#eceff1" stroke-width="1"/>
+        <text x="60" y="122" fill="#495057">· 感知复杂模式</text>
+        <text x="60" y="148" fill="#495057">· 即兴判断、灵活应变</text>
+        <text x="60" y="174" fill="#495057">· 归纳推理</text>
+        <text x="60" y="200" fill="#495057">· 经验与长期记忆</text>
+        <rect x="370" y="60" width="310" height="176" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="390" y="86" fill="#212529" font-weight="600">当年的机器擅长</text>
+        <line x1="390" y1="96" x2="660" y2="96" stroke="#eceff1" stroke-width="1"/>
+        <text x="390" y="122" fill="#495057">· 高速重复运算</text>
+        <text x="390" y="148" fill="#495057">· 精准出力</text>
+        <text x="390" y="174" fill="#495057">· 同时处理多工</text>
+        <text x="390" y="200" fill="#495057">· 短期储存</text>
+        <text x="360" y="258" text-anchor="middle" fill="#495057">分派规则：逐项比对，强者得之（静态二分）</text>
+        <rect x="40" y="274" width="640" height="60" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="298" text-anchor="middle" fill="#8a5a00" font-weight="600">Dekker 与 Woods（2002）的批判：分工并非零和搬移</text>
+        <text x="360" y="318" text-anchor="middle" fill="#8a5a00">自动化会质变留给人的工作；换清单医不好框架的病</text>
+        <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="370" font-size="11.5" fill="#868e96">清单条目为代表项转述，非逐条引录（原报告一手全文取得受阻）。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">图：trigpoint.pub</text>
+      </g>
+    </svg>

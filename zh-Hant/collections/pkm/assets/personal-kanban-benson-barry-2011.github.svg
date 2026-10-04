@@ -1,0 +1,34 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="個人看板三欄示意：待辦、進行中掛在製品上限、完成；兩條規則為把工作視覺化與限制同時進行的數量">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">三欄，兩條規則</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Benson &amp; Barry (2011)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+        <rect x="80" y="70" width="170" height="220" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="165" y="94" text-anchor="middle" fill="#212529" font-weight="600">待辦</text>
+        <rect x="96" y="110" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="96" y="142" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="96" y="174" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="96" y="206" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="96" y="238" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="165" y="280" text-anchor="middle" fill="#868e96" font-size="11.5">清單只會變長</text>
+        <rect x="275" y="70" width="170" height="220" rx="4" fill="#fdf3e0" stroke="#ecd3a8" stroke-width="1.2"/>
+        <text x="360" y="94" text-anchor="middle" fill="#8a5a00" font-weight="600">進行中</text>
+        <rect x="291" y="110" width="138" height="24" rx="3" fill="#ffffff" stroke="#ecd3a8"/>
+        <rect x="291" y="142" width="138" height="24" rx="3" fill="#ffffff" stroke="#ecd3a8"/>
+        <rect x="291" y="174" width="138" height="24" rx="3" fill="#ffffff" stroke="#ecd3a8"/>
+        <text x="360" y="226" text-anchor="middle" fill="#8a5a00" font-size="11.5">在製品上限（例：3）</text>
+        <text x="360" y="246" text-anchor="middle" fill="#8a5a00" font-size="11.5">新事進來，要有舊事出去</text>
+        <text x="360" y="280" text-anchor="middle" fill="#8a5a00" font-size="11.5">引擎在這一欄</text>
+        <rect x="470" y="70" width="170" height="220" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="555" y="94" text-anchor="middle" fill="#212529" font-weight="600">完成</text>
+        <rect x="486" y="110" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="486" y="142" width="138" height="24" rx="3" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="555" y="280" text-anchor="middle" fill="#868e96" font-size="11.5">流出速度 = 真實產能</text>
+        <text x="80" y="316" fill="#495057" font-size="11.5">規則一：把工作視覺化（看得見的隊列才會被清算）。規則二：限制在製品（把「要專注」變成「欄滿了」）。</text>
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#868e96">上限三件為書中建議起步值，按流速調整，非硬規則（示意重繪，非原書圖版）。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">圖：trigpoint.pub</text>
+      </g>
+    </svg>
