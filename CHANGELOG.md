@@ -1,6 +1,12 @@
 # Capture history
 
-Dates below identify source captures, not GitHub publication dates.
+Source capture dates and GitHub navigation updates are identified separately below.
+
+## 2026-10-11 · GitHub navigation update
+
+Added a three-note starting guide and a subject-first introduction to the root README. Updated the repository description and topics to describe the existing reading material more clearly.
+
+The source capture remains 2026-10-05. No source-derived note, diagram, license, or paid-content boundary changed.
 
 ## 2026-10-05
 
