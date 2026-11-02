@@ -1,0 +1,59 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A ladder showing entropy against the shape of the distribution: concentrated is easy to guess and low entropy, even is hard to guess and high entropy; on the right, entropy as the floor for average lossless code length">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">It measures the shape of the distribution</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="448" height="184" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+    
+        <rect x="72" y="196" width="112" height="26" rx="3" fill="#e9ecef"/>
+        <text x="128" y="214" text-anchor="middle" font-size="11.5" fill="#495057">Almost certain</text>
+        <g>
+          <rect x="84" y="176" width="16" height="14" fill="#495057"/>
+          <rect x="104" y="186" width="16" height="4" fill="#868e96"/>
+          <rect x="124" y="187" width="16" height="3" fill="#868e96"/>
+          <rect x="144" y="188" width="16" height="2" fill="#868e96"/>
+        </g>
+    
+        <rect x="200" y="152" width="112" height="26" rx="3" fill="#e9ecef"/>
+        <text x="256" y="170" text-anchor="middle" font-size="11.5" fill="#495057">Skewed</text>
+        <g>
+          <rect x="212" y="122" width="16" height="24" fill="#495057"/>
+          <rect x="232" y="132" width="16" height="14" fill="#868e96"/>
+          <rect x="252" y="138" width="16" height="8" fill="#868e96"/>
+          <rect x="272" y="141" width="16" height="5" fill="#868e96"/>
+        </g>
+    
+        <rect x="328" y="108" width="112" height="26" rx="3" fill="#fdf3e0"/>
+        <text x="384" y="126" text-anchor="middle" font-size="11.5" fill="#8a5a00">Even</text>
+        <g>
+          <rect x="340" y="82" width="16" height="20" fill="#8a5a00"/>
+          <rect x="360" y="82" width="16" height="20" fill="#8a5a00"/>
+          <rect x="380" y="82" width="16" height="20" fill="#8a5a00"/>
+          <rect x="400" y="82" width="16" height="20" fill="#8a5a00"/>
+        </g>
+    
+        <path d="M60 226 L60 96" stroke="#868e96" stroke-width="1"/>
+        <path d="M60 96 l-4 7 h8 z" fill="#868e96"/>
+        <text x="52" y="150" text-anchor="end" font-size="11" fill="#666d75" transform="rotate(-90 52 150)">Entropy</text>
+    
+        <rect x="504" y="62" width="176" height="184" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="592" y="92" text-anchor="middle" fill="#495057" font-weight="600">The second identity</text>
+        <line x1="524" y1="106" x2="660" y2="106" stroke="#dee2e6" stroke-width="1"/>
+        <text x="592" y="134" text-anchor="middle" font-size="11.5" fill="#495057">average lossless code length</text>
+        <text x="592" y="154" text-anchor="middle" font-size="11.5" fill="#495057">can never fall below entropy</text>
+        <line x1="536" y1="176" x2="648" y2="176" stroke="#8a5a00" stroke-width="2"/>
+        <text x="592" y="196" text-anchor="middle" font-size="11" fill="#8a5a00">the floor is here</text>
+        <text x="592" y="220" text-anchor="middle" font-size="11" fill="#666d75">if it will not compress,</text>
+        <text x="592" y="236" text-anchor="middle" font-size="11" fill="#666d75">it may not be technique</text>
+    
+        <rect x="40" y="260" width="640" height="56" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="282" text-anchor="middle" fill="#8a5a00" font-weight="600">Attribution has three parts; do not merge them</text>
+        <text x="360" y="302" text-anchor="middle" font-size="11.5" fill="#8a5a00">combinatorial form 1877 · modern closed form 1901 · the naming anecdote usually cites a 1971 recollection, denied in 1982</text>
+    
+        <line x1="80" y1="336" x2="640" y2="336" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="356" font-size="11.5" fill="#666d75">The three steps show relative height only: no numerical scale, no units, no coordinates.</text>
+        <text x="80" y="374" font-size="11.5" fill="#666d75">The formal isomorphism is agreed; whether the two are ontologically the same is still argued.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

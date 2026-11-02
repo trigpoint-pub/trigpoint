@@ -4,9 +4,9 @@
 
 [Website](https://trigpoint.pub/) · [前置規則](https://trigpoint.pub/zh-Hant/rules) · [Trigpoint Pass](https://trigpoint.pub/pass)
 
-23 個免費閱讀節點：人機自動化與個人知識管理，附圖解及來源註記，提供繁體中文、English、简体中文。
+52 個免費閱讀節點：人機自動化、個人知識管理、資訊理論、軟體與系統架構，附圖解及來源註記，提供繁體中文、English、简体中文。
 
-23 free reading notes on human–automation interaction and personal knowledge management, with diagrams and references, in three languages.
+52 free reading notes on human–automation interaction, personal knowledge management, information theory, and software and systems architecture, with diagrams and references, in three languages.
 
 Trigpoint 已有免費閱讀內容的 Markdown 鏡像，方便取得、引用及核對版本。正文、圖說、來源註記與圖像取自公開原頁；原站保留最新內容及修正記錄。
 
@@ -43,11 +43,14 @@ Skills are separately released experiments. A method's research basis does not e
 
 ## Read / 閱讀
 
-| Language | Human-Automation Interaction | Personal Knowledge Management | Rules |
-| --- | --- | --- | --- |
-| [繁體中文](zh-Hant/README.md) | [人機自動化 · 11](zh-Hant/collections/hai/README.md) | [個人知識管理 · 12](zh-Hant/collections/pkm/README.md) | [前置規則](zh-Hant/rules.md) |
-| [English](en/README.md) | [HAI · 11](en/collections/hai/README.md) | [PKM · 12](en/collections/pkm/README.md) | [Rules](en/rules.md) |
-| [简体中文](zh-Hans/README.md) | [人机自动化 · 11](zh-Hans/collections/hai/README.md) | [个人知识管理 · 12](zh-Hans/collections/pkm/README.md) | [前置规则](zh-Hans/rules.md) |
+| Shelf / 書架 | 繁體中文 | English | 简体中文 | Nodes |
+| --- | --- | --- | --- | ---: |
+| Human-Automation Interaction | [人機自動化](zh-Hant/collections/hai/README.md) | [HAI](en/collections/hai/README.md) | [人机自动化](zh-Hans/collections/hai/README.md) | 11 |
+| Personal Knowledge Management | [個人知識管理](zh-Hant/collections/pkm/README.md) | [PKM](en/collections/pkm/README.md) | [个人知识管理](zh-Hans/collections/pkm/README.md) | 12 |
+| Information Theory | [資訊理論](zh-Hant/collections/information-theory/README.md) | [Information Theory](en/collections/information-theory/README.md) | [资讯理论](zh-Hans/collections/information-theory/README.md) | 12 |
+| Software & Systems Architecture | [軟體與系統架構](zh-Hant/collections/software-systems-architecture/README.md) | [Software & Systems Architecture](en/collections/software-systems-architecture/README.md) | [软体与系统架构](zh-Hans/collections/software-systems-architecture/README.md) | 17 |
+| Rules / 前置規則 | [前置規則](zh-Hant/rules.md) | [Rules](en/rules.md) | [前置规则](zh-Hans/rules.md) | |
+| Language index / 語言索引 | [繁體中文](zh-Hant/README.md) | [English](en/README.md) | [简体中文](zh-Hans/README.md) | 52 |
 
 ## Use / 使用
 
@@ -62,7 +65,7 @@ Verification sections, Lab cases including public trials, and member early acces
 
 ## Snapshot / 本次整理
 
-Captured: **2026-10-05**, Asia/Taipei. The same 23 nodes appear in three source languages: 69 node files, six shelf pages and three rules pages. Source-language text is preserved; no translation was generated for this mirror.
+Captured: **2026-11-02**, Asia/Taipei. The same 52 nodes appear in three source languages: 156 node files, twelve shelf pages and three rules pages. Source-language text is preserved; no translation was generated for this mirror.
 
 The original inline SVGs are retained unchanged. Display copies add a white background for readability on light and dark interfaces, preserving every source label and shape. Each node also links to its original SVG. Third-party quotations, referenced originals, fonts and photographs are not relicensed by this mirror. See [scope and rights](READING.md#scope-and-rights).
 

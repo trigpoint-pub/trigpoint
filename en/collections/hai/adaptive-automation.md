@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/hai/adaptive-automation  
-Captured: 2026-10-05T03:32:07.518698+08:00
+Captured: 2026-11-02T21:27:11.056778+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 

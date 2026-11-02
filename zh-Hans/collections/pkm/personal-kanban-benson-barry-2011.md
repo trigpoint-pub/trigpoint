@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hans/collections/pkm/personal-kanban-benson-barry-2011  
-Captured: 2026-10-05T03:32:18.260588+08:00
+Captured: 2026-11-02T21:27:35.296152+08:00
 
 > 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 
@@ -23,8 +23,7 @@ to-do list 答「有什么要做」；看板多答两个问题：「现在正做
 
 <strong>图 1</strong> · 三栏看板示意：待办、进行中（挂在制品上限）、完成。  
 两条规则：把工作视觉化、限制同时进行的数量。  
-书中建议个人自上限三件起步，属建议值非硬规则。  
-示意重绘，非原书图版。
+书中建议个人自上限三件起步，属建议值非硬规则。
 
 ## 一、发生什么事
 
@@ -47,7 +46,7 @@ to-do list 与看板的分别，是「清单」与「流量控制」的分别。
 - \[3\] Anderson, D. J. (2010). Kanban: Successful Evolutionary Change for Your Technology Business. Blue Hole Press.
 - \[4\] Womack, J. P., Jones, D. T., & Roos, D. (1990). The Machine That Changed the World. Rawson Associates.
 
-引用格式：Trigpoint，〈个人看板〉，trigpoint.pub/zh-Hans/collections/pkm/personal-kanban-benson-barry-2011 · © Strategitect Limited. · 内容最后修订 2026-10-01
+引用格式：Trigpoint，〈个人看板〉，trigpoint.pub/zh-Hans/collections/pkm/personal-kanban-benson-barry-2011 · © Strategitect Limited. · 内容最后修订 2026-10-11
 
 ## 来源注记
 

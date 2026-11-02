@@ -1,7 +1,7 @@
-Source: https://trigpoint.pub/zh-Hans/rules  
-Captured: 2026-10-05T03:32:06.161886+08:00
+Canonical: https://trigpoint.pub/zh-Hans/rules  
+Captured: 2026-11-02T21:27:10.469708+08:00
 
-> The source page does not declare an HTML canonical URL.
+> 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 
 # 前置规则
 
@@ -61,9 +61,9 @@ Mayo（严格性测试 severe testing）
 
 Popper（错误消除 error elimination）
 
-<strong>修正记录的位置：</strong>每个节点页的修正记录段（有修正才出现）。  
-修正记录向指出错误的读者致谢，但不载姓名或昵称，这是规则五的执行面。  
-你提交的原文与昵称一律不公开，详见私隐政策第 4.1 条。
+<strong>修正记录的位置：</strong>每个节点页的修正记录段（有修正才出现）；各节点的修正亦按日期汇整于[更新与修正](https://trigpoint.pub/zh-Hans/updates)页。  
+修正记录向指出错误的读者致谢，预设写「匿名读者」；已登入读者提交时勾选，才改以公开名称致谢。这是规则五的执行面。  
+你提交的原文与昵称一律不公开，详见私隐政策第 4.1 条，致谢方式见第 4.6 条。
 
 <strong>验证纪录与来源注记怎样读：</strong>节点页的「验证纪录」记录每项主张查了什么、查到哪一层、哪些未查；记录的是核查深度，不担保结论为真。  
 「书目经…核对」指作者、年份、题名与出版项已确认；不代表该来源的主张已被核对。  
@@ -75,7 +75,11 @@ Popper（错误消除 error elimination）
 「验证继承」指核对在本站另一页完成，未在本页重做。  
 定义版本 2026-09-25。
 
-<strong>新书架怎样开放：</strong>新书架分批于月度更新日（每月第一个星期日）开架。月费与年费会员于开架前七日起可读全架；开架当日导读层对所有读者公开，部分节点的完整验证层亦同时公开。
+<strong>刊物版：</strong>本页规则连同人机分工与修正制度，另辑为[《Trigpoint: Ground Rules》，中英双语 PDF，0.6 MB](https://trigpoint.pub/assets/publications/ground-rules/trigpoint-ground-rules.pdf)。
+
+<strong>新书架怎样开放：</strong>新书架分批于月度更新日（每月第一个星期日）开架。月费与年费会员于开架前一个月（上一个月度更新日）起可读全架；开架当日理论层对所有读者公开，部分节点的完整验证层亦同时公开。
+
+[〈方法〉](https://trigpoint.pub/zh-Hans/methods/)收录本站的方法解说页：每页说明一套做法怎样运作、限制在哪，以及执行它的 agent skill。
 
 引用格式：Trigpoint，〈前置规则〉，trigpoint.pub/rules · © Strategitect Limited.
 

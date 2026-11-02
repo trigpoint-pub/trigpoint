@@ -1,0 +1,60 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="讯息由外界到决策的五站流程：感知过滤、压缩表示、记忆存放、重建解码、决策输出，每站皆有容量限制与噪音造成的损失；图上刻意不标任何容量数字">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">每一站都有损失，而没有一站会报错</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Miller (1956) · Bartlett (1932) · Simon (1955)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="88" width="106" height="56" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="93" y="112" text-anchor="middle" font-size="11.5" fill="#495057" font-weight="600">外界</text>
+        <text x="93" y="130" text-anchor="middle" font-size="11" fill="#666d75">全部</text>
+    
+        <path d="M152 116 L174 116" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M174 116 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="180" y="88" width="106" height="56" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="233" y="112" text-anchor="middle" font-size="11.5" fill="#212529" font-weight="600">感知过滤</text>
+        <text x="233" y="130" text-anchor="middle" font-size="11" fill="#666d75">容量先咬一次</text>
+    
+        <path d="M292 116 L314 116" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M314 116 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="320" y="88" width="106" height="56" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="373" y="112" text-anchor="middle" font-size="11.5" fill="#212529" font-weight="600">压缩表示</text>
+        <text x="373" y="130" text-anchor="middle" font-size="11" fill="#666d75">不存原件</text>
+    
+        <path d="M432 116 L454 116" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M454 116 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="460" y="88" width="106" height="56" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="513" y="112" text-anchor="middle" font-size="11.5" fill="#212529" font-weight="600">重建解码</text>
+        <text x="513" y="130" text-anchor="middle" font-size="11" fill="#666d75">回忆即重建</text>
+    
+        <path d="M572 116 L594 116" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M594 116 l-7 -4 v8 z" fill="#8a5a00"/>
+    
+        <rect x="600" y="88" width="80" height="56" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="640" y="112" text-anchor="middle" font-size="11.5" fill="#8a5a00" font-weight="600">决策</text>
+        <text x="640" y="130" text-anchor="middle" font-size="11" fill="#8a5a00">看起来合理</text>
+    
+        <line x1="233" y1="152" x2="233" y2="172" stroke="#8a5a00" stroke-width="1" stroke-dasharray="3 3"/>
+        <line x1="373" y1="152" x2="373" y2="172" stroke="#8a5a00" stroke-width="1" stroke-dasharray="3 3"/>
+        <line x1="513" y1="152" x2="513" y2="172" stroke="#8a5a00" stroke-width="1" stroke-dasharray="3 3"/>
+        <text x="373" y="190" text-anchor="middle" font-size="11" fill="#8a5a00">三站各自丢掉一些，且丢的方向不是随机：往既有框架靠拢</text>
+    
+        <rect x="40" y="210" width="312" height="82" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="196" y="234" text-anchor="middle" fill="#8a5a00" font-weight="600">本图为何没有任何容量数字</text>
+        <text x="196" y="256" text-anchor="middle" font-size="11.5" fill="#8a5a00">那个著名的数字，其提出者本人</text>
+        <text x="196" y="274" text-anchor="middle" font-size="11.5" fill="#8a5a00">也怀疑那些七只是巧合</text>
+    
+        <rect x="368" y="210" width="312" height="82" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="524" y="234" text-anchor="middle" fill="#495057" font-weight="600">争论至今仍活着</text>
+        <text x="524" y="256" text-anchor="middle" font-size="11.5" fill="#495057">控制组块与复诵后，实测值明显更低</text>
+        <text x="524" y="274" text-anchor="middle" font-size="11.5" fill="#495057">在未决的争论上挑一边，同样不诚实</text>
+    
+        <line x1="80" y1="314" x2="640" y2="314" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="334" font-size="11.5" fill="#666d75">流程为概念示意，每站损失只标存在与方向，不标量；全图不含任何容量数值。</text>
+        <text x="80" y="352" font-size="11.5" fill="#666d75">失真有系统性方向，因此不会互相抵销：多人回忆一致不构成独立佐证。</text>
+        <text x="80" y="370" font-size="11.5" fill="#666d75">把心智称为通道是借结构提问，不主张容量定理适用于神经系统。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

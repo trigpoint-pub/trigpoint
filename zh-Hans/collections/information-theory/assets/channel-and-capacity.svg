@@ -1,0 +1,44 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="速率与可靠性取舍示意：容量为一条垂直界线，界线左侧错误可压到任意低，右侧错误不可避免；下方列出容量的三个决定因素与一条常见讹传">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">容量是一条界线，不是一个斜坡</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948, 1949)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="640" height="176" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+    
+        <rect x="84" y="80" width="286" height="130" fill="#f8f9fa"/>
+        <rect x="370" y="80" width="266" height="130" fill="#fdf3e0" opacity="0.55"/>
+    
+        <line x1="84" y1="210" x2="636" y2="210" stroke="#ced4da" stroke-width="1"/>
+        <line x1="84" y1="80" x2="84" y2="210" stroke="#ced4da" stroke-width="1"/>
+    
+        <path d="M96 96 L340 100 Q362 102 370 118" stroke="#495057" stroke-width="2" fill="none"/>
+        <path d="M370 118 Q382 150 404 176 T470 202" stroke="#8a5a00" stroke-width="2" fill="none" stroke-dasharray="5 3"/>
+    
+        <line x1="370" y1="76" x2="370" y2="214" stroke="#8a5a00" stroke-width="1.5"/>
+        <text x="370" y="70" text-anchor="middle" font-size="12" font-weight="600" fill="#8a5a00">容量</text>
+    
+        <text x="226" y="128" text-anchor="middle" font-size="12" fill="#495057" font-weight="600">错误可压到任意低</text>
+        <text x="226" y="146" text-anchor="middle" font-size="11" fill="#666d75">代价是编码与延迟</text>
+        <text x="510" y="128" text-anchor="middle" font-size="12" fill="#8a5a00" font-weight="600">错误不可避免</text>
+        <text x="510" y="146" text-anchor="middle" font-size="11" fill="#8a5a00">再聪明的编码都救不回</text>
+    
+        <text x="70" y="86" text-anchor="end" font-size="11" fill="#666d75">收得准</text>
+        <text x="636" y="228" text-anchor="end" font-size="11" fill="#666d75">传得快、传得多</text>
+    
+        <rect x="40" y="252" width="412" height="64" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="246" y="274" text-anchor="middle" fill="#495057" font-weight="600">容量由三件事共同决定，不可互相取代</text>
+        <text x="246" y="294" text-anchor="middle" font-size="11.5" fill="#495057">频宽 · 噪音 · 编码能力</text>
+        <text x="246" y="310" text-anchor="middle" font-size="11" fill="#666d75">只换更粗的管而不处理噪音，容量不会等比例上升</text>
+    
+        <rect x="464" y="252" width="216" height="64" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="572" y="274" text-anchor="middle" fill="#8a5a00" font-weight="600">一条有来源的讹传</text>
+        <text x="572" y="294" text-anchor="middle" font-size="11" fill="#8a5a00">噪音下的容量不归 1928 那篇</text>
+        <text x="572" y="310" text-anchor="middle" font-size="11" fill="#8a5a00">该篇只给无噪音的状态计数</text>
+    
+        <line x1="80" y1="336" x2="640" y2="336" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="356" font-size="11.5" fill="#666d75">曲线与界线仅示形状与分区，刻意无数值刻度、无单位、无座标值：本页未取得一手量测数据。</text>
+        <text x="80" y="374" font-size="11.5" fill="#666d75">界线是渐近可达的，短讯息与即时场合的实际速率一般低于它。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

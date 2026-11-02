@@ -1,7 +1,7 @@
-Source: https://trigpoint.pub/rules  
-Captured: 2026-10-05T03:32:06.160888+08:00
+Canonical: https://trigpoint.pub/rules  
+Captured: 2026-11-02T21:27:10.102667+08:00
 
-> The source page does not declare an HTML canonical URL.
+> Public theory reading mirror. Verification and Lab case sections remain on the website.
 
 # Ground Rules
 
@@ -49,9 +49,9 @@ Errors are corrected in public. Pages are not edited silently. The correction re
 
 Popper (error elimination)
 
-<strong>Where the correction record lives:</strong> the correction section on each node page, which appears only once there is a correction.  
-The correction record thanks the reader who reported the error without giving a name or nickname. That is rule five in operation.  
-What you submit, and any nickname you give, are never published; see section 4.1 of the privacy policy.
+<strong>Where the correction record lives:</strong> the correction section on each node page, which appears only once there is a correction; corrections from every node are also listed by date on the [Updates and corrections](https://trigpoint.pub/updates) page.  
+The correction record thanks the reader who reported the error. By default the credit reads “an anonymous reader”; a signed-in reader who ticks the box when submitting is credited by their public name instead. That is rule five in operation.  
+What you submit, and any nickname you give, are never published; see section 4.1 of the privacy policy, and section 4.6 for how credit is given.
 
 <strong>How to read the verification record and source notes:</strong> the verification record on a node page records what was checked for each claim, how far each check went, and what was not checked. It records the depth of checking and does not certify that the conclusions are true.  
 “Bibliographic details checked” means author, year, title and venue were confirmed. It does not mean the source's claims were checked.  
@@ -63,7 +63,11 @@ What you submit, and any nickname you give, are never published; see section 4.1
 “Verification inherited” means the check was done on another page of this site and not repeated here.  
 Definition version 2026-09-25.
 
-<strong>How new shelves open:</strong> New shelves open in batches on a monthly update day (the first Sunday of each month). Monthly and annual members can read each new shelf in full from seven days before it opens. On opening day the theory layer opens to all readers, and on some nodes the full verification layer opens too.
+<strong>Booklet:</strong> These rules, together with the division of labour between people and AI and the corrections regime, are also collected in [<em>Trigpoint: Ground Rules</em>, bilingual PDF, 0.6 MB](https://trigpoint.pub/assets/publications/ground-rules/trigpoint-ground-rules.pdf).
+
+<strong>How new shelves open:</strong> New shelves open in batches on a monthly update day (the first Sunday of each month). Monthly and annual members can read each new shelf in full from the previous monthly update day, a month before it opens. On opening day the theory layer opens to all readers, and on some nodes the full verification layer opens too.
+
+[Methods](https://trigpoint.pub/methods/) collects this site's method explainers: each page covers how one procedure works, where its limits are, and the agent skill that runs it.
 
 Cite as: Trigpoint, “Ground Rules”, trigpoint.pub/rules · © Strategitect Limited.
 

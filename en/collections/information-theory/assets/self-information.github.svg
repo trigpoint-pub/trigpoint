@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="How information relates to probability: the lower the probability the more information the event carries, and a certain event carries none; the panel on the right explains why the logarithm is taken">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The less likely it was, the more it says</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948) · Samson (1951)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="404" height="200" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <line x1="88" y1="232" x2="412" y2="232" stroke="#ced4da" stroke-width="1"/>
+        <line x1="88" y1="86" x2="88" y2="232" stroke="#ced4da" stroke-width="1"/>
+    
+        <path d="M100 92 Q140 190 208 216 T400 231" stroke="#495057" stroke-width="2" fill="none"/>
+    
+        <circle cx="400" cy="231" r="4" fill="#8a5a00"/>
+        <text x="392" y="216" text-anchor="end" font-size="11" fill="#8a5a00">certain: no information</text>
+    
+        <circle cx="104" cy="98" r="4" fill="#8a5a00"/>
+        <text x="118" y="100" font-size="11" fill="#8a5a00">almost impossible: most information</text>
+    
+        <text x="88" y="78" font-size="11" fill="#666d75">Information</text>
+        <text x="100" y="252" font-size="11" fill="#666d75">low probability</text>
+        <text x="412" y="252" text-anchor="end" font-size="11" fill="#666d75">high probability</text>
+    
+        <rect x="460" y="62" width="220" height="98" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="570" y="88" text-anchor="middle" fill="#495057" font-weight="600">Why take the logarithm</text>
+        <text x="570" y="112" text-anchor="middle" font-size="11.5" fill="#495057">two independent events multiply</text>
+        <text x="570" y="130" text-anchor="middle" font-size="11.5" fill="#495057">but their information should add</text>
+        <text x="570" y="150" text-anchor="middle" font-size="11" fill="#666d75">the log turns product into sum</text>
+    
+        <rect x="460" y="172" width="220" height="90" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="570" y="198" text-anchor="middle" fill="#8a5a00" font-weight="600">Whose probability is it</text>
+        <text x="570" y="222" text-anchor="middle" font-size="11.5" fill="#8a5a00">the same sentence tells an expert less</text>
+        <text x="570" y="240" text-anchor="middle" font-size="11.5" fill="#8a5a00">and an outsider a great deal</text>
+        <text x="570" y="256" text-anchor="middle" font-size="11" fill="#8a5a00">say whose expectation first</text>
+    
+        <rect x="40" y="278" width="640" height="42" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="304" text-anchor="middle" font-size="11.5" fill="#495057">Quantity: 1948, unnamed · term coined in a 1951 report · popularised 1961 · other name: first use unknown</text>
+    
+        <line x1="80" y1="340" x2="640" y2="340" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">The curve shows shape and direction only: no numerical scale, no units, no coordinates.</text>
+        <text x="80" y="378" font-size="11.5" fill="#666d75">The 1951 report was not read here, so the wording could not be checked; attribution rests on later sources.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

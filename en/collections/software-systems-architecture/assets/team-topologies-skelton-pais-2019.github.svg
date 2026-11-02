@@ -1,0 +1,47 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="On the left four shapes along the axis of division of labour, on the right three modes along the axis of relationship with the expected step down over time, and below the cognitive-load boundary criterion">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Declare the two axes apart; the relationship axis evolves</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Skelton &amp; Pais (2019)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" font-weight="600" fill="#495057">Division of labour: four shapes</text>
+    
+        <rect x="40" y="82" width="290" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="104" font-size="11.5" fill="#495057">aligned directly to one value stream</text>
+        <rect x="40" y="122" width="290" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="144" font-size="11.5" fill="#495057">dedicated to raising others' capability</text>
+        <rect x="40" y="162" width="290" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="184" font-size="11.5" fill="#495057">owning a difficult subsystem</text>
+        <rect x="40" y="202" width="290" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="224" font-size="11.5" fill="#495057">shared capability as a self-service platform</text>
+    
+        <text x="380" y="72" font-size="11.5" font-weight="600" fill="#495057">Relationship: three modes</text>
+    
+        <rect x="380" y="82" width="300" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="396" y="102" font-size="11.5" font-weight="600" fill="#8a5a00">High-frequency joint exploration</text>
+        <text x="396" y="119" font-size="11" fill="#8a5a00">for discovery, when boundaries are unclear</text>
+    
+        <path d="M530 130 L530 148" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M530 148 l-4 -7 h8 z" fill="#8a5a00"/>
+        <text x="542" y="145" font-size="11" fill="#8a5a00">step down once it converges</text>
+    
+        <rect x="380" y="152" width="300" height="44" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="396" y="172" font-size="11.5" font-weight="600" fill="#212529">Offered as a service, consumed self-serve</text>
+        <text x="396" y="189" font-size="11" fill="#495057">fixed as: this input returns that output</text>
+    
+        <rect x="380" y="202" width="300" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="396" y="224" font-size="11.5" fill="#495057">one side helps the other build capability</text>
+    
+        <rect x="40" y="252" width="640" height="46" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="272" text-anchor="middle" fill="#495057" font-weight="600">The boundary criterion: cognitive load</text>
+        <text x="360" y="290" text-anchor="middle" font-size="11.5" fill="#495057">what one team can truly hold has an upper limit; overload is a signal to split, not a matter of willpower</text>
+    
+        <line x1="80" y1="320" x2="640" y2="320" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="338" font-size="11.5" fill="#666d75">The classification is conceptual: no headcounts, timelines or measured numbers.</text>
+        <text x="80" y="356" font-size="11.5" fill="#666d75">A taxonomy is not an algorithm: when to step down is a matter of judgement.</text>
+        <text x="80" y="374" font-size="11.5" fill="#666d75">The collaboration-declaration artefact is introduced or popularised here, not claimed as coined.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

@@ -1,0 +1,43 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="兩軸四象限示意：橫軸為字面是否相同，縱軸為意圖是否相同。原則只治意圖相同的一側；字面相同而意圖不同的那一格是最常見誤用">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">要治的是意圖重複，不是字面重複</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Hunt &amp; Thomas (1999, 2019)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="76" font-size="11.5" fill="#666d75">縱軸：背後的意圖</text>
+        <text x="404" y="76" font-size="11.5" fill="#666d75">橫軸：字面</text>
+    
+        <rect x="152" y="88" width="252" height="98" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="278" y="118" text-anchor="middle" fill="#495057" font-weight="600">同一塊知識，寫法不同</text>
+        <text x="278" y="140" text-anchor="middle" font-size="11.5" fill="#495057">同一條判準散在規格、指示、說明裡</text>
+        <text x="278" y="160" text-anchor="middle" font-size="11.5" fill="#495057">字面看不出重複，改的時候會漏</text>
+        <text x="278" y="178" text-anchor="middle" font-size="11" font-weight="600" fill="#8a5a00">這格才是原則要治的</text>
+    
+        <rect x="410" y="88" width="252" height="98" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="536" y="118" text-anchor="middle" fill="#495057" font-weight="600">同一塊知識，寫法也相同</text>
+        <text x="536" y="140" text-anchor="middle" font-size="11.5" fill="#495057">最容易看見的一種重複</text>
+        <text x="536" y="160" text-anchor="middle" font-size="11.5" fill="#495057">收成一處、他處引用即可</text>
+        <text x="536" y="178" text-anchor="middle" font-size="11" fill="#666d75">處理起來最不費力</text>
+    
+        <rect x="152" y="196" width="252" height="98" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="278" y="226" text-anchor="middle" fill="#495057" font-weight="600">不同的知識，寫法也不同</text>
+        <text x="278" y="248" text-anchor="middle" font-size="11.5" fill="#666d75">兩件事各自獨立</text>
+        <text x="278" y="268" text-anchor="middle" font-size="11.5" fill="#666d75">沒有問題，不需動作</text>
+    
+        <rect x="410" y="196" width="252" height="98" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="536" y="226" text-anchor="middle" fill="#8a5a00" font-weight="600">不同的知識，寫法恰好相同</text>
+        <text x="536" y="248" text-anchor="middle" font-size="11.5" fill="#8a5a00">今天一樣是巧合，明天其中一條要改</text>
+        <text x="536" y="268" text-anchor="middle" font-size="11.5" fill="#8a5a00">合併它們＝把巧合當成結構</text>
+        <text x="536" y="286" text-anchor="middle" font-size="11" font-weight="600" fill="#8a5a00">最常見的誤用落在這格</text>
+    
+        <text x="40" y="130" font-size="11.5" fill="#495057">相同</text>
+        <text x="40" y="238" font-size="11.5" fill="#495057">不同</text>
+        <text x="220" y="312" text-anchor="middle" font-size="11.5" fill="#495057">不同</text>
+        <text x="536" y="312" text-anchor="middle" font-size="11.5" fill="#495057">相同</text>
+    
+        <line x1="80" y1="336" x2="640" y2="336" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="356" font-size="11.5" fill="#666d75">象限為概念示意，不含比例、面積或任何量測數字。</text>
+        <text x="80" y="374" font-size="11.5" fill="#666d75">判斷落哪一格只需一問：這兩處之所以存在，是為了同一個意圖嗎。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

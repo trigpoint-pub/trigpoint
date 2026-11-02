@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Four layers of concept history read from the bottom up, from the integrated warehouse of 1988 to today's literal usage, with the branch between a single version and a single source marked on the right">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The concept predates the name</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Devlin &amp; Murphy (1988) → Loshin (2008)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="404" height="46" rx="4" fill="#ffffff" stroke="#dee2e6" stroke-dasharray="5 3"/>
+        <text x="56" y="80" fill="#212529" font-weight="600">Today's literal usage</text>
+        <text x="56" y="98" font-size="11.5" fill="#8a5a00">no coiner found; marked structurally unattributable</text>
+    
+        <rect x="40" y="118" width="404" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="136" fill="#212529" font-weight="600">The single authoritative master record</text>
+        <text x="56" y="154" font-size="11.5" fill="#666d75">reconciling many sources into one master record　2008</text>
+    
+        <rect x="40" y="174" width="404" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="192" fill="#212529" font-weight="600">The warehouse integration ideal</text>
+        <text x="56" y="210" font-size="11.5" fill="#666d75">“single version”; this site marks Inmon as populariser　1990s</text>
+    
+        <rect x="40" y="230" width="404" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="248" fill="#212529" font-weight="600">Structural ancestor (site label): integrated warehouse</text>
+        <text x="56" y="266" font-size="11.5" fill="#666d75">credited with the business data warehouse　1988</text>
+    
+        <path d="M452 200 L482 200" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M482 200 l-7 -4 v8 z" fill="#8a5a00"/>
+    
+        <rect x="488" y="140" width="192" height="60" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="584" y="162" text-anchor="middle" fill="#8a5a00" font-weight="600">Single version</text>
+        <text x="584" y="180" text-anchor="middle" font-size="11" fill="#8a5a00">concedes other versions exist</text>
+        <text x="584" y="194" text-anchor="middle" font-size="11" fill="#8a5a00">this one is a reconciliation</text>
+    
+        <rect x="488" y="208" width="192" height="60" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="584" y="230" text-anchor="middle" fill="#495057" font-weight="600">Single source</text>
+        <text x="584" y="248" text-anchor="middle" font-size="11" fill="#495057">maintained in exactly one place</text>
+        <text x="584" y="262" text-anchor="middle" font-size="11" fill="#495057">everywhere else references it</text>
+    
+        <text x="584" y="122" text-anchor="middle" font-size="11.5" font-weight="600" fill="#8a5a00">the branch long conflated</text>
+    
+        <rect x="40" y="288" width="640" height="40" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="312" text-anchor="middle" fill="#495057" font-weight="600">Naming a single source moves the fragility: from which copy is right to whether the pointer still is</text>
+    
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#666d75">The layers are a concept history: no proportions or measured numbers; the years are confirmed publication years.</text>
+        <text x="80" y="380" font-size="11.5" fill="#666d75">The top layer is dashed because the coiner search returned unattributable, not because it was skipped.</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

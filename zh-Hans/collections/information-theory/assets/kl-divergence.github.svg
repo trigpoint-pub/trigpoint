@@ -1,0 +1,40 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="方向不对称造成的两种行为对照：一个方向逼模型涵盖所有真实情况因而模糊，另一个方向逼模型锁住单一高峰因而漏失；下方为名称史三段与零机率断言的代价">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">同一对分布，两个方向不是同一个数</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Kullback &amp; Leibler (1951)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="312" height="182" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="196" y="88" text-anchor="middle" fill="#212529" font-weight="600">从真实看假设</text>
+        <text x="196" y="108" text-anchor="middle" font-size="11" fill="#666d75">漏掉任何真实出现过的情况，代价急遽变大</text>
+        <line x1="72" y1="192" x2="320" y2="192" stroke="#ced4da" stroke-width="1"/>
+        <path d="M84 192 Q120 138 152 192 Q188 128 224 192 Q256 150 308 192" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M84 192 Q140 142 196 146 Q252 150 308 192" stroke="#495057" stroke-width="2" fill="none"/>
+        <text x="196" y="212" text-anchor="middle" font-size="11.5" fill="#495057">假设被逼去涵盖全部</text>
+        <text x="196" y="230" text-anchor="middle" font-size="11" fill="#8a5a00">代价：什么都讲一点，模糊而安全</text>
+    
+        <rect x="368" y="62" width="312" height="182" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="524" y="88" text-anchor="middle" fill="#212529" font-weight="600">从假设看真实</text>
+        <text x="524" y="108" text-anchor="middle" font-size="11" fill="#666d75">只要落在真实有出现的地方就便宜</text>
+        <line x1="400" y1="192" x2="648" y2="192" stroke="#ced4da" stroke-width="1"/>
+        <path d="M412 192 Q448 138 480 192 Q516 128 552 192 Q584 150 636 192" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M492 192 Q516 122 540 192" stroke="#495057" stroke-width="2" fill="none"/>
+        <text x="524" y="212" text-anchor="middle" font-size="11.5" fill="#495057">假设锁住其中一个高峰</text>
+        <text x="524" y="230" text-anchor="middle" font-size="11" fill="#8a5a00">代价：很有把握，但只对一部分</text>
+    
+        <rect x="40" y="258" width="312" height="60" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="196" y="282" text-anchor="middle" fill="#8a5a00" font-weight="600">最贵的一种错</text>
+        <text x="196" y="304" text-anchor="middle" font-size="11.5" fill="#8a5a00">把真的会发生的事，机率设成零</text>
+    
+        <rect x="368" y="258" width="312" height="60" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="524" y="282" text-anchor="middle" fill="#495057" font-weight="600">名称史三段</text>
+        <text x="524" y="304" text-anchor="middle" font-size="11.5" fill="#495057">1951 称判别用的平均资讯量 · 散度原指对称版 · 1959 书沿用</text>
+    
+        <line x1="80" y1="340" x2="640" y2="340" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">分布轮廓为示意形状，不含座标值、参数或任何量测数字。</text>
+        <text x="80" y="378" font-size="11.5" fill="#666d75">它不对称、也不满足三角不等式，因此不是数学意义上的距离：两个方向的数不可混用比较。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

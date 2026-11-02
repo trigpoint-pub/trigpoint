@@ -1,0 +1,61 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="熵随分布形状变化的三阶示意：分布集中则熵低，分布平均则熵高；右侧标出熵同时是无损压缩的下界；下方为三段归属与一则未经证实的轶事">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">量的是分布的形状，不是结果的杂乱</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="448" height="184" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+    
+        <rect x="72" y="196" width="112" height="26" rx="3" fill="#e9ecef"/>
+        <text x="128" y="214" text-anchor="middle" font-size="11.5" fill="#495057">几乎确定</text>
+        <g>
+          <rect x="84" y="176" width="16" height="14" fill="#495057"/>
+          <rect x="104" y="186" width="16" height="4" fill="#868e96"/>
+          <rect x="124" y="187" width="16" height="3" fill="#868e96"/>
+          <rect x="144" y="188" width="16" height="2" fill="#868e96"/>
+        </g>
+    
+        <rect x="200" y="152" width="112" height="26" rx="3" fill="#e9ecef"/>
+        <text x="256" y="170" text-anchor="middle" font-size="11.5" fill="#495057">偏斜</text>
+        <g>
+          <rect x="212" y="122" width="16" height="24" fill="#495057"/>
+          <rect x="232" y="132" width="16" height="14" fill="#868e96"/>
+          <rect x="252" y="138" width="16" height="8" fill="#868e96"/>
+          <rect x="272" y="141" width="16" height="5" fill="#868e96"/>
+        </g>
+    
+        <rect x="328" y="108" width="112" height="26" rx="3" fill="#fdf3e0"/>
+        <text x="384" y="126" text-anchor="middle" font-size="11.5" fill="#8a5a00">平均</text>
+        <g>
+          <rect x="340" y="82" width="16" height="20" fill="#8a5a00"/>
+          <rect x="360" y="82" width="16" height="20" fill="#8a5a00"/>
+          <rect x="380" y="82" width="16" height="20" fill="#8a5a00"/>
+          <rect x="400" y="82" width="16" height="20" fill="#8a5a00"/>
+        </g>
+    
+        <path d="M60 226 L60 96" stroke="#868e96" stroke-width="1"/>
+        <path d="M60 96 l-4 7 h8 z" fill="#868e96"/>
+        <text x="52" y="150" text-anchor="end" font-size="11" fill="#666d75" transform="rotate(-90 52 150)">熵</text>
+    
+        <rect x="504" y="62" width="176" height="184" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="592" y="92" text-anchor="middle" fill="#495057" font-weight="600">同一把尺的第二个身分</text>
+        <line x1="524" y1="106" x2="660" y2="106" stroke="#dee2e6" stroke-width="1"/>
+        <text x="592" y="134" text-anchor="middle" font-size="11.5" fill="#495057">无损压缩的平均码长</text>
+        <text x="592" y="154" text-anchor="middle" font-size="11.5" fill="#495057">不可能低于熵</text>
+        <line x1="536" y1="176" x2="648" y2="176" stroke="#8a5a00" stroke-width="2"/>
+        <text x="592" y="196" text-anchor="middle" font-size="11" fill="#8a5a00">地板在此</text>
+        <text x="592" y="220" text-anchor="middle" font-size="11" fill="#666d75">压不下去可能不是</text>
+        <text x="592" y="236" text-anchor="middle" font-size="11" fill="#666d75">技巧问题</text>
+    
+        <rect x="40" y="260" width="640" height="56" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="282" text-anchor="middle" fill="#8a5a00" font-weight="600">归属分三段，不可压成一段</text>
+        <text x="360" y="302" text-anchor="middle" font-size="11.5" fill="#8a5a00">组合形式 1877 · 含常数的现代闭式 1901 · 命名轶事常引 1971 年回忆，当事人 1982 年否认</text>
+    
+        <line x1="80" y1="336" x2="640" y2="336" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="356" font-size="11.5" fill="#666d75">三阶仅示相对高低，刻意无数值刻度、无单位、无座标值。</text>
+        <text x="80" y="374" font-size="11.5" fill="#666d75">形式同构有共识，本体论是否等价至今争论未决，本图不代作结。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

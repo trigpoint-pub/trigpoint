@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/hai/  
-Captured: 2026-10-05T03:32:04.387426+08:00
+Captured: 2026-11-02T21:27:05.314369+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -9,7 +9,7 @@ Foundational literature
 
 ## What is here
 
-This shelf holds eleven foundational papers published between 1948 and 2010.They answer one question: once work is handed to a machine, what happens on the human side?Each node opens from one of four angles: a common belief put to the test, an experiment or incident, a design tradeoff, or two ideas that are usually run together. The research literature then answers it, and each page records how far its sources were checked.
+This shelf holds eleven foundational papers published between 1948 and 2010. They answer one question: once work is handed to a machine, what happens on the human side? Each node opens from one of four angles: a common belief put to the test, an experiment or incident, a design tradeoff, or two ideas that are usually run together. The research literature then answers it, and each page records how far its sources were checked.
 
 ## Reading order
 
@@ -17,11 +17,11 @@ The order follows the argument rather than the publication dates. It runs in thr
 
 ## How to read across
 
-Carry one question as you read: is the mechanism in this node another face of the previous one, or an independent second source?These papers cite each other: Bainbridge's argument that sustained monitoring must fail rests on Mackworth's vigilance work.Read them against each other and the eleven nodes close into one interlocking structure.
+Carry one question as you read: is the mechanism in this node another face of the previous one, or an independent second source? These papers cite each other: Bainbridge's argument that sustained monitoring must fail rests on Mackworth's vigilance work. Read them against each other and the eleven nodes close into one interlocking structure.
 
 ## Content layers
 
-The theory layer is fully open and may be reproduced, with attribution and a link back to the original page.The Lab case layer is a case-reading library. It is paid content under Trigpoint Pass and is not licensed for reproduction, though some cases are open to preview.
+The theory layer is fully open and may be reproduced, with attribution and a link back to the original page. The Lab case layer is a case-reading library. It is paid content under Trigpoint Pass and is not licensed for reproduction, though some cases are open to preview.
 
 ## Node sequence
 
@@ -57,13 +57,13 @@ Order within the group: physiological limit → attention mechanism → performa
 
 Mackworth (1948)
 
-When a person watches a signal source that rarely changes, detection rate falls measurably within about thirty minutes. Any design whose only safeguard is having someone watch the automation therefore fails by construction. This is not a discipline problem. It is a limit of human attention, and the fix belongs in the design, not in trying harder.
+When a person watches a signal source that rarely changes, detection rate declines over time; in Mackworth's experiment it had dropped measurably within about thirty minutes (an order of magnitude, reported secondhand). So when the only safeguard is having someone watch the automation, the risk of a miss grows with time on watch, and the timing and size need calibrating to your own situation. This is not a discipline problem. It is a limit of human attention, and the fix belongs in the design, not in trying harder.
 
 ### [Automation complacency and bias](automation-complacency.md)
 
-automation complacency & bias · Parasuraman & Manzey (2010)
+Parasuraman & Manzey (2010)
 
-Complacency and bias are two faces of one attentional mechanism. Attention withdraws from the automation's output: on the monitoring side silent failures go unseen (complacency), on the decision side the system's recommendation is accepted without challenge (bias). It comes from how attention is allocated under multitask load, and long practice does not remove it.
+Complacency and bias are two overlapping phenomena with attention at their core. Attention withdraws from the automation's output: on the monitoring side silent failures go unseen (complacency), on the decision side the system's recommendation is accepted without challenge (bias). It comes from how attention is allocated under multitask load, and long practice does not remove it.
 
 ### [Out-of-the-loop performance problem](out-of-the-loop.md)
 

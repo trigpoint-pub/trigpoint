@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Two independent lines of judgement crossing into four cases: whether a statement is supported by the source, and whether it is true of the world; the figure carries no proportions">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Two rulers, four ways to fail, four different fixes</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Maynez et al. (2020)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" fill="#666d75">Vertical: is it true of the world</text>
+        <text x="452" y="72" font-size="11.5" fill="#666d75">Horizontal: is it supported by the source</text>
+    
+        <rect x="152" y="84" width="252" height="92" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="278" y="108" text-anchor="middle" fill="#8a5a00" font-weight="600">Unfaithful, but true</text>
+        <text x="278" y="130" text-anchor="middle" font-size="11.5" fill="#8a5a00">departs from the source, checks out true</text>
+        <text x="278" y="150" text-anchor="middle" font-size="11.5" fill="#8a5a00">This site’s position: not “lucky it was right”</text>
+        <text x="278" y="168" text-anchor="middle" font-size="11" font-weight="600" fill="#8a5a00">the process had no grip at that point</text>
+    
+        <rect x="410" y="84" width="252" height="92" rx="4" fill="#f8f9fa" stroke="#495057"/>
+        <text x="536" y="108" text-anchor="middle" fill="#212529" font-weight="600">Faithful and true</text>
+        <text x="536" y="130" text-anchor="middle" font-size="11.5" fill="#495057">the ideal case</text>
+        <text x="536" y="150" text-anchor="middle" font-size="11.5" fill="#666d75">both rulers pass</text>
+    
+        <rect x="152" y="186" width="252" height="92" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="278" y="210" text-anchor="middle" fill="#8a5a00" font-weight="600">Unfaithful and untrue</text>
+        <text x="278" y="232" text-anchor="middle" font-size="11.5" fill="#8a5a00">the typically harmful case</text>
+        <text x="278" y="252" text-anchor="middle" font-size="11.5" fill="#8a5a00">the source did not say it, nor is it so</text>
+    
+        <rect x="410" y="186" width="252" height="92" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="536" y="210" text-anchor="middle" fill="#495057" font-weight="600">Faithful but untrue</text>
+        <text x="536" y="232" text-anchor="middle" font-size="11.5" fill="#495057">the source is wrong, copied faithfully</text>
+        <text x="536" y="252" text-anchor="middle" font-size="11.5" fill="#495057">full marks for faithfulness, still wrong</text>
+    
+        <text x="40" y="130" font-size="11.5" fill="#495057">True</text>
+        <text x="40" y="238" font-size="11.5" fill="#495057">Untrue</text>
+        <text x="220" y="296" text-anchor="middle" font-size="11.5" fill="#495057">No</text>
+        <text x="536" y="296" text-anchor="middle" font-size="11.5" fill="#495057">Yes</text>
+    
+        <rect x="40" y="308" width="640" height="40" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="332" text-anchor="middle" fill="#495057" font-weight="600">Ask first: does my material say this (cheap); then: is it right (costly, for load-bearing claims)</text>
+    
+        <line x1="80" y1="360" x2="640" y2="360" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">The quadrants are conceptual and carry no proportions: the paper's statistics were not checked table by table.</text>
+        <text x="80" y="392" font-size="11.5" fill="#666d75">Both axes need an explicit source document; in open generation faithfulness has nothing to compare against.</text>
+        <text x="696" y="398" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

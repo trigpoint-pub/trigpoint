@@ -1,0 +1,39 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The two behaviours that follow from the choice of direction: looking from the truth forces the hypothesis to cover everything at the cost of blur, looking from the hypothesis forces it to lock onto one peak at the cost of missing the rest">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Same pair of distributions, two different numbers</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Kullback &amp; Leibler (1951)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="312" height="182" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="196" y="88" text-anchor="middle" fill="#212529" font-weight="600">Truth looking at the hypothesis</text>
+        <text x="196" y="108" text-anchor="middle" font-size="11" fill="#666d75">missing anything the truth produced costs sharply</text>
+        <line x1="72" y1="192" x2="320" y2="192" stroke="#ced4da" stroke-width="1"/>
+        <path d="M84 192 Q120 138 152 192 Q188 128 224 192 Q256 150 308 192" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M84 192 Q140 142 196 146 Q252 150 308 192" stroke="#495057" stroke-width="2" fill="none"/>
+        <text x="196" y="212" text-anchor="middle" font-size="11.5" fill="#495057">the hypothesis is forced to cover everything</text>
+        <text x="196" y="230" text-anchor="middle" font-size="11" fill="#8a5a00">the price: a bit of everything, blurred and safe</text>
+    
+        <rect x="368" y="62" width="312" height="182" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="524" y="88" text-anchor="middle" fill="#212529" font-weight="600">Hypothesis looking at the truth</text>
+        <text x="524" y="108" text-anchor="middle" font-size="11" fill="#666d75">cheap as long as it sits where the truth occurs</text>
+        <line x1="400" y1="192" x2="648" y2="192" stroke="#ced4da" stroke-width="1"/>
+        <path d="M412 192 Q448 138 480 192 Q516 128 552 192 Q584 150 636 192" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M492 192 Q516 122 540 192" stroke="#495057" stroke-width="2" fill="none"/>
+        <text x="524" y="212" text-anchor="middle" font-size="11.5" fill="#495057">the hypothesis locks onto one peak</text>
+        <text x="524" y="230" text-anchor="middle" font-size="11" fill="#8a5a00">the price: confident, but only about part of it</text>
+    
+        <rect x="40" y="258" width="312" height="60" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="196" y="282" text-anchor="middle" fill="#8a5a00" font-weight="600">The most expensive mistake</text>
+        <text x="196" y="304" text-anchor="middle" font-size="11.5" fill="#8a5a00">setting the probability of something real to zero</text>
+    
+        <rect x="368" y="258" width="312" height="60" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="524" y="278" text-anchor="middle" fill="#495057" font-weight="600">The name has three stages</text>
+        <text x="524" y="296" text-anchor="middle" font-size="11" fill="#495057">1951: mean information for discrimination</text>
+        <text x="524" y="312" text-anchor="middle" font-size="11" fill="#495057">divergence: the symmetric sum, kept in 1959</text>
+    
+        <line x1="80" y1="340" x2="640" y2="340" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">The distribution outlines are illustrative: no coordinates, parameters or measured numbers.</text>
+        <text x="80" y="378" font-size="11.5" fill="#666d75">It is asymmetric and fails the triangle inequality, so it is not a distance; the two directions do not compare.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

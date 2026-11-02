@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="同一份事实往两条路径分流示意：左为写路径管行为与不变条件，右为读路径管查询方便；底部为投影纪律，投影可比原件漂亮但不可比原件敢讲">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">写要严，读要方便，这两件本来就相反</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Meyer (1988) · Young (2010)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="288" y="62" width="144" height="42" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="360" y="88" text-anchor="middle" fill="#212529" font-weight="600">同一份事实</text>
+    
+        <path d="M300 106 L216 138" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M216 138 l8 -2 l-4 -7 z" fill="#495057"/>
+        <path d="M420 106 L504 138" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M504 138 l-4 7 l8 2 z" fill="#495057"/>
+    
+        <text x="40" y="134" font-size="11.5" font-weight="600" fill="#495057">写的路径</text>
+        <rect x="40" y="142" width="272" height="76" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="176" y="166" text-anchor="middle" fill="#495057" font-weight="600">管行为与不变条件</text>
+        <text x="176" y="186" text-anchor="middle" font-size="11.5" fill="#495057">规范化、每次改动都过检查</text>
+        <text x="176" y="204" text-anchor="middle" font-size="11.5" fill="#666d75">形状为了正确而选</text>
+    
+        <text x="408" y="134" font-size="11.5" font-weight="600" fill="#495057">读的路径</text>
+        <rect x="408" y="142" width="272" height="76" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="544" y="166" text-anchor="middle" fill="#495057" font-weight="600">管查询方便</text>
+        <text x="544" y="186" text-anchor="middle" font-size="11.5" fill="#495057">为每种用途各准备一种投影</text>
+        <text x="544" y="204" text-anchor="middle" font-size="11.5" fill="#666d75">形状为了好读而选</text>
+    
+        <rect x="408" y="228" width="272" height="46" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="544" y="250" text-anchor="middle" fill="#8a5a00" font-weight="600">代价：投影一定落后于原件</text>
+        <text x="544" y="268" text-anchor="middle" font-size="11.5" fill="#8a5a00">而落后不会发出任何讯号</text>
+    
+        <rect x="40" y="228" width="272" height="46" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="176" y="250" text-anchor="middle" font-size="11.5" fill="#495057">最小形态只需要两个模型</text>
+        <text x="176" y="268" text-anchor="middle" font-size="11.5" fill="#666d75">不强制两套储存</text>
+    
+        <rect x="40" y="290" width="640" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="312" text-anchor="middle" fill="#495057" font-weight="600">投影可以比原件漂亮，不可以比原件敢讲</text>
+        <text x="360" y="328" text-anchor="middle" font-size="11.5" fill="#495057">整理是投影该做的事，加强不是；自动生成的面上，加强会一致而无声地发生在每一页</text>
+    
+        <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="370" font-size="11.5" fill="#666d75">流程为概念示意，不含延迟、笔数或任何量测数字。</text>
+        <text x="80" y="386" font-size="11.5" fill="#666d75">本模式与事件溯源是两个概念；两份来源皆未说必须同用。</text>
+        <text x="696" y="396" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

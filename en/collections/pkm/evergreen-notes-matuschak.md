@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/evergreen-notes-matuschak  
-Captured: 2026-10-05T03:32:10.685219+08:00
+Captured: 2026-11-02T21:27:16.041339+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -15,11 +15,11 @@ Personal knowledge management · note-taking
 
 ## In three sentences
 
-Evergreen notes are a set of disciplines: one concept per node, organised by concept rather than by source or topic, densely linked between nodes, and iterated on each revisit rather than rewritten. The test is not length. Whether a note is evergreen depends on whether it can be cited precisely and reused in a new situation. Treating detail as the goal produces exactly the long-form writing that nothing can cite.
+Evergreen notes are a set of disciplines: one concept per node, organised by concept rather than by source or topic, densely linked between nodes, and iterated on each revisit rather than rewritten. The original site aims for notes that accumulate across projects, not long ones; this site turns that into two self-checks, whether a note can be cited precisely and whether it can be reused in a new situation. The site also warns that splitting too finely has its own cost, and there is no single test for where to stop.
 
 ![The three disciplines of evergreen notes: one concept per node, organised by concept rather than source, densely linked, with notes maturing through revisits rather than rewrites](assets/evergreen-notes-matuschak.github.svg)
 
-<strong>Figure 1</strong> · The three disciplines: one concept per node, organised by concept rather than by source or topic, and densely linked, with notes maturing through revisits rather than rewrites. The three are verbatim headings from the original site. A fourth principle in wide circulation does not exist there. Redrawn.
+<strong>Figure 1</strong> · The three disciplines as a mechanism flow: one concept per node, organised by concept rather than by source or topic, and densely linked, with notes maturing through revisits rather than rewrites. The three are verbatim headings from the original site. A fourth principle in wide circulation does not exist there. Redrawn.
 
 ## 1. What happened
 
@@ -33,11 +33,13 @@ He states that the concept is deeply indebted to the slip-box tradition. This is
 
 ## 2. Why this matters to you
 
-The intuition that more detail is better treats a note like an essay. An essay's unit is the argument; a note system's unit is the concept. An eight-hundred-word reflection cannot be cited for the one criterion inside it that actually matters. Split into three atomic nodes, each can be called precisely by the future you.
+The intuition that more detail is better treats a note like an essay. An essay's unit is the argument; a note system's unit is the concept. Take how we work here as an example. If the useful part of an eight-hundred-word reflection is one criterion inside it, that criterion is hard to cite on its own; give it a note of its own and a link has a precise target.
 
-So the operational test for evergreen is two questions. Can this note be linked on its own without losing its meaning? And in six months, on a different project, will it still be usable?
+We check with two questions. Can this note be linked on its own without losing its meaning? And in six months, on a different project, will it still be usable? This is our working method, not a general rule from the original site.
 
-There is one position that inverts easily. Evergreen means matured, not written well the first time. Notes get there through revisits. Writing one perfectly at the outset actually stops you going back to change it.
+It also matters when to stop. The site's note "Evergreen notes should be atomic" says that fragmenting notes too far fragments the link network with them, and that where to draw the line is a matter of trade-offs with no clear test[\[1\]](#reference-note-1). If a concept split into pieces leaves each piece unable to say it completely, it should not be split further.
+
+There is one position that inverts easily. Evergreen means matured, not written well the first time. Notes get there through revisits. Aiming for a perfect note at the outset tends to stop people going back to change it.
 
 ## References
 
@@ -50,7 +52,7 @@ There is one position that inverts easily. Evergreen means matured, not written 
 - [<em>Compare ▸</em>Hypertext and transclusion](hypertext-transclusion-nelson-1965.md)
 - [<em>Applied by ▸</em>Memex](memex-bush-1945.md)
 
-Cite as: Trigpoint, “Evergreen notes”, trigpoint.pub/collections/pkm/evergreen-notes-matuschak · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “Evergreen notes”, trigpoint.pub/collections/pkm/evergreen-notes-matuschak · © Strategitect Limited. · Content last revised 2026-10-11
 
 ## Source notes
 

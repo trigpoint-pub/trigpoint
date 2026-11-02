@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="One body of fact travelling two ways: the write path governs behaviour and invariants, the read path governs convenience of querying, with the discipline that a projection may be prettier than the original but never bolder">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Writes need rigour, reads need convenience</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Meyer (1988) · Young (2010)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="288" y="62" width="144" height="42" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="360" y="88" text-anchor="middle" fill="#212529" font-weight="600">One body of fact</text>
+    
+        <path d="M300 106 L216 138" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M216 138 l8 -2 l-4 -7 z" fill="#495057"/>
+        <path d="M420 106 L504 138" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M504 138 l-4 7 l8 2 z" fill="#495057"/>
+    
+        <text x="40" y="134" font-size="11.5" font-weight="600" fill="#495057">The write path</text>
+        <rect x="40" y="142" width="272" height="76" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="176" y="166" text-anchor="middle" fill="#495057" font-weight="600">Governs behaviour and invariants</text>
+        <text x="176" y="186" text-anchor="middle" font-size="11.5" fill="#495057">normalised; every change passes the checks</text>
+        <text x="176" y="204" text-anchor="middle" font-size="11.5" fill="#666d75">shaped for correctness</text>
+    
+        <text x="408" y="134" font-size="11.5" font-weight="600" fill="#495057">The read path</text>
+        <rect x="408" y="142" width="272" height="76" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="544" y="166" text-anchor="middle" fill="#495057" font-weight="600">Governs convenience of querying</text>
+        <text x="544" y="186" text-anchor="middle" font-size="11.5" fill="#495057">one projection per use</text>
+        <text x="544" y="204" text-anchor="middle" font-size="11.5" fill="#666d75">shaped for reading</text>
+    
+        <rect x="408" y="228" width="272" height="46" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="544" y="250" text-anchor="middle" fill="#8a5a00" font-weight="600">The cost: a projection always lags</text>
+        <text x="544" y="268" text-anchor="middle" font-size="11.5" fill="#8a5a00">and the lag emits no signal</text>
+    
+        <rect x="40" y="228" width="272" height="46" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="176" y="250" text-anchor="middle" font-size="11.5" fill="#495057">the minimum is two models</text>
+        <text x="176" y="268" text-anchor="middle" font-size="11.5" fill="#666d75">two stores are not required</text>
+    
+        <rect x="40" y="290" width="640" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="312" text-anchor="middle" fill="#495057" font-weight="600">A projection may be prettier than the original, never bolder</text>
+        <text x="360" y="328" text-anchor="middle" font-size="11.5" fill="#495057">tidying is a projection's job, strengthening is not; on generated surfaces it happens silently on every page</text>
+    
+        <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="370" font-size="11.5" fill="#666d75">The flow is conceptual: no latencies, counts or measured numbers.</text>
+        <text x="80" y="386" font-size="11.5" fill="#666d75">This pattern and event sourcing are two concepts; neither source says they must be used together.</text>
+        <text x="696" y="396" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

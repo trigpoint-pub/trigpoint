@@ -1,0 +1,47 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="計算能耗階序示意：最底為擦除資訊的理論下界，其上為可逆計算的原理位置，最上為實際硬體，三者之間只標階序與差距存在而不標倍數">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">耗能的不是思考，是遺忘</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Szilárd (1929) · Landauer (1961) · Bennett (1973)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="392" height="192" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+    
+        <rect x="72" y="80" width="328" height="42" rx="3" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="236" y="98" text-anchor="middle" font-size="11.5" fill="#495057" font-weight="600">實際計算硬體</text>
+        <text x="236" y="114" text-anchor="middle" font-size="11" fill="#666d75">遠在下界之上，差距很大</text>
+    
+        <text x="236" y="140" text-anchor="middle" font-size="11" fill="#8a5a00">本圖不標倍數：該數值本站未一手核實</text>
+    
+        <rect x="72" y="152" width="328" height="42" rx="3" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="236" y="170" text-anchor="middle" font-size="11.5" fill="#495057" font-weight="600">原理上可逆的計算</text>
+        <text x="236" y="186" text-anchor="middle" font-size="11" fill="#666d75">若不擦除，原理上可遠低於下界</text>
+    
+        <rect x="72" y="204" width="328" height="34" rx="3" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="236" y="226" text-anchor="middle" font-size="11.5" fill="#8a5a00" font-weight="600">擦除一個位元的理論下界</text>
+    
+        <line x1="56" y1="238" x2="56" y2="86" stroke="#ced4da" stroke-width="1"/>
+        <path d="M56 86 l-4 7 h8 z" fill="#ced4da"/>
+        <text x="48" y="164" text-anchor="middle" font-size="11" fill="#666d75" transform="rotate(-90 48 164)">能耗</text>
+    
+        <rect x="448" y="62" width="232" height="90" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="564" y="86" text-anchor="middle" fill="#495057" font-weight="600">關鍵區分，抹掉即結論反轉</text>
+        <line x1="468" y1="98" x2="660" y2="98" stroke="#dee2e6" stroke-width="1"/>
+        <text x="564" y="120" text-anchor="middle" font-size="11.5" fill="#495057">下界只對邏輯不可逆的操作成立</text>
+        <text x="564" y="140" text-anchor="middle" font-size="11.5" fill="#495057">不直接適用於測量與傳輸</text>
+    
+        <rect x="448" y="164" width="232" height="90" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="564" y="188" text-anchor="middle" fill="#8a5a00" font-weight="600">並陳不裁</text>
+        <line x1="468" y1="200" x2="660" y2="200" stroke="#ecd3a8" stroke-width="1"/>
+        <text x="564" y="222" text-anchor="middle" font-size="11.5" fill="#8a5a00">有一組批評質疑此原理的一般證明</text>
+        <text x="564" y="242" text-anchor="middle" font-size="11.5" fill="#8a5a00">及它能否用來驅逐守門者</text>
+    
+        <rect x="40" y="272" width="640" height="48" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="294" text-anchor="middle" fill="#495057" font-weight="600">本書架做的正是這套理論的創立者警告過的事</text>
+        <text x="360" y="312" text-anchor="middle" font-size="11.5" fill="#495057">1956 年他寫過社論，警告用到他領域要經實驗驗證，不是搬詞：這一段的地位低於前面幾段</text>
+    
+        <line x1="80" y1="340" x2="640" y2="340" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">階序只標順序與差距存在，刻意不標倍數、能量數值或單位。</text>
+        <text x="80" y="378" font-size="11.5" fill="#666d75">1929 那篇已對照英譯全文；1961 與 1973 兩篇只核到書目與摘要。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

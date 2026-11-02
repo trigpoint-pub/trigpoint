@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/memex-bush-1945  
-Captured: 2026-10-05T03:32:11.694586+08:00
+Captured: 2026-11-02T21:27:17.233606+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -14,25 +14,29 @@ Personal knowledge management · history of ideas
 
 ## In three sentences
 
-The Memex is a hypothetical personal information desk proposed in 1945: microfilm storage for a person's entire library and records, with entries chained together by associative trails. The insight is not the capacity. It is the retrieval paradigm: any item can pull up another instantly, replacing library-style hierarchical indexing. The machine was never built. The design axiom that association beats hierarchy became the shared ancestor of everything digital that followed in personal knowledge management.
+The Memex is a hypothetical personal information desk proposed in 1945: microfilm storage for a person's entire library and records, with entries chained together by associative trails. The insight is not the capacity. It is the retrieval paradigm: any item can pull up another instantly, supplying routes that library-style hierarchical indexing cannot. The original keeps the ordinary index; association is a layer added on top. The machine was never built. The design idea of laying associative routes alongside classification is often traced as the shared ancestor of the digital personal knowledge management tools that followed.
 
-![The associative trail mechanism: once knowledge outgrows hierarchical indexing, associative indexing lets any item pull up another, named trails branch and merge, and the endpoint is a web rather than a tree](assets/memex-bush-1945.github.svg)
+![The associative trail mechanism: once knowledge outgrows hierarchical indexing, associative indexing added alongside it lets any item pull up another, named trails branch and merge, and the endpoint is a web rather than a tree](assets/memex-bush-1945.github.svg)
 
-<strong>Figure 1</strong> · The associative trail mechanism. Once knowledge outgrows hierarchical indexing, associative indexing lets any item pull up another; named trails can branch, merge and be passed on, and the endpoint is a web rather than a tree. The Memex was never built; this shows a design axiom, not a machine specification.
+<strong>Figure 1</strong> · The associative trail mechanism. Once knowledge outgrows hierarchical indexing, associative indexing adds routes alongside the ordinary index and lets any item pull up another; named trails can branch, merge and be passed on, and the endpoint is a web rather than a tree. The Memex was never built; this shows a design axiom, not a machine specification.
 
 ## 1. What happened
 
 Just before the end of the Second World War, Bush published "As We May Think" in The Atlantic. Scientific knowledge was about to explode in volume, and he argued the bottleneck was retrieval rather than storage: every index is artificial, an item can only be filed in one slot, and finding it means drilling down through levels, which is not how a mind works[\[1\]](#reference-note-1).
 
-His answer was associative indexing. The user places two documents side by side, presses a key, and creates a named trail; afterwards one key jumps from the first to the next. Trails can branch, merge, persist, and be handed to someone else[\[1\]](#reference-note-1). The Memex was a thought experiment and was never built. It is a design vision, not an engineered product.
+He did not remove the index. Section 6 of the original says the memex still allows the record to be consulted by the usual scheme of indexing[\[1\]](#reference-note-1). What he added was associative indexing. The user places two documents side by side, presses a key, and creates a named trail; afterwards one key jumps from the first to the next. Trails can branch, merge, persist, and be handed to someone else[\[1\]](#reference-note-1). The Memex was a thought experiment and was never built. It is a design vision, not an engineered product.
 
 <strong>Attribution where due:</strong>The word "hypertext" is not Bush's. Ted Nelson defined it in an ACM conference paper in 1965[\[2\]](#reference-note-2); a 1963 coinage is often reported, but no primary source was found. Bush framed the problem and fathered the associative trail; the implementation lineage runs through Engelbart with NLS and the hyperlink, and the naming lineage runs through Nelson. Concept ancestor and word coiner get separate credit.
 
 ## 2. Why this matters to you
 
-Every time you hesitate over which folder a note belongs in, you are standing on the crack Bush identified. Hierarchical classification demands that each thing have exactly one home. Associative links allow one thing to have any number of routes leading to it. The entire pitch of modern bidirectional-link tools was written out eighty years ago.
+Every time you hesitate over which folder a note belongs in, you are standing on the crack Bush identified. Hierarchical classification demands that each thing have exactly one home. Associative links allow one thing to have any number of routes leading to it. The core pitch of modern bidirectional-link tools was already sketched by Bush eighty years ago.
 
-So the question worth asking of a tool is not whether it has links. It is whether retrieval runs on someone else's classification or on the trails you laid yourself. The first is a world thought out for you; only the second is the Memex.
+So the question worth asking of a tool is not whether it has links. It is whether retrieval can only run on classification decided in advance, or can also follow the trails you laid yourself. The Memex was about the second, but it did not throw away the first. This is how we read it here, not a claim Bush made about choosing tools.
+
+## Corrections
+
+- 2026-10-10 · The page said associative indexing replaces library-style hierarchical indexing. Section 6 of the original says the memex still allows the record to be consulted by the usual scheme of indexing; associative indexing is a further way of retrieval added alongside it. The page now says associative trails supply routes that hierarchical indexing cannot, and the body points to the passage.
 
 ## References
 
@@ -46,7 +50,7 @@ So the question worth asking of a tool is not whether it has links. It is whethe
 - [<em>Applied in ▸</em>Evergreen notes](evergreen-notes-matuschak.md)
 - [<em>Downstream ▸</em>Hypertext and transclusion](hypertext-transclusion-nelson-1965.md)
 
-Cite as: Trigpoint, “Memex”, trigpoint.pub/collections/pkm/memex-bush-1945 · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “Memex”, trigpoint.pub/collections/pkm/memex-bush-1945 · © Strategitect Limited. · Content last revised 2026-10-10
 
 ## Source notes
 

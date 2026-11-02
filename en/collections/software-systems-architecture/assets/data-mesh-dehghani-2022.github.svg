@@ -1,0 +1,51 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="How the four principles relate: domains hold their own facts and turn them into guaranteed products, a platform layer lowers the cost of offering one, and cross-domain standards are settled federally">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Splitting is not the hard part; the governance is</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Dehghani (2019, 2022)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="66" width="420" height="30" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="86" font-size="11.5" font-weight="600" fill="#495057">Four of four　cross-domain standards settled federally</text>
+    
+        <rect x="40" y="104" width="132" height="86" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="106" y="126" text-anchor="middle" fill="#212529" font-weight="600">Domain A</text>
+        <text x="106" y="146" text-anchor="middle" font-size="11" fill="#495057">holds its own facts</text>
+        <text x="106" y="164" text-anchor="middle" font-size="11" fill="#495057">guaranteed products</text>
+        <text x="106" y="182" text-anchor="middle" font-size="9.5" fill="#666d75">discoverable, addressable</text>
+    
+        <rect x="184" y="104" width="132" height="86" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="250" y="126" text-anchor="middle" fill="#212529" font-weight="600">Domain B</text>
+        <text x="250" y="146" text-anchor="middle" font-size="11" fill="#495057">each owns its product</text>
+        <text x="250" y="172" text-anchor="middle" font-size="10.5" fill="#666d75">owner is explicit</text>
+    
+        <rect x="328" y="104" width="132" height="86" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="394" y="126" text-anchor="middle" fill="#212529" font-weight="600">Domain C</text>
+        <text x="394" y="146" text-anchor="middle" font-size="11" fill="#495057">source-aligned and</text>
+        <text x="394" y="164" text-anchor="middle" font-size="11" fill="#495057">consumer-aligned</text>
+    
+        <rect x="40" y="198" width="420" height="30" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="218" font-size="11.5" font-weight="600" fill="#495057">Three of four　a platform layer lowers the cost of offering a product</text>
+    
+        <rect x="480" y="104" width="200" height="70" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="580" y="126" text-anchor="middle" fill="#8a5a00" font-weight="600">It argues with section one</text>
+        <text x="580" y="146" text-anchor="middle" font-size="11" fill="#8a5a00">the book: leave behind</text>
+        <text x="580" y="163" text-anchor="middle" font-size="11" fill="#8a5a00">notions like single source of truth</text>
+    
+        <rect x="480" y="182" width="200" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="580" y="202" text-anchor="middle" font-size="11.5" fill="#495057">both hold; it is about scale</text>
+        <text x="580" y="219" text-anchor="middle" font-size="11" fill="#666d75">and how many people are involved</text>
+    
+        <rect x="40" y="244" width="640" height="46" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="264" text-anchor="middle" fill="#495057" font-weight="600">One signal tells you which side you are on</text>
+        <text x="360" y="282" text-anchor="middle" font-size="11.5" fill="#495057">if changing a shared definition means finding one person or waiting for one decision, it is already the bottleneck</text>
+    
+        <line x1="80" y1="312" x2="640" y2="312" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="330" font-size="11.5" fill="#666d75">The structure is conceptual: no domain counts, scale or measured numbers.</text>
+        <text x="80" y="348" font-size="11.5" fill="#666d75">Splitting without governing gives silos: the missing principles are usually the product guarantee and the platform.</text>
+        <text x="80" y="366" font-size="11.5" fill="#666d75">Neither this figure nor the page uses a widely quoted line: its verbatim location was never resolved.</text>
+        <text x="80" y="384" font-size="11.5" fill="#666d75">Quote checked against an early release; final chapter and page not checked.</text>
+        <text x="696" y="396" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

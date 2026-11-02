@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hant/collections/pkm/lyt-nick-milo  
-Captured: 2026-10-05T03:32:22.579865+08:00
+Captured: 2026-11-02T21:27:51.601819+08:00
 
 > 公開理論閱讀鏡像。驗證層及 Lab 案例請到原站閱讀。
 
@@ -21,8 +21,7 @@ MOC（Map of Content，內容地圖）是一則引用其他筆記的筆記：一
 
 ![MOC 機制流：筆記爆量後資料夾單一歸屬接不住跨域檢索，MOC 以節點引用節點作導航中樞，資料夾管擁有權而地圖管導航](assets/lyt-nick-milo.github.svg)
 
-<strong>圖 1</strong> · MOC 機制流示意：筆記爆量後，資料夾的單一歸屬接不住跨域檢索；MOC 以節點引用節點作導航中樞，資料夾管擁有權、地圖管導航，同一節點可入多張地圖。  
-示意重繪。
+<strong>圖 1</strong> · MOC 機制流示意：筆記爆量後，資料夾的單一歸屬接不住跨域檢索；MOC 以節點引用節點作導航中樞，資料夾管擁有權、地圖管導航，同一節點可入多張地圖。
 
 ## 一、發生什麼事
 
@@ -40,7 +39,7 @@ Milo 2020 年 5 月發布首版 LYT Kit（筆記庫模板，後更名 Ideaverse�
 
 - \[1\] Milo, N. Linking Your Thinking. https://www.linkingyourthinking.com/ 書目經多源交叉核對。LYT 名稱與 MOC 之定義已對照原站核實。（首版 LYT Kit 2020-05，後更名 Ideaverse；individual practitioner 內容）.
 
-引用格式：Trigpoint，〈LYT 與內容地圖〉，trigpoint.pub/zh-Hant/collections/pkm/lyt-nick-milo · © Strategitect Limited. · 內容最後修訂 2026-10-01
+引用格式：Trigpoint，〈LYT 與內容地圖〉，trigpoint.pub/zh-Hant/collections/pkm/lyt-nick-milo · © Strategitect Limited. · 內容最後修訂 2026-10-11
 
 ## 來源註記
 

@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/zettelkasten-luhmann-1981  
-Captured: 2026-10-05T03:32:12.700899+08:00
+Captured: 2026-11-02T21:27:18.156864+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -49,13 +49,13 @@ It also has a design domain. This is a long-term system for accumulation across 
 
 - [<em>Compare ▸</em>Hypertext and transclusion](hypertext-transclusion-nelson-1965.md)
 
-Cite as: Trigpoint, “Zettelkasten”, trigpoint.pub/collections/pkm/zettelkasten-luhmann-1981 · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “Zettelkasten”, trigpoint.pub/collections/pkm/zettelkasten-luhmann-1981 · © Strategitect Limited. · Content last revised 2026-10-18
 
 ## Source notes
 
 <a id="reference-note-1"></a>
 
-**[1]** Luhmann, N. (1981). Kommunikation mit Zettelkästen. Ein Erfahrungsbericht. In Baier, Kepplinger & Reumann (Hrsg.), Öffentliche Meinung und sozialer Wandel. Opladen: Westdeutscher Verlag, 222–228. Bibliographic details cross-checked against multiple sources. Attribution note: this 1981 original is often miscited as the 1992 reprint, Universität als Milieu. The “communication partner” phrase was checked against the English translation.
+**[1]** Luhmann, N. (1981). Kommunikation mit Zettelkästen. Ein Erfahrungsbericht. In Baier, Kepplinger & Reumann (Hrsg.), Öffentliche Meinung und sozialer Wandel. Opladen: Westdeutscher Verlag, 222–228. Bibliographic details cross-checked against multiple sources. Attribution note: this 1981 original is often miscited as the 1992 reprint, Universität als Milieu. The “communication partner” passages were checked word for word against a scan of the 1981 German print (pp. 222, 225 and 226).
 
 <a id="reference-note-2"></a>
 

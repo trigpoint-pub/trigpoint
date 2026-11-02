@@ -1,0 +1,57 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="噪音三层示意：输入依序经过物理层、系统层、认知层干扰才抵达判断；下方指出讯号与噪音的界线由当下使用的模型决定">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">噪音来自三层，多数人只处理看得见的那层</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="70" width="96" height="180" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="88" y="152" text-anchor="middle" fill="#495057" font-weight="600">输入</text>
+        <text x="88" y="172" text-anchor="middle" font-size="11" fill="#666d75">未分辨</text>
+    
+        <path d="M142 160 L166 160" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M166 160 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="172" y="70" width="132" height="180" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="238" y="96" text-anchor="middle" fill="#212529" font-weight="600">物理层</text>
+        <line x1="192" y1="110" x2="284" y2="110" stroke="#e9ecef" stroke-width="1"/>
+        <text x="238" y="136" text-anchor="middle" font-size="11.5" fill="#495057">媒介本身的失真</text>
+        <text x="238" y="158" text-anchor="middle" font-size="11.5" fill="#495057">干扰与衰减</text>
+        <text x="238" y="192" text-anchor="middle" font-size="11" fill="#8a5a00">最容易看见</text>
+        <text x="238" y="212" text-anchor="middle" font-size="11" fill="#8a5a00">所以多数力气花在这</text>
+    
+        <path d="M310 160 L334 160" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M334 160 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="340" y="70" width="132" height="180" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="406" y="96" text-anchor="middle" fill="#212529" font-weight="600">系统层</text>
+        <line x1="360" y1="110" x2="452" y2="110" stroke="#e9ecef" stroke-width="1"/>
+        <text x="406" y="136" text-anchor="middle" font-size="11.5" fill="#495057">编码与格式误差</text>
+        <text x="406" y="158" text-anchor="middle" font-size="11.5" fill="#495057">转录与过期规格</text>
+        <text x="406" y="192" text-anchor="middle" font-size="11" fill="#666d75">会沉默地累积</text>
+    
+        <path d="M478 160 L502 160" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M502 160 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="508" y="70" width="132" height="180" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="574" y="96" text-anchor="middle" fill="#212529" font-weight="600">认知层</text>
+        <line x1="528" y1="110" x2="620" y2="110" stroke="#e9ecef" stroke-width="1"/>
+        <text x="574" y="136" text-anchor="middle" font-size="11.5" fill="#495057">理解偏差与歧义</text>
+        <text x="574" y="158" text-anchor="middle" font-size="11.5" fill="#495057">接收端的先入之见</text>
+        <text x="574" y="192" text-anchor="middle" font-size="11" fill="#666d75">最难察觉</text>
+    
+        <path d="M646 160 L670 160" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M670 160 l-7 -4 v8 z" fill="#8a5a00"/>
+        <text x="678" y="150" text-anchor="end" font-size="11" fill="#8a5a00">判断</text>
+    
+        <rect x="40" y="268" width="640" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="290" text-anchor="middle" fill="#8a5a00" font-weight="600">界线由模型决定，不由资料决定</text>
+        <text x="360" y="310" text-anchor="middle" font-size="11.5" fill="#8a5a00">同一段输入，关心长期结构时是噪音，关心短期反应时是讯号：先讲清楚是对哪个判断而言</text>
+    
+        <line x1="80" y1="342" x2="640" y2="342" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#666d75">三层为概念分层示意，不含比例、座标值或任何量测数字。</text>
+        <text x="80" y="380" font-size="11.5" fill="#666d75">目标不是消除噪音，是提高可用的比例：提高比例的手段是丢弃，而丢弃一定有伪阴性。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

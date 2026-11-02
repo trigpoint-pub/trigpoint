@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/hai/trust-in-automation  
-Captured: 2026-10-05T03:32:09.406358+08:00
+Captured: 2026-11-02T21:27:13.858325+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 

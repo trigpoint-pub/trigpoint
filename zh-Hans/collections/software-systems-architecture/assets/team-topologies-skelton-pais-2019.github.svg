@@ -1,0 +1,47 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="左为分工轴四种团队型态，右为关系轴三种互动模式，并标出关系应随时间由共探降级为服务式消费；底部为认知负荷边界判准">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">两轴分开宣告，而且关系那一轴会变</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Skelton &amp; Pais (2019)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" font-weight="600" fill="#495057">分工轴：四种型态</text>
+    
+        <rect x="40" y="82" width="290" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="104" font-size="11.5" fill="#495057">直接对齐一条价值流</text>
+        <rect x="40" y="122" width="290" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="144" font-size="11.5" fill="#495057">专门提升别人的能力</text>
+        <rect x="40" y="162" width="290" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="184" font-size="11.5" fill="#495057">负责高难度的子系统</text>
+        <rect x="40" y="202" width="290" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="224" font-size="11.5" fill="#495057">把共用能力做成可自助取用的平台</text>
+    
+        <text x="380" y="72" font-size="11.5" font-weight="600" fill="#495057">关系轴：三种模式</text>
+    
+        <rect x="380" y="82" width="300" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="396" y="102" font-size="11.5" font-weight="600" fill="#8a5a00">高频共同探索</text>
+        <text x="396" y="119" font-size="11" fill="#8a5a00">给发现期用：边界还没摸清楚</text>
+    
+        <path d="M530 130 L530 148" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M530 148 l-4 -7 h8 z" fill="#8a5a00"/>
+        <text x="542" y="145" font-size="11" fill="#8a5a00">收敛后降级</text>
+    
+        <rect x="380" y="152" width="300" height="44" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="396" y="172" font-size="11.5" font-weight="600" fill="#212529">做成服务让对方自助取用</text>
+        <text x="396" y="189" font-size="11" fill="#495057">固化成：给这样的输入，回这样的输出</text>
+    
+        <rect x="380" y="202" width="300" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="396" y="224" font-size="11.5" fill="#495057">一方协助另一方建立能力</text>
+    
+        <rect x="40" y="252" width="640" height="46" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="272" text-anchor="middle" fill="#495057" font-weight="600">边界判准：认知负荷</text>
+        <text x="360" y="290" text-anchor="middle" font-size="11.5" fill="#495057">一个团队能真正持有的范围有上限；超载本身就是拆分讯号，不是意志力问题</text>
+    
+        <line x1="80" y1="320" x2="640" y2="320" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="338" font-size="11.5" fill="#666d75">分类为概念示意，不含人数、时程或任何量测数字。</text>
+        <text x="80" y="356" font-size="11.5" fill="#666d75">分类法不是演算法：何时该降级，要靠判断。</text>
+        <text x="80" y="374" font-size="11.5" fill="#666d75">协作宣告文件之名为引入或推广，本站不宣称造词。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

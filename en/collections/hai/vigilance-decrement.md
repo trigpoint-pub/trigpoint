@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/hai/vigilance-decrement  
-Captured: 2026-10-05T03:32:09.569012+08:00
+Captured: 2026-11-02T21:27:14.445827+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -15,11 +15,11 @@ Human-automation interaction · monitoring
 
 ## In three sentences
 
-When a person watches a signal source that rarely changes, detection rate falls measurably within about thirty minutes. Any design whose only safeguard is having someone watch the automation therefore fails by construction. This is not a discipline problem. It is a limit of human attention, and the fix belongs in the design, not in trying harder.
+When a person watches a signal source that rarely changes, detection rate declines over time; in Mackworth's experiment it had dropped measurably within about thirty minutes (an order of magnitude, reported secondhand). So when the only safeguard is having someone watch the automation, the risk of a miss grows with time on watch, and the timing and size need calibrating to your own situation. This is not a discipline problem. It is a limit of human attention, and the fix belongs in the design, not in trying harder.
 
 ![Detection rate declining with time on watch, with the decline clearest within about thirty minutes (order of magnitude)](assets/vigilance-decrement.github.svg)
 
-<strong>Figure 1</strong> · Decay of detection rate during sustained monitoring. In Mackworth's radar-clock experiment, detection rate falls sharply within the first thirty minutes and then continues to decline slowly. The trend is redrawn; the primary data were not checked, so the shape is shown without a numeric scale.
+<strong>Figure 1</strong> · Decay of detection rate during sustained monitoring. As reported secondhand, in Mackworth's radar-clock experiment detection rate falls sharply within roughly the first thirty minutes and then continues to decline slowly. The trend is redrawn; the primary data were not checked, so the shape is shown without a numeric scale.
 
 ## 1. What happened
 
@@ -31,9 +31,9 @@ The result was disturbingly stable: detection rate dropped measurably within abo
 
 ## 2. Why this matters to you
 
-Handing an AI agent's output to "someone will keep an eye on it" bets the reliability of the system on a curve that starts leaking after half an hour. Your attention depletes. So a human-oversight design that amounts to asking someone to watch is not a safety mechanism. It is safety theatre.
+Handing an AI agent's output to "someone will keep an eye on it" bets the reliability of the system on a curve that slides the longer the watch runs. Your attention depletes. So a human-oversight design that amounts to asking someone to watch is not a safety mechanism. It is safety theatre.
 
-The question is not who watches. It is how the monitoring surface should be built so that it still catches things once the human has inevitably slackened: rotation, sampling, and pushing anomalies to the person rather than waiting for the person to find them.
+The question is not who watches. It is how the monitoring surface should be built so that it still catches things once the human has slackened: rotation, sampling, and pushing anomalies to the person rather than waiting for the person to find them.
 
 Boundary: "about thirty minutes" is an order of magnitude and not a constant, reaches us through secondary reporting, and must be calibrated against your own data before it goes into a shift specification; this page does not supply the numeric shape of the curve.
 
@@ -50,7 +50,7 @@ Boundary: "about thirty minutes" is an order of magnitude and not a constant, re
 - [<em>Compare ▸</em>Trust in automation](trust-in-automation.md)
 - [<em>Downstream ▸</em>Automation complacency and bias](automation-complacency.md)
 
-Cite as: Trigpoint, “Vigilance decrement”, trigpoint.pub/collections/hai/vigilance-decrement · © Strategitect Limited. · Content last revised 2026-09-28
+Cite as: Trigpoint, “Vigilance decrement”, trigpoint.pub/collections/hai/vigilance-decrement · © Strategitect Limited. · Content last revised 2026-10-29
 
 ## Source notes
 

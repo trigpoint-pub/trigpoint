@@ -1,0 +1,59 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The right road and the wrong turn in compression: the right road removes redundancy and stops at the entropy floor, the wrong turn deletes content and gets shorter only because information was thrown away">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Both roads get shorter; only one loses nothing</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948) · Fano (1949) · Huffman (1952)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="126" width="112" height="52" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="96" y="148" text-anchor="middle" fill="#212529">Original form</text>
+        <text x="96" y="166" text-anchor="middle" font-size="11" fill="#666d75">has redundancy</text>
+    
+        <path d="M158 140 L188 108" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M188 108 l-2 8 l7 -4 z" fill="#495057"/>
+        <path d="M158 164 L188 196" stroke="#8a5a00" stroke-width="1.5" fill="none" stroke-dasharray="5 3"/>
+        <path d="M188 196 l-5 -7 l-2 8 z" fill="#8a5a00"/>
+    
+        <text x="196" y="80" fill="#495057" font-weight="600" font-size="13">Right road: remove redundancy</text>
+        <rect x="196" y="88" width="132" height="44" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="262" y="106" text-anchor="middle" font-size="11.5" fill="#212529">find the predictable</text>
+        <text x="262" y="123" text-anchor="middle" font-size="11" fill="#666d75">receiver can recover it</text>
+    
+        <path d="M334 110 L360 110" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M360 110 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="366" y="88" width="132" height="44" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="432" y="106" text-anchor="middle" font-size="11.5" fill="#212529">common → short</text>
+        <text x="432" y="123" text-anchor="middle" font-size="11" fill="#666d75">rare → long codes</text>
+    
+        <path d="M504 110 L530 110" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M530 110 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="536" y="80" width="144" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="608" y="102" text-anchor="middle" fill="#495057" font-weight="600">Stops at entropy</text>
+        <line x1="556" y1="112" x2="660" y2="112" stroke="#8a5a00" stroke-width="2"/>
+        <text x="608" y="130" text-anchor="middle" font-size="11" fill="#8a5a00">a floor you cannot cross</text>
+    
+        <text x="196" y="186" fill="#8a5a00" font-weight="600" font-size="13">Wrong turn: delete content</text>
+        <rect x="196" y="194" width="132" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="262" y="212" text-anchor="middle" font-size="11.5" fill="#8a5a00">cut what looks minor</text>
+        <text x="262" y="229" text-anchor="middle" font-size="11" fill="#8a5a00">qualifiers go first</text>
+    
+        <path d="M334 216 L360 216" stroke="#ecd3a8" stroke-width="1.5" fill="none" stroke-dasharray="5 3"/>
+        <path d="M360 216 l-7 -4 v8 z" fill="#ecd3a8"/>
+    
+        <rect x="366" y="194" width="314" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="523" y="212" text-anchor="middle" font-size="11.5" fill="#8a5a00">shorter too, but because information was thrown away</text>
+        <text x="523" y="229" text-anchor="middle" font-size="11" fill="#8a5a00">the reader gets a cleaner version that is easier to misuse</text>
+    
+        <rect x="40" y="264" width="640" height="52" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="286" text-anchor="middle" fill="#495057" font-weight="600">One question tells the two apart</text>
+        <text x="360" y="306" text-anchor="middle" font-size="11.5" fill="#495057">can the reader recover the sentence I deleted from what is left? if yes it was redundancy, if no it was information</text>
+    
+        <line x1="80" y1="338" x2="640" y2="338" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="358" font-size="11.5" fill="#666d75">The flow is conceptual: no compression ratios, proportions or measured numbers.</text>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">The floor binds lossless compression only; once distortion is allowed, another set of conditions sets the limit.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/cornell-note-taking-pauk-1962  
-Captured: 2026-10-05T03:32:10.400686+08:00
+Captured: 2026-11-02T21:27:15.471567+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -45,7 +45,7 @@ There is one position people routinely skip. The layout is scaffolding, and the 
 - \[1\] Pauk, W. (1962). How to Study in College (1st ed.).
 - \[2\] Cornell University Learning Strategies Center. The Cornell Note Taking System. https://lsc.cornell.edu/notes.html
 
-Cite as: Trigpoint, “Cornell note-taking system”, trigpoint.pub/collections/pkm/cornell-note-taking-pauk-1962 · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “Cornell note-taking system”, trigpoint.pub/collections/pkm/cornell-note-taking-pauk-1962 · © Strategitect Limited. · Content last revised 2026-10-11
 
 ## Source notes
 

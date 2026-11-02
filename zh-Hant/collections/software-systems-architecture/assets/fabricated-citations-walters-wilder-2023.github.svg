@@ -1,0 +1,39 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="格式軸與實體軸脫鉤示意：格式規律使取樣熟練、外觀完整；實體是否存在為獨立事實。唯一攔截點為回去查存在性。刻意不含任何比率">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">外殼完整，內核是空的</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Walters &amp; Wilder (2023)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" font-weight="600" fill="#495057">格式軸　模型很擅長這一軸</text>
+        <rect x="40" y="82" width="640" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="104" font-size="11.5" fill="#495057">作者　年份　期刊　卷期　頁碼　識別碼　　或　　案號　法院　年份</text>
+        <text x="56" y="124" font-size="11" fill="#666d75">高度規律的表面結構，可在未查詢任何資料庫的情況下取樣出來，語法完美、格式合規</text>
+    
+        <text x="40" y="164" font-size="11.5" font-weight="600" fill="#8a5a00">實體軸　與上一軸互不蘊涵</text>
+        <rect x="40" y="174" width="196" height="52" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="138" y="196" text-anchor="middle" font-size="11.5" fill="#212529">真實引用</text>
+        <text x="138" y="214" text-anchor="middle" font-size="11" fill="#495057">標題與作者皆對得上</text>
+    
+        <rect x="242" y="174" width="196" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="340" y="196" text-anchor="middle" font-size="11.5" fill="#495057">真實但記錯</text>
+        <text x="340" y="214" text-anchor="middle" font-size="11" fill="#666d75">另一條曲線，不可與虛構混報</text>
+    
+        <rect x="444" y="174" width="236" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="562" y="196" text-anchor="middle" font-size="11.5" font-weight="600" fill="#8a5a00">虛構引用</text>
+        <text x="562" y="214" text-anchor="middle" font-size="11" fill="#8a5a00">格式合規，實體不存在或張冠李戴</text>
+    
+        <text x="360" y="250" text-anchor="middle" font-size="11.5" fill="#8a5a00">三者在外觀上完全無法區分</text>
+    
+        <rect x="40" y="264" width="640" height="50" rx="4" fill="#f8f9fa" stroke="#495057"/>
+        <text x="360" y="286" text-anchor="middle" fill="#212529" font-weight="600">唯一的攔截點：拿標題與作者回實際資料庫查存在性</text>
+        <text x="360" y="304" text-anchor="middle" font-size="11.5" fill="#495057">這一步不能委派給生成它的那個模型：生成是取樣不是查詢，它不知道自己在編</text>
+    
+        <line x1="80" y1="334" x2="640" y2="334" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="352" font-size="11.5" fill="#666d75">機制為概念示意，刻意不標任何虛構率：該類數字須綁定研究、模型版本與時點，圖上綁不住。</text>
+        <text x="80" y="370" font-size="11.5" fill="#666d75">本站不列出該司法案件中的虛構案名；判決書正文逐一列有。</text>
+        <text x="80" y="388" font-size="11.5" fill="#666d75">把虛構引用歸為外在型幻覺是一次明示的外推：原分類定義於有明確來源的任務。</text>
+        <text x="696" y="398" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

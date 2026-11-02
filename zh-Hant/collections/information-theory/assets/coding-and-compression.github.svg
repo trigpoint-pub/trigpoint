@@ -1,0 +1,59 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="壓縮的正路與歧路示意：正路辨識規律去除冗餘並止於熵這道地板，歧路直接刪內容導致資訊丟失；下方為判斷兩者的單一問句">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">兩條路都會變短，只有一條沒有損失</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948) · Fano (1949) · Huffman (1952)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="126" width="112" height="52" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="96" y="148" text-anchor="middle" fill="#212529">原始表示</text>
+        <text x="96" y="166" text-anchor="middle" font-size="11" fill="#666d75">含冗餘</text>
+    
+        <path d="M158 140 L188 108" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M188 108 l-2 8 l7 -4 z" fill="#495057"/>
+        <path d="M158 164 L188 196" stroke="#8a5a00" stroke-width="1.5" fill="none" stroke-dasharray="5 3"/>
+        <path d="M188 196 l-5 -7 l-2 8 z" fill="#8a5a00"/>
+    
+        <text x="196" y="80" fill="#495057" font-weight="600" font-size="13">正路：去冗餘</text>
+        <rect x="196" y="88" width="132" height="44" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="262" y="106" text-anchor="middle" font-size="11.5" fill="#212529">辨識可預測的部分</text>
+        <text x="262" y="123" text-anchor="middle" font-size="11" fill="#666d75">接收端能自己推回來</text>
+    
+        <path d="M334 110 L360 110" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M360 110 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="366" y="88" width="132" height="44" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="432" y="106" text-anchor="middle" font-size="11.5" fill="#212529">常見的用短碼</text>
+        <text x="432" y="123" text-anchor="middle" font-size="11" fill="#666d75">罕見的用長碼</text>
+    
+        <path d="M504 110 L530 110" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M530 110 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="536" y="80" width="144" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="608" y="102" text-anchor="middle" fill="#495057" font-weight="600">止於熵</text>
+        <line x1="556" y1="112" x2="660" y2="112" stroke="#8a5a00" stroke-width="2"/>
+        <text x="608" y="130" text-anchor="middle" font-size="11" fill="#8a5a00">地板，跨不過去</text>
+    
+        <text x="196" y="186" fill="#8a5a00" font-weight="600" font-size="13">歧路：刪內容</text>
+        <rect x="196" y="194" width="132" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="262" y="212" text-anchor="middle" font-size="11.5" fill="#8a5a00">挑看起來次要的砍</text>
+        <text x="262" y="229" text-anchor="middle" font-size="11" fill="#8a5a00">條件詞最常被誤砍</text>
+    
+        <path d="M334 216 L360 216" stroke="#ecd3a8" stroke-width="1.5" fill="none" stroke-dasharray="5 3"/>
+        <path d="M360 216 l-7 -4 v8 z" fill="#ecd3a8"/>
+    
+        <rect x="366" y="194" width="314" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="523" y="212" text-anchor="middle" font-size="11.5" fill="#8a5a00">也會變短，但短的原因是資訊被丟掉</text>
+        <text x="523" y="229" text-anchor="middle" font-size="11" fill="#8a5a00">讀者拿到一個更清爽也更容易誤用的版本</text>
+    
+        <rect x="40" y="264" width="640" height="52" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="286" text-anchor="middle" fill="#495057" font-weight="600">分辨兩條路，只需要一個問句</text>
+        <text x="360" y="306" text-anchor="middle" font-size="11.5" fill="#495057">我刪掉的這句話，讀者能不能從剩下的內容推回來：能是冗餘，不能是資訊</text>
+    
+        <line x1="80" y1="338" x2="640" y2="338" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="358" font-size="11.5" fill="#666d75">流程為概念示意，不含壓縮率、比例或任何量測數字。</text>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">地板只約束無損壓縮；允許失真之後極限由另一組條件決定，見本站率失真理論頁。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

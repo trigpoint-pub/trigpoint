@@ -1,0 +1,51 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="由內往外三層示意：核心宣告介面、技術寫轉接實作、依賴方向由外指向內；左為主動側人與測試，右為被動側資料庫與外部系統">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">介面由核心定義，技術來實作它</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Cockburn (2005)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="196" y="130" width="328" height="120" rx="6" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="360" y="152" text-anchor="middle" font-size="11" fill="#666d75">轉接層</text>
+    
+        <rect x="238" y="162" width="244" height="72" rx="5" fill="#f8f9fa" stroke="#868e96"/>
+        <text x="360" y="182" text-anchor="middle" font-size="11" fill="#495057">介面層（由核心宣告）</text>
+    
+        <rect x="276" y="190" width="168" height="36" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="360" y="213" text-anchor="middle" fill="#212529" font-weight="600">核心</text>
+    
+        <text x="40" y="120" font-size="11.5" font-weight="600" fill="#495057">主動側</text>
+        <rect x="40" y="130" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="110" y="152" text-anchor="middle" font-size="11.5" fill="#495057">人來操作</text>
+        <rect x="40" y="170" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="110" y="192" text-anchor="middle" font-size="11.5" fill="#495057">自動化測試</text>
+        <rect x="40" y="210" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="110" y="232" text-anchor="middle" font-size="11.5" fill="#495057">批次或另一個程式</text>
+    
+        <text x="540" y="120" font-size="11.5" font-weight="600" fill="#495057">被動側</text>
+        <rect x="540" y="130" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="610" y="152" text-anchor="middle" font-size="11.5" fill="#495057">資料庫</text>
+        <rect x="540" y="170" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="610" y="192" text-anchor="middle" font-size="11.5" fill="#495057">外部系統</text>
+        <rect x="540" y="210" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="610" y="232" text-anchor="middle" font-size="11.5" fill="#495057">記憶體內的假轉接</text>
+    
+        <path d="M186 187 L232 197" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M232 197 l-8 -2 l1 8 z" fill="#495057"/>
+        <path d="M534 197 L488 197" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M488 197 l7 -4 v8 z" fill="#495057"/>
+        <text x="196" y="264" font-size="11" fill="#666d75">依賴方向一律由外指向內</text>
+    
+        <rect x="40" y="278" width="316" height="46" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="198" y="298" text-anchor="middle" fill="#495057" font-weight="600">可驗證的判準</text>
+        <text x="198" y="316" text-anchor="middle" font-size="11.5" fill="#495057">核心能不能在沒有任何外部技術下跑起來</text>
+    
+        <rect x="364" y="278" width="316" height="46" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="522" y="298" text-anchor="middle" fill="#8a5a00" font-weight="600">假解耦長什麼樣</text>
+        <text x="522" y="316" text-anchor="middle" font-size="11.5" fill="#8a5a00">有介面，但介面的名字是照著工具的語彙寫的</text>
+    
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#666d75">層系為概念示意，不含任何量測數字；本圖刻意不畫成六邊，因原文自陳六邊與數字無關。</text>
+        <text x="80" y="380" font-size="11.5" fill="#666d75">主張依 2005 年原文報告核對；本頁逐字引用者只有意圖那段。</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

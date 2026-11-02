@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="邊界選址象限示意：橫軸為往來是否容易定義與計價，縱軸為往來頻繁與反覆程度；容易計價且往來稀疏處為薄切面，接口應開此處">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">邊界開在往來最薄的地方，不是分類最整齊的地方</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Baldwin &amp; Clark (2000) · Baldwin (2008)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" fill="#666d75">縱軸：往來的頻繁與反覆程度</text>
+        <text x="452" y="72" font-size="11.5" fill="#666d75">橫軸：往來是否容易定義與計價</text>
+    
+        <rect x="152" y="84" width="252" height="96" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="278" y="112" text-anchor="middle" fill="#8a5a00" font-weight="600">稠密區</text>
+        <text x="278" y="134" text-anchor="middle" font-size="11.5" fill="#8a5a00">來回多、每次都要重新解釋</text>
+        <text x="278" y="152" text-anchor="middle" font-size="11.5" fill="#8a5a00">而且講不清什麼樣算完成</text>
+        <text x="278" y="172" text-anchor="middle" font-size="11" font-weight="600" fill="#8a5a00">在此開接口＝把摩擦制度化</text>
+    
+        <rect x="410" y="84" width="252" height="96" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="536" y="112" text-anchor="middle" fill="#495057" font-weight="600">頻繁但可定義</text>
+        <text x="536" y="134" text-anchor="middle" font-size="11.5" fill="#495057">來回多，但每次的輸入輸出都明確</text>
+        <text x="536" y="152" text-anchor="middle" font-size="11.5" fill="#666d75">可開接口，代價是接口本身要維護</text>
+    
+        <rect x="152" y="190" width="252" height="96" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="278" y="218" text-anchor="middle" fill="#495057" font-weight="600">稀疏但難計價</text>
+        <text x="278" y="240" text-anchor="middle" font-size="11.5" fill="#495057">偶爾才往來，但一往來就說不清</text>
+        <text x="278" y="258" text-anchor="middle" font-size="11.5" fill="#666d75">先把交接物定義出來，再談切</text>
+    
+        <rect x="410" y="190" width="252" height="96" rx="4" fill="#f8f9fa" stroke="#495057"/>
+        <text x="536" y="218" text-anchor="middle" fill="#212529" font-weight="600">薄切面</text>
+        <text x="536" y="240" text-anchor="middle" font-size="11.5" fill="#495057">往來稀疏，且可定義、可計數、可付價</text>
+        <text x="536" y="258" text-anchor="middle" font-size="11.5" fill="#495057">瑣碎交易成本一般偏低</text>
+        <text x="536" y="278" text-anchor="middle" font-size="11" font-weight="600" fill="#495057">接口應開在此</text>
+    
+        <text x="40" y="130" font-size="11.5" fill="#495057">高</text>
+        <text x="40" y="238" font-size="11.5" fill="#495057">低</text>
+        <text x="220" y="304" text-anchor="middle" font-size="11.5" fill="#495057">不容易</text>
+        <text x="536" y="304" text-anchor="middle" font-size="11.5" fill="#495057">容易</text>
+    
+        <line x1="152" y1="314" x2="662" y2="314" stroke="#dee2e6" stroke-width="1" stroke-dasharray="3 4"/>
+        <text x="407" y="330" text-anchor="middle" font-size="11" fill="#666d75">四格之間是連續的，判定需要實際的往來觀察，不是憑印象分類</text>
+    
+        <line x1="80" y1="346" x2="640" y2="346" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="364" font-size="11.5" fill="#666d75">象限為概念示意，不含成本數值、次數或任何量測數字。</text>
+        <text x="80" y="382" font-size="11.5" fill="#666d75">往來成本會變，故邊界要定期重估；本站另一頁講接口關係應預期演化。</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/lyt-nick-milo  
-Captured: 2026-10-05T03:32:11.691514+08:00
+Captured: 2026-11-02T21:27:16.975923+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -47,7 +47,7 @@ The practical division of labour: location answers who owns this node and is alw
 
 - \[1\] Milo, N. Linking Your Thinking. https://www.linkingyourthinking.com/ Bibliographic details cross-checked against multiple sources. The LYT name and the MOC definition checked against the primary site. First version, LYT Kit, 2020-05, later renamed Ideaverse; individual practitioner content.
 
-Cite as: Trigpoint, “LYT and maps of content”, trigpoint.pub/collections/pkm/lyt-nick-milo · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “LYT and maps of content”, trigpoint.pub/collections/pkm/lyt-nick-milo · © Strategitect Limited. · Content last revised 2026-10-11
 
 ## Source notes
 

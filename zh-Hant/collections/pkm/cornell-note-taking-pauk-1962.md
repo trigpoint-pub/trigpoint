@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hant/collections/pkm/cornell-note-taking-pauk-1962  
-Captured: 2026-10-05T03:32:21.331302+08:00
+Captured: 2026-11-02T21:27:49.782233+08:00
 
 > 公開理論閱讀鏡像。驗證層及 Lab 案例請到原站閱讀。
 
@@ -20,8 +20,7 @@ Cornell Note-Taking System · Pauk (1962)
 
 ![康乃爾筆記法三區版面：右欄上課即時記，左窄欄課後抽問題，底帶總結；配合五步課後複習迴圈](assets/cornell-note-taking-pauk-1962.github.svg)
 
-<strong>圖 1</strong> · 三區版面示意：右欄上課即時記，左窄欄課後抽問題與關鍵詞，底帶用自己的話總結；配合遮蓋自測與每週複習的課後迴圈。  
-示意重繪，非原書圖版。
+<strong>圖 1</strong> · 三區版面示意：右欄上課即時記，左窄欄課後抽問題與關鍵詞，底帶用自己的話總結；配合遮蓋自測與每週複習的課後迴圈。
 
 ## 一、發生什麼事
 
@@ -42,7 +41,7 @@ Pauk 是康乃爾大學閱讀與學習技巧中心主任，1962 年在《How to 
 - \[1\] Pauk, W. (1962). How to Study in College (1st ed.).
 - \[2\] Cornell University Learning Strategies Center. The Cornell Note Taking System. https://lsc.cornell.edu/notes.html
 
-引用格式：Trigpoint，〈康乃爾筆記法〉，trigpoint.pub/zh-Hant/collections/pkm/cornell-note-taking-pauk-1962 · © Strategitect Limited. · 內容最後修訂 2026-10-01
+引用格式：Trigpoint，〈康乃爾筆記法〉，trigpoint.pub/zh-Hant/collections/pkm/cornell-note-taking-pauk-1962 · © Strategitect Limited. · 內容最後修訂 2026-10-11
 
 ## 來源註記
 

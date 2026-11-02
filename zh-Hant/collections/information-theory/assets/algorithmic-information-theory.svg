@@ -1,0 +1,51 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="兩把尺的四格對照：橫軸為統計上的隨機程度，縱軸為演算法上的生成難度；右下格為兩尺分歧最大處，通過隨機檢定卻可由極短程式生成">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">兩把尺量的不是同一件事</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Solomonoff (1964) · Kolmogorov (1965) · Chaitin (1966)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="60" y="76" font-size="11" fill="#666d75">演算法上難生成</text>
+        <text x="60" y="272" font-size="11" fill="#666d75">演算法上易生成</text>
+        <line x1="52" y1="86" x2="52" y2="258" stroke="#ced4da" stroke-width="1"/>
+        <line x1="52" y1="258" x2="500" y2="258" stroke="#ced4da" stroke-width="1"/>
+        <text x="64" y="290" font-size="11" fill="#666d75">統計上有結構</text>
+        <text x="500" y="290" text-anchor="end" font-size="11" fill="#666d75">統計上像隨機</text>
+    
+        <rect x="64" y="86" width="204" height="80" rx="4" fill="#ffffff" stroke="#e9ecef"/>
+        <text x="166" y="112" text-anchor="middle" font-size="11.5" fill="#495057" font-weight="600">有規律又難生成</text>
+        <text x="166" y="134" text-anchor="middle" font-size="11" fill="#666d75">兩把尺都給中等偏高</text>
+        <text x="166" y="152" text-anchor="middle" font-size="11" fill="#666d75">多數真實資料落在這裡</text>
+    
+        <rect x="284" y="86" width="204" height="80" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="386" y="112" text-anchor="middle" font-size="11.5" fill="#8a5a00" font-weight="600">真正無結構</text>
+        <text x="386" y="134" text-anchor="middle" font-size="11" fill="#8a5a00">沒有比自己更短的描述</text>
+        <text x="386" y="152" text-anchor="middle" font-size="11" fill="#8a5a00">這才是本路線說的隨機</text>
+    
+        <rect x="64" y="178" width="204" height="80" rx="4" fill="#ffffff" stroke="#e9ecef"/>
+        <text x="166" y="204" text-anchor="middle" font-size="11.5" fill="#495057" font-weight="600">高度重複的內容</text>
+        <text x="166" y="226" text-anchor="middle" font-size="11" fill="#666d75">兩把尺都給低分</text>
+        <text x="166" y="244" text-anchor="middle" font-size="11" fill="#666d75">壓縮得很徹底</text>
+    
+        <rect x="284" y="178" width="204" height="80" rx="4" fill="#f8f9fa" stroke="#8a5a00"/>
+        <text x="386" y="200" text-anchor="middle" font-size="11.5" fill="#8a5a00" font-weight="600">兩尺分歧最大處</text>
+        <text x="386" y="220" text-anchor="middle" font-size="11" fill="#495057">通過標準隨機性檢定</text>
+        <text x="386" y="238" text-anchor="middle" font-size="11" fill="#495057">卻由一個極短的程式生成</text>
+        <text x="386" y="254" text-anchor="middle" font-size="11" fill="#666d75">兩把尺都沒有錯</text>
+    
+        <rect x="516" y="86" width="164" height="172" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="598" y="112" text-anchor="middle" fill="#495057" font-weight="600">三條獨立線</text>
+        <line x1="536" y1="126" x2="660" y2="126" stroke="#dee2e6" stroke-width="1"/>
+        <text x="598" y="150" text-anchor="middle" font-size="11.5" fill="#495057">通用先驗與歸納 1964</text>
+        <text x="598" y="174" text-anchor="middle" font-size="11.5" fill="#495057">個體字串複雜度 1965</text>
+        <text x="598" y="198" text-anchor="middle" font-size="11.5" fill="#495057">算法隨機性 1966</text>
+        <line x1="536" y1="214" x2="660" y2="214" stroke="#dee2e6" stroke-width="1"/>
+        <text x="598" y="236" text-anchor="middle" font-size="11" fill="#666d75">壓成單一人名會抹去</text>
+        <text x="598" y="252" text-anchor="middle" font-size="11" fill="#666d75">最早那位與並行史</text>
+    
+        <line x1="80" y1="304" x2="640" y2="304" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="324" font-size="11.5" fill="#666d75">四格為概念定位示意，不含座標值、比例或任何量測數字。</text>
+        <text x="80" y="342" font-size="11.5" fill="#666d75">本頁的量不可計算，只能從上方逼近：壓縮率是它的上界估計，不是它的量測值。</text>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">兩把尺的收斂結論成立於遍歷條件之下，該條件為載重前提，不是可省略的技術細節。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

@@ -1,0 +1,49 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="依賴方向示意：模型不知道有誰在看它，變更以通知外送，呈現端自行回頭查詢；控制器連結使用者與呈現。右側斷線框標出後人回貼的唯一真相說法，經核對不在原文">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">核心不是三件，是誰不知道誰</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Reenskaug (1979)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="130" width="132" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="106" y="154" text-anchor="middle" fill="#495057" font-weight="600">模型</text>
+        <text x="106" y="174" text-anchor="middle" font-size="11" fill="#666d75">資料與規則本身</text>
+    
+        <path d="M178 146 L246 116" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M246 116 l-3 8 l7 -3 z" fill="#495057"/>
+        <text x="188" y="112" font-size="11" fill="#495057">我變了</text>
+    
+        <path d="M246 152 L178 168" stroke="#868e96" stroke-width="1.5" fill="none" stroke-dasharray="4 3"/>
+        <path d="M178 168 l7 -5 l1 8 z" fill="#868e96"/>
+        <text x="188" y="188" font-size="11" fill="#666d75">回頭查詢</text>
+    
+        <rect x="252" y="96" width="150" height="60" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="327" y="120" text-anchor="middle" fill="#495057" font-weight="600">呈現</text>
+        <text x="327" y="140" text-anchor="middle" font-size="11" fill="#666d75">很多個，改動送回模型</text>
+    
+        <rect x="252" y="170" width="150" height="60" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="327" y="194" text-anchor="middle" fill="#495057" font-weight="600">控制器</text>
+        <text x="327" y="214" text-anchor="middle" font-size="11" fill="#666d75">連結使用者與呈現</text>
+    
+        <path d="M327 232 L327 256" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M327 232 l-4 7 h8 z" fill="#868e96"/>
+        <text x="340" y="252" font-size="11" fill="#666d75">使用者輸入由此進</text>
+    
+        <rect x="428" y="96" width="252" height="76" rx="4" fill="#fdf3e0" stroke="#ecd3a8" stroke-dasharray="5 3"/>
+        <text x="554" y="120" text-anchor="middle" fill="#8a5a00" font-weight="600">「模型是唯一真相來源」</text>
+        <text x="554" y="140" text-anchor="middle" font-size="11" fill="#8a5a00">後人回貼的說法</text>
+        <text x="554" y="158" text-anchor="middle" font-size="11" fill="#8a5a00">逐條核對：不在 1979 原文，亦不在作者 2003 回顧</text>
+    
+        <rect x="428" y="184" width="252" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="554" y="206" text-anchor="middle" fill="#495057" font-weight="600">作者自述的用意</text>
+        <text x="554" y="226" text-anchor="middle" font-size="11" fill="#495057">橋接使用者心智模型與電腦裡的模型</text>
+    
+        <rect x="40" y="278" width="640" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="300" text-anchor="middle" fill="#495057" font-weight="600">呈現改的是原件還是副本，是分水嶺</text>
+        <text x="360" y="316" text-anchor="middle" font-size="11.5" fill="#495057">改副本，就有了兩個可編輯的權威，只等它們分岔</text>
+    
+        <line x1="80" y1="340" x2="640" y2="340" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="358" font-size="11.5" fill="#666d75">依賴關係為概念示意，不含任何量測數字。</text>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">斷線框內為後人加上的說法，本站以警示色與斷線標示而非刪去，供對照。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

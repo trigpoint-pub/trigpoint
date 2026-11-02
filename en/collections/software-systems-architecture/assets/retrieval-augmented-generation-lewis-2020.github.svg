@@ -1,0 +1,49 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Memory in two layers: the parametric layer pressed into the weights cannot be updated or pointed at, the non-parametric layer outside can be swapped and inspected; generation retrieves first and answers second">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The ceiling moves from what it remembers to what you give it</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Lewis et al. (2020)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="70" width="200" height="62" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="140" y="92" text-anchor="middle" fill="#495057" font-weight="600">Parametric memory (weights)</text>
+        <text x="140" y="110" text-anchor="middle" font-size="11" fill="#666d75">frozen at the training cut-off</text>
+        <text x="140" y="126" text-anchor="middle" font-size="11" fill="#666d75">cannot point at what it used</text>
+    
+        <rect x="40" y="144" width="200" height="62" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="140" y="166" text-anchor="middle" fill="#212529" font-weight="600">Non-parametric memory</text>
+        <text x="140" y="184" text-anchor="middle" font-size="11" fill="#495057">swap the index to update</text>
+        <text x="140" y="200" text-anchor="middle" font-size="11" fill="#495057">what it used can be inspected</text>
+    
+        <path d="M246 175 L280 175" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M280 175 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="286" y="152" width="140" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="356" y="172" text-anchor="middle" font-size="11.5" fill="#495057">retrieve passages first</text>
+        <text x="356" y="189" text-anchor="middle" font-size="11" fill="#666d75">query side learnable</text>
+    
+        <path d="M432 175 L466 175" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M466 175 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="472" y="152" width="140" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="542" y="172" text-anchor="middle" font-size="11.5" fill="#495057">then answer on them</text>
+    
+        <path d="M246 101 L280 101" stroke="#adb5bd" stroke-width="1.5" fill="none" stroke-dasharray="4 3"/>
+        <path d="M280 101 l-7 -4 v8 z" fill="#adb5bd"/>
+        <text x="292" y="105" font-size="11" fill="#666d75">still there, no longer the only basis</text>
+    
+        <rect x="40" y="222" width="640" height="46" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="242" text-anchor="middle" fill="#8a5a00" font-weight="600">The ceiling: retrieve the wrong thing and the answer mostly suffers, fluently</text>
+        <text x="360" y="260" text-anchor="middle" font-size="11.5" fill="#8a5a00">retrieval errors often do not show in the output, so spot-checking outputs cannot validate the corpus</text>
+    
+        <rect x="40" y="282" width="640" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="302" text-anchor="middle" fill="#495057" font-weight="600">The check is not whether a source is attached, but whether that source says this</text>
+        <text x="360" y="318" text-anchor="middle" font-size="11.5" fill="#495057">a citation being present is not a citation being used correctly</text>
+    
+        <line x1="80" y1="348" x2="640" y2="348" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="366" font-size="11.5" fill="#666d75">The flow is conceptual and carries no effect figures: the experimental tables were not checked.</text>
+        <text x="80" y="384" font-size="11.5" fill="#666d75">One of the precursors is three months earlier; its venue is not shown on the preprint page, so no claim is made.</text>
+        <text x="696" y="396" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

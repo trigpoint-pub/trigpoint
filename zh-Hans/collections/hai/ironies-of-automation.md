@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hans/collections/hai/ironies-of-automation  
-Captured: 2026-10-05T03:32:13.738124+08:00
+Captured: 2026-11-02T21:27:29.185906+08:00
 
 > 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 
@@ -10,6 +10,7 @@ Captured: 2026-10-05T03:32:13.738124+08:00
 ironies of automation · Bainbridge (1983)
 
 已对照来源本身 ✓  
+Lab 实测 ✓  
 人机自动化 · 奠基悖论
 
 ## 三句讲透
@@ -20,8 +21,7 @@ ironies of automation · Bainbridge (1983)
 ![自动化反讽因果结构图：设计端自动化易的部分，残余难题、技能退化与监控失效同时压在异常接管一刻，越成功的自动化越需要训练投资](assets/ironies-of-automation.github.svg)
 
 <strong>图 1</strong> · 自动化反讽的因果结构。  
-设计端把「想得到怎样自动化」的部分自动化，残余的难题、退化的技能、不可能的持续监控，全部压在异常接管的一刻。  
-示意重绘自 Bainbridge（1983）论证结构。
+设计端把「想得到怎样自动化」的部分自动化，残余的难题、退化的技能、不可能的持续监控，全部压在异常接管的一刻。
 
 ## 一、发生什么事
 
@@ -48,7 +48,7 @@ ironies of automation · Bainbridge (1983)
 - \[1\] Bainbridge, L. (1983). Ironies of Automation. Automatica, 19(6), 775–779. https://doi.org/10.1016/0005-1098(83)90046-8
 - \[2\] Mackworth, N. H. (1950). Researches on the Measurement of Human Performance. 转引自 Bainbridge (1983)。
 
-引用格式：Trigpoint，〈自动化反讽〉，trigpoint.pub/zh-Hans/collections/hai/ironies-of-automation · © Strategitect Limited. · 内容最后修订 2026-09-28
+引用格式：Trigpoint，〈自动化反讽〉，trigpoint.pub/zh-Hans/collections/hai/ironies-of-automation · © Strategitect Limited. · 内容最后修订 2026-10-21
 
 ## 来源注记
 

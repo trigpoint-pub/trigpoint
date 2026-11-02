@@ -1,0 +1,49 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The direction of dependency: the model does not know who is looking at it, a change travels outward as a notification and the viewing end queries back; the dashed box marks a later description not present in the 1979 originals">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The core is not the three parts but who does not know whom</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Reenskaug (1979)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="130" width="132" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="106" y="154" text-anchor="middle" fill="#495057" font-weight="600">Model</text>
+        <text x="106" y="174" text-anchor="middle" font-size="11" fill="#666d75">the data and rules</text>
+    
+        <path d="M178 146 L246 116" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M246 116 l-3 8 l7 -3 z" fill="#495057"/>
+        <text x="188" y="112" font-size="11" fill="#495057">I changed</text>
+    
+        <path d="M246 152 L178 168" stroke="#868e96" stroke-width="1.5" fill="none" stroke-dasharray="4 3"/>
+        <path d="M178 168 l7 -5 l1 8 z" fill="#868e96"/>
+        <text x="188" y="188" font-size="11" fill="#666d75">queries back</text>
+    
+        <rect x="252" y="96" width="150" height="60" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="327" y="120" text-anchor="middle" fill="#495057" font-weight="600">View</text>
+        <text x="327" y="140" text-anchor="middle" font-size="11" fill="#666d75">many; edit via the model</text>
+    
+        <rect x="252" y="170" width="150" height="60" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="327" y="194" text-anchor="middle" fill="#495057" font-weight="600">Controller</text>
+        <text x="327" y="214" text-anchor="middle" font-size="11" fill="#666d75">links user and views</text>
+    
+        <path d="M327 232 L327 256" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M327 232 l-4 7 h8 z" fill="#868e96"/>
+        <text x="340" y="252" font-size="11" fill="#666d75">user input enters here</text>
+    
+        <rect x="428" y="96" width="252" height="76" rx="4" fill="#fdf3e0" stroke="#ecd3a8" stroke-dasharray="5 3"/>
+        <text x="554" y="120" text-anchor="middle" fill="#8a5a00" font-weight="600">“the model is the single source”</text>
+        <text x="554" y="140" text-anchor="middle" font-size="11" fill="#8a5a00">a description added later</text>
+        <text x="554" y="158" text-anchor="middle" font-size="11" fill="#8a5a00">checked item by item: not in the 1979 originals</text>
+    
+        <rect x="428" y="184" width="252" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="554" y="206" text-anchor="middle" fill="#495057" font-weight="600">The author's stated purpose</text>
+        <text x="554" y="226" text-anchor="middle" font-size="11" fill="#495057">bridging the user's model and the machine's</text>
+    
+        <rect x="40" y="278" width="640" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="300" text-anchor="middle" fill="#495057" font-weight="600">Edit the original, or a copy? That is the watershed</text>
+        <text x="360" y="316" text-anchor="middle" font-size="11.5" fill="#495057">edit a copy and you have two editable authorities waiting to diverge</text>
+    
+        <line x1="80" y1="340" x2="640" y2="340" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="358" font-size="11.5" fill="#666d75">The dependency relations are conceptual, with no measured numbers.</text>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">The dashed box holds a later description, marked rather than deleted so it can be compared.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>
