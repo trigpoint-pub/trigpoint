@@ -1,0 +1,57 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="左右對照示意：左為單體，改一處要整包重新上線；右為拆成各自獨立上線的服務，代價為三項同時進門，其中跨服務一致性不再免費">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">拆的是部署單位，換來的不是免費的解耦</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Lewis &amp; Fowler (2014)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" font-weight="600" fill="#495057">單體</text>
+        <rect x="40" y="82" width="180" height="118" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <rect x="56" y="96" width="148" height="26" rx="3" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="130" y="114" text-anchor="middle" font-size="11" fill="#495057">功能一</text>
+        <rect x="56" y="128" width="148" height="26" rx="3" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="130" y="146" text-anchor="middle" font-size="11" fill="#495057">功能二</text>
+        <rect x="56" y="160" width="148" height="26" rx="3" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="130" y="178" text-anchor="middle" font-size="11" fill="#495057">功能三</text>
+        <text x="130" y="216" text-anchor="middle" font-size="11" fill="#666d75">改一處，整包重新上線</text>
+        <text x="130" y="232" text-anchor="middle" font-size="11" fill="#666d75">要擴充只能整體複製</text>
+    
+        <path d="M228 140 L262 140" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M262 140 l-7 -4 v8 z" fill="#495057"/>
+    
+        <text x="278" y="72" font-size="11.5" font-weight="600" fill="#495057">拆成服務</text>
+        <rect x="278" y="82" width="120" height="40" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="338" y="100" text-anchor="middle" font-size="11" fill="#212529">服務一</text>
+        <text x="338" y="115" text-anchor="middle" font-size="10.5" fill="#666d75">自有儲存</text>
+        <rect x="278" y="128" width="120" height="40" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="338" y="146" text-anchor="middle" font-size="11" fill="#212529">服務二</text>
+        <text x="338" y="161" text-anchor="middle" font-size="10.5" fill="#666d75">自有儲存</text>
+        <rect x="278" y="174" width="120" height="40" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="338" y="192" text-anchor="middle" font-size="11" fill="#212529">服務三</text>
+        <text x="338" y="207" text-anchor="middle" font-size="10.5" fill="#666d75">自有儲存</text>
+        <text x="338" y="232" text-anchor="middle" font-size="11" fill="#666d75">各自獨立上線、個別擴充</text>
+    
+        <rect x="420" y="82" width="260" height="44" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="436" y="102" font-size="11.5" font-weight="600" fill="#495057">得到：自治與局部擴充</text>
+        <text x="436" y="119" font-size="11" fill="#495057">繞業務能力組織，一隊完整持有一個</text>
+    
+        <rect x="420" y="134" width="260" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="436" y="154" font-size="11.5" font-weight="600" fill="#8a5a00">付出：分散式的全套代價</text>
+        <text x="436" y="171" font-size="11" fill="#8a5a00">網路、觀測、除錯、部署自動化</text>
+    
+        <rect x="420" y="186" width="260" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="436" y="206" font-size="11.5" font-weight="600" fill="#8a5a00">最被低估：一致性不再免費</text>
+        <text x="436" y="223" font-size="11" fill="#8a5a00">跨服務的強一致保證消失</text>
+    
+        <rect x="40" y="250" width="640" height="46" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="270" text-anchor="middle" fill="#495057" font-weight="600">同作者另文的忠告：先用單體找到穩定邊界，再拆</text>
+        <text x="360" y="288" text-anchor="middle" font-size="11.5" fill="#495057">過細拆分的症狀很好認：花在銜接上的時間超過花在內容上的時間</text>
+    
+        <line x1="80" y1="318" x2="640" y2="318" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="336" font-size="11.5" fill="#666d75">對照為概念示意，不含服務數、延遲或任何量測數字。</text>
+        <text x="80" y="354" font-size="11.5" fill="#666d75">原文自陳此詞尚無精確定義，該文定義為主要候選。</text>
+        <text x="80" y="372" font-size="11.5" fill="#666d75">原文記此詞 2011 年於一場工作坊被討論、2012 年由該群體選定，本站不歸給兩位作者。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

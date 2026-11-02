@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hans/collections/hai/levels-of-automation  
-Captured: 2026-10-05T03:32:13.740165+08:00
+Captured: 2026-11-02T21:27:29.481268+08:00
 
 > 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 
@@ -23,7 +23,8 @@ Lab 实测 ✓
 
 <strong>图 1</strong> · 两轴模型示意重绘：十级刻度（Sheridan & Verplank 1978）× 四阶段（Parasuraman、Sheridan 与 Wickens 2000）。  
 中间各级文字从略：原报告表格位置未一手核对，不逐级引录原文。  
-右侧档位为示意配置，非量测。
+右侧档位为示意配置，非量测。  
+两种点色分出两组：取得与分析拨到高档，决策与执行留在低档。
 
 ## 一、发生什么事
 
@@ -52,7 +53,7 @@ Lab 实测 ✓
 - [<em>下游 ▸</em>脱离回路失能](out-of-the-loop.md)
 - [<em>被应用 ▸</em>心智负荷（NASA-TLX）](mental-workload-nasa-tlx.md)
 
-引用格式：Trigpoint，〈自动化等级〉，trigpoint.pub/zh-Hans/collections/hai/levels-of-automation · © Strategitect Limited. · 内容最后修订 2026-09-28
+引用格式：Trigpoint，〈自动化等级〉，trigpoint.pub/zh-Hans/collections/hai/levels-of-automation · © Strategitect Limited. · 内容最后修订 2026-10-12
 
 ## 来源注记
 

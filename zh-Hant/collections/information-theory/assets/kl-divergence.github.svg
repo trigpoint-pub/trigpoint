@@ -1,0 +1,40 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="方向不對稱造成的兩種行為對照：一個方向逼模型涵蓋所有真實情況因而模糊，另一個方向逼模型鎖住單一高峰因而漏失；下方為名稱史三段與零機率斷言的代價">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">同一對分佈，兩個方向不是同一個數</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Kullback &amp; Leibler (1951)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="312" height="182" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="196" y="88" text-anchor="middle" fill="#212529" font-weight="600">從真實看假設</text>
+        <text x="196" y="108" text-anchor="middle" font-size="11" fill="#666d75">漏掉任何真實出現過的情況，代價急遽變大</text>
+        <line x1="72" y1="192" x2="320" y2="192" stroke="#ced4da" stroke-width="1"/>
+        <path d="M84 192 Q120 138 152 192 Q188 128 224 192 Q256 150 308 192" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M84 192 Q140 142 196 146 Q252 150 308 192" stroke="#495057" stroke-width="2" fill="none"/>
+        <text x="196" y="212" text-anchor="middle" font-size="11.5" fill="#495057">假設被逼去涵蓋全部</text>
+        <text x="196" y="230" text-anchor="middle" font-size="11" fill="#8a5a00">代價：什麼都講一點，模糊而安全</text>
+    
+        <rect x="368" y="62" width="312" height="182" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="524" y="88" text-anchor="middle" fill="#212529" font-weight="600">從假設看真實</text>
+        <text x="524" y="108" text-anchor="middle" font-size="11" fill="#666d75">只要落在真實有出現的地方就便宜</text>
+        <line x1="400" y1="192" x2="648" y2="192" stroke="#ced4da" stroke-width="1"/>
+        <path d="M412 192 Q448 138 480 192 Q516 128 552 192 Q584 150 636 192" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M492 192 Q516 122 540 192" stroke="#495057" stroke-width="2" fill="none"/>
+        <text x="524" y="212" text-anchor="middle" font-size="11.5" fill="#495057">假設鎖住其中一個高峰</text>
+        <text x="524" y="230" text-anchor="middle" font-size="11" fill="#8a5a00">代價：很有把握，但只對一部分</text>
+    
+        <rect x="40" y="258" width="312" height="60" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="196" y="282" text-anchor="middle" fill="#8a5a00" font-weight="600">最貴的一種錯</text>
+        <text x="196" y="304" text-anchor="middle" font-size="11.5" fill="#8a5a00">把真的會發生的事，機率設成零</text>
+    
+        <rect x="368" y="258" width="312" height="60" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="524" y="282" text-anchor="middle" fill="#495057" font-weight="600">名稱史三段</text>
+        <text x="524" y="304" text-anchor="middle" font-size="11.5" fill="#495057">1951 稱判別用的平均資訊量 · 散度原指對稱版 · 1959 書沿用</text>
+    
+        <line x1="80" y1="340" x2="640" y2="340" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">分佈輪廓為示意形狀，不含座標值、參數或任何量測數字。</text>
+        <text x="80" y="378" font-size="11.5" fill="#666d75">它不對稱、也不滿足三角不等式，因此不是數學意義上的距離：兩個方向的數不可混用比較。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

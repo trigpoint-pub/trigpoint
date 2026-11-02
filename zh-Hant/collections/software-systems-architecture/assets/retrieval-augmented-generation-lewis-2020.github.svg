@@ -1,0 +1,49 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="兩層記憶示意：權重內的參數記憶無法更新亦不可溯源，外掛的非參數記憶可換可檢視；生成先取後答。下方標出天花板已搬到檢索庫與檢索器">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">天花板從「模型記得多少」搬到「你給它什麼」</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Lewis et al. (2020)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="70" width="200" height="62" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="140" y="92" text-anchor="middle" fill="#495057" font-weight="600">參數記憶（權重內）</text>
+        <text x="140" y="110" text-anchor="middle" font-size="11" fill="#666d75">訓練截止即凍結</text>
+        <text x="140" y="126" text-anchor="middle" font-size="11" fill="#666d75">無法指出依據</text>
+    
+        <rect x="40" y="144" width="200" height="62" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="140" y="166" text-anchor="middle" fill="#212529" font-weight="600">非參數記憶（外掛）</text>
+        <text x="140" y="184" text-anchor="middle" font-size="11" fill="#495057">換索引即更新</text>
+        <text x="140" y="200" text-anchor="middle" font-size="11" fill="#495057">依據可供檢視</text>
+    
+        <path d="M246 175 L280 175" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M280 175 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="286" y="152" width="140" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="356" y="172" text-anchor="middle" font-size="11.5" fill="#495057">先取：檢索若干段落</text>
+        <text x="356" y="189" text-anchor="middle" font-size="11" fill="#666d75">查詢這一端可學</text>
+    
+        <path d="M432 175 L466 175" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M466 175 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="472" y="152" width="140" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="542" y="172" text-anchor="middle" font-size="11.5" fill="#495057">後答：以段落為條件</text>
+    
+        <path d="M246 101 L280 101" stroke="#adb5bd" stroke-width="1.5" fill="none" stroke-dasharray="4 3"/>
+        <path d="M280 101 l-7 -4 v8 z" fill="#adb5bd"/>
+        <text x="292" y="105" font-size="11" fill="#666d75">仍在，但不再是唯一依據</text>
+    
+        <rect x="40" y="222" width="640" height="46" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="242" text-anchor="middle" fill="#8a5a00" font-weight="600">上限所在：檢索錯了，生成多半被拖累，而且答得流暢</text>
+        <text x="360" y="260" text-anchor="middle" font-size="11.5" fill="#8a5a00">檢索層的錯誤在最終輸出上往往看不出來，所以不能靠抽看輸出來驗檢索庫</text>
+    
+        <rect x="40" y="282" width="640" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="302" text-anchor="middle" fill="#495057" font-weight="600">查核的動作不是「有沒有附出處」，是「這句話是不是那份出處說的」</text>
+        <text x="360" y="318" text-anchor="middle" font-size="11.5" fill="#495057">引用在場不等於引用被正確使用</text>
+    
+        <line x1="80" y1="348" x2="640" y2="348" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="366" font-size="11.5" fill="#666d75">流程為概念示意，刻意不含任何效果數值：本站未逐表核對實驗數值。</text>
+        <text x="80" y="384" font-size="11.5" fill="#666d75">先行者之一早三個月，其會議收錄於預印本頁未顯示，本站不 claim。</text>
+        <text x="696" y="396" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

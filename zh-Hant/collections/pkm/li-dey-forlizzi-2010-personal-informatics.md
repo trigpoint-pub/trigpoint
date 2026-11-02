@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hant/collections/pkm/li-dey-forlizzi-2010-personal-informatics  
-Captured: 2026-10-05T03:32:22.219921+08:00
+Captured: 2026-11-02T21:27:51.285876+08:00
 
 > 公開理論閱讀鏡像。驗證層及 Lab 案例請到原站閱讀。
 
@@ -20,8 +20,7 @@ Stage-Based Model of Personal Informatics · Li, Dey & Forlizzi (2010)
 
 ![個人資訊學五階段：準備、收集、整合、反思、行動；反思與行動可回饋準備，各階段障礙向後級聯](assets/li-dey-forlizzi-2010-personal-informatics.github.svg)
 
-<strong>圖 1</strong> · 五階段模型示意：準備、收集、整合、反思、行動；階段是迭代的（使用者隨進展更換資料、工具或流程），且各階段的障礙會向後級聯。  
-示意重繪，非原論文圖版。
+<strong>圖 1</strong> · 五階段模型示意：準備、收集、整合、反思、行動；階段是迭代的（使用者隨進展更換資料、工具或流程），且各階段的障礙會向後級聯。
 
 ## 一、發生什麼事
 
@@ -39,7 +38,7 @@ Li、Dey 與 Forlizzi 以 68 人問卷與 11 人後續訪談為基礎，在 CHI 
 
 - \[1\] Li, I., Dey, A. K., & Forlizzi, J. (2010). A Stage-Based Model of Personal Informatics Systems. CHI 2010, 557–566. https://doi.org/10.1145/1753326.1753409
 
-引用格式：Trigpoint，〈個人資訊學五階段〉，trigpoint.pub/zh-Hant/collections/pkm/li-dey-forlizzi-2010-personal-informatics · © Strategitect Limited. · 內容最後修訂 2026-10-01
+引用格式：Trigpoint，〈個人資訊學五階段〉，trigpoint.pub/zh-Hant/collections/pkm/li-dey-forlizzi-2010-personal-informatics · © Strategitect Limited. · 內容最後修訂 2026-10-11
 
 ## 來源註記
 

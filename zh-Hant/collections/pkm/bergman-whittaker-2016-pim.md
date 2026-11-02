@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hant/collections/pkm/bergman-whittaker-2016-pim  
-Captured: 2026-10-05T03:32:21.092946+08:00
+Captured: 2026-11-02T21:27:49.254838+08:00
 
 > 公開理論閱讀鏡像。驗證層及 Lab 案例請到原站閱讀。
 
@@ -22,8 +22,7 @@ Personal Information Management · Bergman & Whittaker (2016)
 
 <strong>圖 1</strong> · 碎片化代價的適用邊界定性示意：兩軸為「分裂是否被系統設計所迫」與「是否跨生態／格式」；代價只在被迫且跨生態的一格觸發。  
 同一基座內的自願多檔分流不在此列。  
-「被迫」為對原文 format-related／design-encouraged 的轉述。  
-示意重繪，非原書圖表。
+「被迫」為對原文 format-related／design-encouraged 的轉述。
 
 ## 一、發生什麼事
 
@@ -42,7 +41,7 @@ Bergman 與 Whittaker 2016 年在 MIT Press 出版的專著，綜合了個人資
 - \[1\] Bergman, O., & Whittaker, S. (2016). The Science of Managing Our Digital Stuff. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262035170.001.0001
 - \[2\] Bergman, O., Beyth-Marom, R., & Nachmias, R. (2006). The project fragmentation problem in personal information management. CHI 2006, 271–274. https://doi.org/10.1145/1124772.1124813
 
-引用格式：Trigpoint，〈個人資訊管理〉，trigpoint.pub/zh-Hant/collections/pkm/bergman-whittaker-2016-pim · © Strategitect Limited. · 內容最後修訂 2026-10-01
+引用格式：Trigpoint，〈個人資訊管理〉，trigpoint.pub/zh-Hant/collections/pkm/bergman-whittaker-2016-pim · © Strategitect Limited. · 內容最後修訂 2026-10-11
 
 ## 來源註記
 

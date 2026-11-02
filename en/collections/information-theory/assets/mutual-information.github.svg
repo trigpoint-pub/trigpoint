@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Decomposing the uncertainty of two variables into what remains of X once Y is known, the shared information in the middle, and what remains of Y once X is known; below, how mutual information differs from a correlation coefficient">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The middle band is what one removes from the other</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948) · Fano (1961)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="80" font-size="11" fill="#666d75">total uncertainty of the two together</text>
+        <line x1="40" y1="90" x2="680" y2="90" stroke="#ced4da" stroke-width="1"/>
+        <line x1="40" y1="86" x2="40" y2="94" stroke="#ced4da" stroke-width="1"/>
+        <line x1="680" y1="86" x2="680" y2="94" stroke="#ced4da" stroke-width="1"/>
+    
+        <rect x="40" y="104" width="228" height="58" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="154" y="128" text-anchor="middle" font-size="11.5" fill="#495057" font-weight="600">Once Y is known</text>
+        <text x="154" y="148" text-anchor="middle" font-size="11.5" fill="#495057">what remains uncertain in X</text>
+    
+        <rect x="268" y="104" width="184" height="58" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="128" text-anchor="middle" font-size="11.5" fill="#8a5a00" font-weight="600">Shared information</text>
+        <text x="360" y="148" text-anchor="middle" font-size="11.5" fill="#8a5a00">zero means independent</text>
+    
+        <rect x="452" y="104" width="228" height="58" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="566" y="128" text-anchor="middle" font-size="11.5" fill="#495057" font-weight="600">Once X is known</text>
+        <text x="566" y="148" text-anchor="middle" font-size="11.5" fill="#495057">what remains uncertain in Y</text>
+    
+        <text x="360" y="184" text-anchor="middle" font-size="11" fill="#666d75">the middle is symmetric: what X tells you about Y equals what Y tells you about X</text>
+    
+        <rect x="40" y="204" width="312" height="94" rx="4" fill="#ffffff" stroke="#e9ecef"/>
+        <text x="196" y="228" text-anchor="middle" fill="#495057" font-weight="600">Why not a correlation coefficient</text>
+        <line x1="60" y1="240" x2="332" y2="240" stroke="#e9ecef" stroke-width="1"/>
+        <text x="196" y="262" text-anchor="middle" font-size="11.5" fill="#495057">zero correlation rules out straight lines only</text>
+        <text x="196" y="282" text-anchor="middle" font-size="11.5" fill="#495057">a zero middle rules out every form of dependence</text>
+    
+        <rect x="368" y="204" width="312" height="94" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="524" y="228" text-anchor="middle" fill="#8a5a00" font-weight="600">What it will not tell you</text>
+        <line x1="388" y1="240" x2="660" y2="240" stroke="#ecd3a8" stroke-width="1"/>
+        <text x="524" y="262" text-anchor="middle" font-size="11.5" fill="#8a5a00">fully symmetric, so it carries no direction</text>
+        <text x="524" y="282" text-anchor="middle" font-size="11.5" fill="#8a5a00">a high value says nothing about which drives which</text>
+    
+        <line x1="80" y1="322" x2="640" y2="322" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="342" font-size="11.5" fill="#666d75">The bands show structural relations only; their lengths represent no proportion or measurement.</text>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">Defined in 1948 as a rate of transmission; the term is Fano's, used in his teaching before his 1961 book.</text>
+        <text x="80" y="378" font-size="11.5" fill="#666d75">The theory is clean, the estimator is not: with continuous or high-dimensional data, finite samples can overestimate.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

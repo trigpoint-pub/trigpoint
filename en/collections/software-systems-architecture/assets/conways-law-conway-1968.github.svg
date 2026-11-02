@@ -1,0 +1,69 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Above, the direction the law runs from real communication paths through hardened interfaces to module boundaries becoming team boundaries; below, the law used in reverse by changing the talking paths first">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The system grows to match how you talk, not your plan</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Conway (1968)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" font-weight="600" fill="#495057">The direction of the law</text>
+    
+        <rect x="40" y="82" width="140" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="110" y="104" text-anchor="middle" font-size="11.5" fill="#495057">actual paths of talk</text>
+        <text x="110" y="122" text-anchor="middle" font-size="11" fill="#666d75">who really talks to whom</text>
+    
+        <path d="M186 108 L212 108" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M212 108 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="218" y="82" width="140" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="288" y="104" text-anchor="middle" font-size="11.5" fill="#495057">interfaces harden</text>
+        <text x="288" y="122" text-anchor="middle" font-size="11" fill="#666d75">only between talkers</text>
+    
+        <path d="M364 108 L390 108" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M390 108 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="396" y="82" width="140" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="466" y="104" text-anchor="middle" font-size="11.5" fill="#495057">design cut along them</text>
+    
+        <path d="M542 108 L568 108" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M568 108 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="574" y="82" width="106" height="52" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="627" y="104" text-anchor="middle" fill="#212529" font-weight="600" font-size="11">Module edges</text>
+        <text x="627" y="122" text-anchor="middle" font-size="11" fill="#495057">= team edges</text>
+    
+        <text x="40" y="176" font-size="11.5" font-weight="600" fill="#495057">Using it in reverse</text>
+    
+        <rect x="40" y="186" width="140" height="52" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="110" y="208" text-anchor="middle" fill="#212529" font-weight="600">Target architecture</text>
+        <text x="110" y="226" text-anchor="middle" font-size="11" fill="#495057">write it down first</text>
+    
+        <path d="M186 212 L212 212" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M212 212 l-7 -4 v8 z" fill="#8a5a00"/>
+    
+        <rect x="218" y="186" width="196" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="316" y="208" text-anchor="middle" fill="#8a5a00" font-weight="600">Change the talking paths first</text>
+        <text x="316" y="226" text-anchor="middle" font-size="11" fill="#8a5a00">frequency, channel, who to whom</text>
+    
+        <path d="M420 212 L446 212" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M446 212 l-7 -4 v8 z" fill="#8a5a00"/>
+    
+        <rect x="452" y="186" width="228" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="566" y="208" text-anchor="middle" font-size="11.5" fill="#495057">the organisation grows it</text>
+        <text x="566" y="226" text-anchor="middle" font-size="11" fill="#666d75">structure before talk snaps back</text>
+    
+        <rect x="40" y="256" width="316" height="46" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="198" y="276" text-anchor="middle" fill="#8a5a00" font-weight="600">The most common misreading</text>
+        <text x="198" y="294" text-anchor="middle" font-size="11.5" fill="#8a5a00">taking the org chart for the real paths</text>
+    
+        <rect x="364" y="256" width="316" height="46" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="522" y="276" text-anchor="middle" fill="#495057" font-weight="600">A constraint, not a fate</text>
+        <text x="522" y="294" text-anchor="middle" font-size="11.5" fill="#495057">deliberate communication design counters it</text>
+    
+        <line x1="80" y1="322" x2="640" y2="322" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="340" font-size="11.5" fill="#666d75">The causal relations are conceptual: no effect sizes, sample sizes or measured numbers.</text>
+        <text x="80" y="358" font-size="11.5" fill="#666d75">One quantitative study supports the mirroring tendency; its effect size was not checked here.</text>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">The name “Conway's law” was given by others, not by the author.</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

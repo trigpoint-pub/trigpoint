@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/hai/fitts-list  
-Captured: 2026-10-05T03:32:07.519699+08:00
+Captured: 2026-11-02T21:27:11.682642+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 

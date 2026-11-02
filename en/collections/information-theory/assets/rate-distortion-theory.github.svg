@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The trade curve between rate and distortion: more allowed distortion lowers the bound on required length, zero distortion returns to the entropy, and below the curve is the impossible region">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The decision is what you allow to be lost</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1959) · Berger (1971)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="404" height="212" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <line x1="92" y1="244" x2="416" y2="244" stroke="#ced4da" stroke-width="1"/>
+        <line x1="92" y1="86" x2="92" y2="244" stroke="#ced4da" stroke-width="1"/>
+    
+        <path d="M92 96 Q160 180 250 218 T410 243 L410 244 L92 244 Z" fill="#f8f9fa"/>
+        <path d="M92 96 Q160 180 250 218 T410 243" stroke="#495057" stroke-width="2" fill="none"/>
+        <path d="M92 130 Q170 196 256 226 T410 243" stroke="#8a5a00" stroke-width="1.8" fill="none" stroke-dasharray="5 3"/>
+    
+        <circle cx="92" cy="96" r="4" fill="#8a5a00"/>
+        <text x="104" y="92" font-size="11" fill="#8a5a00">zero distortion returns to entropy</text>
+    
+        <text x="250" y="200" text-anchor="middle" font-size="11.5" fill="#666d75">impossible region</text>
+        <text x="250" y="218" text-anchor="middle" font-size="11" fill="#666d75">compression claimed here does not hold</text>
+    
+        <text x="82" y="92" text-anchor="end" font-size="11" fill="#666d75">Length</text>
+        <text x="416" y="264" text-anchor="end" font-size="11" fill="#666d75">more distortion allowed →</text>
+    
+        <rect x="460" y="62" width="220" height="102" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="570" y="88" text-anchor="middle" fill="#8a5a00" font-weight="600">Two curves, not two datasets</text>
+        <text x="570" y="112" text-anchor="middle" font-size="11.5" fill="#8a5a00">change the distortion measure</text>
+        <text x="570" y="130" text-anchor="middle" font-size="11.5" fill="#8a5a00">and the curve and optimum change</text>
+        <text x="570" y="152" text-anchor="middle" font-size="11" fill="#8a5a00">the theory does not pick for you</text>
+    
+        <rect x="460" y="176" width="220" height="98" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="570" y="202" text-anchor="middle" fill="#495057" font-weight="600">The cost of a default</text>
+        <text x="570" y="226" text-anchor="middle" font-size="11.5" fill="#495057">name no measure and you default</text>
+        <text x="570" y="244" text-anchor="middle" font-size="11.5" fill="#495057">to “does it read smoothly”</text>
+        <text x="570" y="264" text-anchor="middle" font-size="11" fill="#666d75">so the qualifiers go first</text>
+    
+        <rect x="40" y="290" width="640" height="42" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="316" text-anchor="middle" font-size="11.5" fill="#495057">Before compressing, write one line: what am I allowing to be lost. That line sets every trade-off after it.</text>
+    
+        <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="372" font-size="11.5" fill="#666d75">The curve shows shape and endpoints only: no scale, no units, no coordinates; it is an asymptotic limit.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hans/collections/pkm/lyt-nick-milo  
-Captured: 2026-10-05T03:32:17.592842+08:00
+Captured: 2026-11-02T21:27:34.103586+08:00
 
 > 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 
@@ -21,8 +21,7 @@ MOC（Map of Content，内容地图）是一则引用其他笔记的笔记：一
 
 ![MOC 机制流：笔记爆量后资料夹单一归属接不住跨域检索，MOC 以节点引用节点作导航中枢，资料夹管拥有权而地图管导航](assets/lyt-nick-milo.github.svg)
 
-<strong>图 1</strong> · MOC 机制流示意：笔记爆量后，资料夹的单一归属接不住跨域检索；MOC 以节点引用节点作导航中枢，资料夹管拥有权、地图管导航，同一节点可入多张地图。  
-示意重绘。
+<strong>图 1</strong> · MOC 机制流示意：笔记爆量后，资料夹的单一归属接不住跨域检索；MOC 以节点引用节点作导航中枢，资料夹管拥有权、地图管导航，同一节点可入多张地图。
 
 ## 一、发生什么事
 
@@ -40,7 +39,7 @@ Milo 2020 年 5 月发布首版 LYT Kit（笔记库模板，后更名 Ideaverse�
 
 - \[1\] Milo, N. Linking Your Thinking. https://www.linkingyourthinking.com/ 书目经多源交叉核对。LYT 名称与 MOC 之定义已对照原站核实。（首版 LYT Kit 2020-05，后更名 Ideaverse；individual practitioner 内容）.
 
-引用格式：Trigpoint，〈LYT 与内容地图〉，trigpoint.pub/zh-Hans/collections/pkm/lyt-nick-milo · © Strategitect Limited. · 内容最后修订 2026-10-01
+引用格式：Trigpoint，〈LYT 与内容地图〉，trigpoint.pub/zh-Hans/collections/pkm/lyt-nick-milo · © Strategitect Limited. · 内容最后修订 2026-10-11
 
 ## 来源注记
 

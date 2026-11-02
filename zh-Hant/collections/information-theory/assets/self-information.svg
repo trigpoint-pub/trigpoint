@@ -1,0 +1,43 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="資訊量與機率的關係示意：機率越低資訊量越高，必然事件的資訊量為零；右側說明取對數是為了讓獨立事件的資訊量可以相加">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">越不可能的事，發生時說得越多</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948) · Samson (1951)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="404" height="200" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <line x1="88" y1="232" x2="412" y2="232" stroke="#ced4da" stroke-width="1"/>
+        <line x1="88" y1="86" x2="88" y2="232" stroke="#ced4da" stroke-width="1"/>
+    
+        <path d="M100 92 Q140 190 208 216 T400 231" stroke="#495057" stroke-width="2" fill="none"/>
+    
+        <circle cx="400" cy="231" r="4" fill="#8a5a00"/>
+        <text x="392" y="216" text-anchor="end" font-size="11" fill="#8a5a00">必然發生：沒有資訊</text>
+    
+        <circle cx="104" cy="98" r="4" fill="#8a5a00"/>
+        <text x="118" y="100" font-size="11" fill="#8a5a00">幾乎不可能：資訊量最大</text>
+    
+        <text x="76" y="94" text-anchor="end" font-size="11" fill="#666d75">資訊量</text>
+        <text x="100" y="252" font-size="11" fill="#666d75">機率低</text>
+        <text x="412" y="252" text-anchor="end" font-size="11" fill="#666d75">機率高</text>
+    
+        <rect x="460" y="62" width="220" height="98" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="570" y="88" text-anchor="middle" fill="#495057" font-weight="600">為什麼要取對數</text>
+        <text x="570" y="112" text-anchor="middle" font-size="11.5" fill="#495057">兩件獨立的事，機率相乘</text>
+        <text x="570" y="130" text-anchor="middle" font-size="11.5" fill="#495057">但資訊量應該相加</text>
+        <text x="570" y="150" text-anchor="middle" font-size="11" fill="#666d75">對數把乘法變加法</text>
+    
+        <rect x="460" y="172" width="220" height="90" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="570" y="198" text-anchor="middle" fill="#8a5a00" font-weight="600">機率是誰的機率</text>
+        <text x="570" y="222" text-anchor="middle" font-size="11.5" fill="#8a5a00">同一句話對內行人資訊量低</text>
+        <text x="570" y="240" text-anchor="middle" font-size="11.5" fill="#8a5a00">對局外人資訊量高</text>
+        <text x="570" y="256" text-anchor="middle" font-size="11" fill="#8a5a00">先講清楚是誰的預期</text>
+    
+        <rect x="40" y="278" width="640" height="42" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="304" text-anchor="middle" font-size="11.5" fill="#495057">量見於 1948 但未命名 · 術語造詞歸 1951 那份報告 · 1961 那本書是推廣者 · 另一英文稱法首用未明</text>
+    
+        <line x1="80" y1="340" x2="640" y2="340" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">曲線僅示形狀與方向，刻意無數值刻度、無單位、無座標值。</text>
+        <text x="80" y="378" font-size="11.5" fill="#666d75">1951 年那份報告未讀到原文，字樣本身未能逐字核對；歸屬依後續文獻：方向可信，逐字證據未取得。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

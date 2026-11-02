@@ -1,17 +1,18 @@
 Canonical: https://trigpoint.pub/collections/pkm/code-tiago-forte-2022  
-Captured: 2026-10-05T03:32:10.398685+08:00
+Captured: 2026-11-02T21:27:15.087317+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
 “One pass through the four steps and you ship”: it is not that simple.
 
-# The CODE method
+# CODE method
 
 CODE Method · Forte (2022)
 
 Bibliography checked ✓  
+Lab case ✓  
 Personal knowledge management · workflow  
-Read first: The PARA method
+Read first: PARA method
 
 ## In three sentences
 
@@ -19,7 +20,7 @@ Material you collect goes through four steps before it becomes finished work: Ca
 
 ![The four CODE steps as a flow: Capture and Organize are divergent, Distill and Express are convergent; small pieces made while expressing are saved back for the next project; the Organize step uses the PARA structure](assets/code-tiago-forte-2022.github.svg)
 
-<strong>Figure 1</strong> · The four steps turn outside material into finished work, left to right. Capture and Organize are divergent; Distill and Express are convergent. Small pieces made while expressing are saved back for the next project. The structure used in the Organize step is PARA. Step labels paraphrase the titles of chapters 4 to 7; the back-and-forth between the two modes comes from the author's 2018 blog. Redrawn; not a reproduction of a diagram in the book.
+<strong>Figure 1</strong> · The four steps turn outside material into finished work, left to right. Capture and Organize are divergent; Distill and Express are convergent. Small pieces made while expressing are saved back for the next project. The structure used in the Organize step is PARA. Step labels paraphrase the titles of chapters 4 to 7; the back-and-forth between the two modes comes from the author's 2018 blog.
 
 ## 1. What happened
 
@@ -48,7 +49,11 @@ One boundary to keep. CODE covers how material becomes finished work. Where thin
 - \[3\] Guilford, J. P. (1956). The structure of intellect. Psychological Bulletin, 53(4), 267–293. https://doi.org/10.1037/h0040755 Bibliographic details checked against the publisher's record. The claim that 1956 is the earliest published technical use follows secondary accounts that agree with one another.
 - \[4\] Design Council (UK). History of the Double Diamond. https://www.designcouncil.org.uk/ Bibliographic details checked against the official record. The 2003 and 2004 dates and the use of the two terms checked against the primary site.
 
-Cite as: Trigpoint, “The CODE method”, trigpoint.pub/collections/pkm/code-tiago-forte-2022 · © Strategitect Limited. · Content last revised 2026-10-01
+## Knowledge graph
+
+- [<em>Prerequisite ▸</em>PARA method](para-tiago-forte-2022.md)
+
+Cite as: Trigpoint, “CODE method”, trigpoint.pub/collections/pkm/code-tiago-forte-2022 · © Strategitect Limited. · Content last revised 2026-10-21
 
 ## Source notes
 

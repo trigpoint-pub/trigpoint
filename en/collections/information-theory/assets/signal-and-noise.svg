@@ -1,0 +1,55 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The three source layers of noise: the same input passes through physical, system and cognitive interference before it reaches a judgement, and the line between signal and noise is set by the model in use">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Noise comes from three layers; most people fix one</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1948)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="70" width="96" height="180" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="88" y="152" text-anchor="middle" fill="#495057" font-weight="600">Input</text>
+        <text x="88" y="172" text-anchor="middle" font-size="11" fill="#666d75">undifferentiated</text>
+    
+        <path d="M142 160 L166 160" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M166 160 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="172" y="70" width="132" height="180" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="238" y="96" text-anchor="middle" fill="#212529" font-weight="600">Physical layer</text>
+        <line x1="192" y1="110" x2="284" y2="110" stroke="#e9ecef" stroke-width="1"/>
+        <text x="238" y="136" text-anchor="middle" font-size="11.5" fill="#495057">medium distortion</text>
+        <text x="238" y="158" text-anchor="middle" font-size="11.5" fill="#495057">interference and loss</text>
+        <text x="238" y="192" text-anchor="middle" font-size="11" fill="#8a5a00">easiest to see</text>
+        <text x="238" y="212" text-anchor="middle" font-size="11" fill="#8a5a00">most effort goes here</text>
+    
+        <path d="M310 160 L334 160" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M334 160 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="340" y="70" width="132" height="180" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="406" y="96" text-anchor="middle" fill="#212529" font-weight="600">System layer</text>
+        <line x1="360" y1="110" x2="452" y2="110" stroke="#e9ecef" stroke-width="1"/>
+        <text x="406" y="136" text-anchor="middle" font-size="11.5" fill="#495057">encoding and format</text>
+        <text x="406" y="158" text-anchor="middle" font-size="11.5" fill="#495057">transcription errors</text>
+        <text x="406" y="192" text-anchor="middle" font-size="11" fill="#666d75">accumulates silently</text>
+    
+        <path d="M478 160 L502 160" stroke="#868e96" stroke-width="1.5" fill="none"/>
+        <path d="M502 160 l-7 -4 v8 z" fill="#868e96"/>
+    
+        <rect x="508" y="70" width="132" height="180" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="574" y="96" text-anchor="middle" fill="#212529" font-weight="600">Cognitive layer</text>
+        <line x1="528" y1="110" x2="620" y2="110" stroke="#e9ecef" stroke-width="1"/>
+        <text x="574" y="136" text-anchor="middle" font-size="11.5" fill="#495057">misreading, ambiguity</text>
+        <text x="574" y="158" text-anchor="middle" font-size="11.5" fill="#495057">the receiver's priors</text>
+        <text x="574" y="192" text-anchor="middle" font-size="11" fill="#666d75">hardest to notice</text>
+    
+        <path d="M646 160 L670 160" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M670 160 l-7 -4 v8 z" fill="#8a5a00"/>
+        <text x="678" y="150" text-anchor="end" font-size="11" fill="#8a5a00">Judgement</text>
+    
+        <rect x="40" y="268" width="640" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="360" y="290" text-anchor="middle" fill="#8a5a00" font-weight="600">The line is set by the model, not by the data</text>
+        <text x="360" y="310" text-anchor="middle" font-size="11.5" fill="#8a5a00">the same input is noise for long-run structure and signal for short-run response: say which judgement first</text>
+    
+        <line x1="80" y1="342" x2="640" y2="342" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#666d75">The three layers are conceptual: no proportions, coordinates or measured numbers.</text>
+        <text x="80" y="380" font-size="11.5" fill="#666d75">The aim is not to remove noise but to raise the usable share; discarding is how, and it costs false negatives.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

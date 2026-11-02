@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/  
-Captured: 2026-10-05T03:32:04.443212+08:00
+Captured: 2026-11-02T21:27:05.614402+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -7,23 +7,33 @@ Captured: 2026-10-05T03:32:04.443212+08:00
 
 Foundational literature and methods
 
-This shelf holds 12 nodes, from a 1945 design axiom to a 2016 empirical audit, ordered by the argument rather than by date.Tools go out of date; axioms do not. Read the axioms first, then pick a tool.
+“Knowledge management is picking a good tool”: that is a misreading.
+
+This shelf holds 12 nodes, from a 1945 design axiom to a 2016 empirical audit, ordered by the argument rather than by date. Tools go out of date; axioms do not. Read the axioms first, then pick a tool.
 
 ## Node sequence
 
 Suggested reading order · from the design axiom to the scientific audit
 
+### § First ask: why externalise knowledge at all
+
+Order within the group: the design axiom is proposed → naming and bidirectional links
+
 ### [Memex](memex-bush-1945.md)
 
 Bush (1945)
 
-The Memex is a hypothetical personal information desk proposed in 1945: microfilm storage for a person's entire library and records, with entries chained together by associative trails. The insight is not the capacity. It is the retrieval paradigm: any item can pull up another instantly, replacing library-style hierarchical indexing.
+The Memex is a hypothetical personal information desk proposed in 1945: microfilm storage for a person's entire library and records, with entries chained together by associative trails. The insight is not the capacity. It is the retrieval paradigm: any item can pull up another instantly, supplying routes that library-style hierarchical indexing cannot. The original keeps the ordinary index; association is a layer added on top.
 
 ### [Hypertext and transclusion](hypertext-transclusion-nelson-1965.md)
 
-Hypertext & Transclusion · Nelson (1965)
+Nelson (1965)
 
 The word "hypertext" is defined in Nelson's 1965 paper, meaning interconnected text that paper cannot present. Transclusion, which Nelson says his concept already contained, goes one layer deeper: the same content is embedded by reference in several places, so changing the source changes every instance.
+
+### § How to capture: three philosophies of the atomic note
+
+Order within the group: networked permanent accumulation → linear immediate capture → conceptual atomisation (digital)
 
 ### [Zettelkasten](zettelkasten-luhmann-1981.md)
 
@@ -43,15 +53,19 @@ Matuschak
 
 Evergreen notes are a set of disciplines: one concept per node, organised by concept rather than by source or topic, densely linked between nodes, and iterated on each revisit rather than rewritten.
 
-### [The PARA method](para-tiago-forte-2022.md)
+### § How to organise and navigate
 
-PARA Method · Forte (2022)
+Order within the group: where things go → how material becomes finished work → how many at once → what form to write in → how to find them again
+
+### [PARA method](para-tiago-forte-2022.md)
+
+Forte (2022)
 
 The first question in personal organisation is not what topic this belongs to. It is when you will need it. PARA arranges the answer into four tiers ordered by actionability: Projects are short-term efforts with a goal, Areas need ongoing attention, Resources are held for reference, Archives are no longer active.
 
-### [The CODE method](code-tiago-forte-2022.md)
+### [CODE method](code-tiago-forte-2022.md)
 
-CODE Method · Forte (2022)
+Forte (2022)
 
 Material you collect goes through four steps before it becomes finished work: Capture keeps only what resonates, Organize files it by actionability, Distill marks the essentials layer by layer, and Express assembles output from intermediate packets.
 
@@ -72,6 +86,10 @@ Documentation usually fails for structural reasons rather than stylistic ones: f
 LYT / Map of Content · Milo (2020)
 
 A map of content is a note that references other notes: a hub for gathering, developing and navigating rather than a container. The essential difference from a folder is membership. A folder requires each thing to have exactly one home; a map only references, so one node can appear on any number of maps at once.
+
+### § Does it actually work: the scientific audit
+
+Order within the group: the empirical limits of the fragmentation cost → a stage model of personal information behaviour
 
 ### [Personal information management](bergman-whittaker-2016-pim.md)
 

@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/hypertext-transclusion-nelson-1965  
-Captured: 2026-10-05T03:32:11.478907+08:00
+Captured: 2026-11-02T21:27:16.365927+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -52,7 +52,7 @@ There is a second lesson in Xanadu. Never shipping is not the same as being wron
 - [<em>Compare ▸</em>Zettelkasten](zettelkasten-luhmann-1981.md)
 - [<em>Compare ▸</em>Evergreen notes](evergreen-notes-matuschak.md)
 
-Cite as: Trigpoint, “Hypertext and transclusion”, trigpoint.pub/collections/pkm/hypertext-transclusion-nelson-1965 · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “Hypertext and transclusion”, trigpoint.pub/collections/pkm/hypertext-transclusion-nelson-1965 · © Strategitect Limited. · Content last revised 2026-10-11
 
 ## Source notes
 
@@ -62,7 +62,7 @@ Cite as: Trigpoint, “Hypertext and transclusion”, trigpoint.pub/collections/
 
 <a id="reference-note-2"></a>
 
-**[2]** Nelson, T. H. (1981). Literary Machines. Swarthmore, PA: self-published. Bibliographic details cross-checked against multiple sources. The attribution of the word \\"transclusion\\" to this book follows secondary accounts that agree with one another. Attribution note: the word “transclusion” is generally credited to this book (this page did not check which edition first uses it) and defined as the same content knowably in more than one place. The concept is already present in the description in the 1965 paper. The first edition is 1981, per the copyright pages of the first and third editions held by the Internet Archive; some catalogues give 1980.
+**[2]** Nelson, T. H. (1981). Literary Machines. Swarthmore, PA: self-published. Bibliographic details cross-checked against multiple sources. The attribution of the word \"transclusion\" to this book follows secondary accounts that agree with one another. Attribution note: the word “transclusion” is generally credited to this book (this page did not check which edition first uses it) and defined as the same content knowably in more than one place. The concept is already present in the description in the 1965 paper. The first edition is 1981, per the copyright pages of the first and third editions held by the Internet Archive; some catalogues give 1980.
 
 <a id="reference-note-3"></a>
 

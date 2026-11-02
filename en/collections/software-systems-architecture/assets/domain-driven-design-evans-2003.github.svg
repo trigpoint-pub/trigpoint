@@ -1,0 +1,60 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Above, how knowledge enters the system through one shared vocabulary that becomes the names in the model and the code; below, cutting into contexts, keeping meaning consistent inside each and translating what crosses">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The first carrier of a boundary is vocabulary</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Evans (2003)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="70" width="126" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="103" y="92" text-anchor="middle" fill="#495057">Domain knowledge</text>
+        <text x="103" y="110" text-anchor="middle" font-size="11" fill="#666d75">with its exceptions</text>
+    
+        <path d="M172 96 L200 96" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M200 96 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="206" y="70" width="150" height="52" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="281" y="92" text-anchor="middle" fill="#212529" font-weight="600" font-size="12">One shared vocabulary</text>
+        <text x="281" y="110" text-anchor="middle" font-size="11" fill="#495057">no translation layer</text>
+    
+        <path d="M362 96 L390 96" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M390 96 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="396" y="70" width="150" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="471" y="92" text-anchor="middle" fill="#495057">Model and code names</text>
+        <text x="471" y="110" text-anchor="middle" font-size="11" fill="#666d75">nothing off the glossary</text>
+    
+        <rect x="552" y="70" width="128" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="616" y="90" text-anchor="middle" font-size="11" fill="#8a5a00">Misuse: naming only</text>
+        <text x="616" y="108" text-anchor="middle" font-size="11" fill="#8a5a00">skipping the contexts</text>
+    
+        <text x="40" y="156" font-size="11.5" font-weight="600" fill="#495057">Once scale arrives: cut contexts, do not unify</text>
+    
+        <rect x="40" y="166" width="196" height="76" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="138" y="190" text-anchor="middle" fill="#495057" font-weight="600">Context A</text>
+        <text x="138" y="210" text-anchor="middle" font-size="11.5" fill="#495057">meaning is consistent inside</text>
+        <text x="138" y="228" text-anchor="middle" font-size="11" fill="#666d75">one word, one sense here</text>
+    
+        <rect x="262" y="176" width="196" height="56" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="360" y="198" text-anchor="middle" fill="#212529" font-weight="600">Context map + anti-corruption</text>
+        <text x="360" y="218" text-anchor="middle" font-size="11" fill="#495057">everything crossing is translated</text>
+    
+        <rect x="484" y="166" width="196" height="76" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="582" y="190" text-anchor="middle" fill="#495057" font-weight="600">Context B</text>
+        <text x="582" y="210" text-anchor="middle" font-size="11.5" fill="#495057">the same word, another sense</text>
+        <text x="582" y="228" text-anchor="middle" font-size="11" fill="#666d75">this is allowed, not a defect</text>
+    
+        <path d="M242 204 L256 204" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+        <path d="M464 204 L478 204" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+    
+        <rect x="40" y="256" width="640" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="278" text-anchor="middle" fill="#495057" font-weight="600">When one word means two things on two lines, do not unify: draw a boundary</text>
+        <text x="360" y="294" text-anchor="middle" font-size="11.5" fill="#495057">spend design effort on what is genuinely differentiating; use off-the-shelf for the rest</text>
+    
+        <line x1="80" y1="322" x2="640" y2="322" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="340" font-size="11.5" fill="#666d75">The flow is conceptual, with no measured numbers.</text>
+        <text x="80" y="358" font-size="11.5" fill="#666d75">A context is not a service: the two are orthogonal, and binding them to deployment cuts wrongly.</text>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">As reported, the author later said tactics were over-emphasised and strategy deserved more weight.</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

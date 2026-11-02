@@ -1,0 +1,49 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="四原则结构示意：领域自持事实并做成产品、平台压低提供成本、跨领域标准由联邦决定；右侧标出与单一真相原则的对打点">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">不是拆开就好，难的是那两项治理</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Dehghani (2019, 2022)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="66" width="420" height="30" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="86" font-size="11.5" font-weight="600" fill="#495057">四之四　跨领域标准由联邦决定，并以计算方式落实</text>
+    
+        <rect x="40" y="104" width="132" height="86" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="106" y="126" text-anchor="middle" fill="#212529" font-weight="600">领域 A</text>
+        <text x="106" y="146" text-anchor="middle" font-size="11" fill="#495057">自持自己的事实</text>
+        <text x="106" y="164" text-anchor="middle" font-size="11" fill="#495057">做成有保证的产品</text>
+        <text x="106" y="182" text-anchor="middle" font-size="10.5" fill="#666d75">可发现、可定址、可互通</text>
+    
+        <rect x="184" y="104" width="132" height="86" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="250" y="126" text-anchor="middle" fill="#212529" font-weight="600">领域 B</text>
+        <text x="250" y="146" text-anchor="middle" font-size="11" fill="#495057">同上，各自为其产品负责</text>
+        <text x="250" y="172" text-anchor="middle" font-size="10.5" fill="#666d75">拥有者明确</text>
+    
+        <rect x="328" y="104" width="132" height="86" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="394" y="126" text-anchor="middle" fill="#212529" font-weight="600">领域 C</text>
+        <text x="394" y="146" text-anchor="middle" font-size="11" fill="#495057">来源对齐与消费对齐</text>
+        <text x="394" y="164" text-anchor="middle" font-size="11" fill="#495057">分开管，不混一起</text>
+    
+        <rect x="40" y="198" width="420" height="30" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="218" font-size="11.5" font-weight="600" fill="#495057">四之三　平台层把「提供一份合格产品」的成本压低</text>
+    
+        <rect x="480" y="104" width="200" height="70" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="580" y="126" text-anchor="middle" fill="#8a5a00" font-weight="600">与本书架第一段对打</text>
+        <text x="580" y="146" text-anchor="middle" font-size="11" fill="#8a5a00">书中明文：必须离开</text>
+        <text x="580" y="163" text-anchor="middle" font-size="11" fill="#8a5a00">单一真相这类说法</text>
+    
+        <rect x="480" y="182" width="200" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="580" y="202" text-anchor="middle" font-size="11.5" fill="#495057">两页都对，差在规模</text>
+        <text x="580" y="219" text-anchor="middle" font-size="11" fill="#666d75">与参与人数</text>
+    
+        <rect x="40" y="244" width="640" height="46" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="264" text-anchor="middle" fill="#495057" font-weight="600">判断自己在哪一边，只需一个讯号</text>
+        <text x="360" y="282" text-anchor="middle" font-size="11.5" fill="#495057">每次要改一个共用定义，都得先找一个人或等一个决定，那个定义已经是瓶颈</text>
+    
+        <line x1="80" y1="312" x2="640" y2="312" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="330" font-size="11.5" fill="#666d75">结构为概念示意，不含领域数、规模或任何量测数字。</text>
+        <text x="80" y="348" font-size="11.5" fill="#666d75">只拆不治的结果是孤岛：四原则中缺的通常是产品级保证与平台成本这两项。</text>
+        <text x="80" y="366" font-size="11.5" fill="#666d75">本图与本页皆不使用该书一句广被转引之语：其逐字定位未解，判为改写。</text>
+        <text x="80" y="384" font-size="11.5" fill="#666d75">引句据早期释出版逐字核对；正式版的章次与页码未核。</text>
+        <text x="696" y="396" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

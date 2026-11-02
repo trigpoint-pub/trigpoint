@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hant/collections/hai/use-misuse-disuse-abuse  
-Captured: 2026-10-05T03:32:20.462685+08:00
+Captured: 2026-11-02T21:27:48.710647+08:00
 
 > 公開理論閱讀鏡像。驗證層及 Lab 案例請到原站閱讀。
 
@@ -23,8 +23,7 @@ Lab 實測 ✓
 
 <strong>圖 1</strong> · 依賴校準象限示意：信任對照真實可靠度，錯配出兩個方向。  
 誤用（信過頭）與棄用（信不足）成因獨立，非一個旋鈕的兩端。  
-濫用是設計端維度，不在此平面上，卻製造平面上的錯位。  
-示意重繪自 Parasuraman 與 Riley（1997）框架。
+濫用是設計端維度，不在此平面上，卻製造平面上的錯位。
 
 ## 一、發生什麼事
 
@@ -44,7 +43,7 @@ Lab 實測 ✓
 
 - \[1\] Parasuraman, R., & Riley, V. (1997). Humans and Automation: Use, Misuse, Disuse, Abuse. Human Factors: The Journal of the Human Factors and Ergonomics Society, 39(2), 230–253. https://doi.org/10.1518/001872097778543886
 
-引用格式：Trigpoint，〈使用、誤用、棄用、濫用〉，trigpoint.pub/zh-Hant/collections/hai/use-misuse-disuse-abuse · © Strategitect Limited. · 內容最後修訂 2026-09-28
+引用格式：Trigpoint，〈使用、誤用、棄用、濫用〉，trigpoint.pub/zh-Hant/collections/hai/use-misuse-disuse-abuse · © Strategitect Limited. · 內容最後修訂 2026-10-29
 
 ## 來源註記
 

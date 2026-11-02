@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/personal-kanban-benson-barry-2011  
-Captured: 2026-10-05T03:32:12.692365+08:00
+Captured: 2026-11-02T21:27:17.900269+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -50,7 +50,7 @@ Visualising the work is not decorative either. A queue you can see gets settled.
 - \[3\] Anderson, D. J. (2010). Kanban: Successful Evolutionary Change for Your Technology Business. Blue Hole Press.
 - \[4\] Womack, J. P., Jones, D. T., & Roos, D. (1990). The Machine That Changed the World. Rawson Associates.
 
-Cite as: Trigpoint, “Personal kanban”, trigpoint.pub/collections/pkm/personal-kanban-benson-barry-2011 · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “Personal kanban”, trigpoint.pub/collections/pkm/personal-kanban-benson-barry-2011 · © Strategitect Limited. · Content last revised 2026-10-11
 
 ## Source notes
 

@@ -2,7 +2,7 @@
 <rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
 
       <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">1951 年对照清单，与它的盲点</text>
-      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#868e96">Fitts (1951) · Dekker &amp; Woods (2002)</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Fitts (1951) · Dekker &amp; Woods (2002)</text>
       <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
       <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
         <rect x="40" y="60" width="310" height="176" rx="4" fill="#ffffff" stroke="#dee2e6"/>
@@ -24,7 +24,7 @@
         <text x="360" y="298" text-anchor="middle" fill="#8a5a00" font-weight="600">Dekker 与 Woods（2002）的批判：分工并非零和搬移</text>
         <text x="360" y="318" text-anchor="middle" fill="#8a5a00">自动化会质变留给人的工作；换清单医不好框架的病</text>
         <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
-        <text x="80" y="370" font-size="11.5" fill="#868e96">清单条目为代表项转述，非逐条引录（原报告一手全文取得受阻）。</text>
-        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#c9ccd2">图：trigpoint.pub</text>
+        <text x="80" y="370" font-size="11.5" fill="#666d75">清单条目为代表项转述，非逐条引录（原报告一手全文取得受阻）。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
       </g>
     </svg>

@@ -1,0 +1,47 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A time axis: outside the partition window consistency and availability can both be had, inside it only one of the two, and choosing availability means reconciling once the window closes; the axis deliberately carries no scale or units">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The trade-off lives in the partition window only</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Brewer (2000) · Gilbert &amp; Lynch (2002)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="278" y="72" width="164" height="176" rx="4" fill="#fdf3e0" stroke="#ecd3a8" stroke-dasharray="5 3"/>
+        <text x="360" y="92" text-anchor="middle" font-size="11.5" font-weight="600" fill="#8a5a00">Partition window</text>
+    
+        <line x1="40" y1="264" x2="680" y2="264" stroke="#adb5bd" stroke-width="1.5"/>
+        <path d="M680 264 l-7 -4 v8 z" fill="#adb5bd"/>
+        <text x="680" y="284" text-anchor="end" font-size="11" fill="#666d75">Time (deliberately no scale, no units)</text>
+    
+        <rect x="40" y="110" width="228" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="154" y="132" text-anchor="middle" fill="#495057" font-weight="600">Before the partition</text>
+        <text x="154" y="152" text-anchor="middle" font-size="11.5" fill="#495057">consistency and availability together</text>
+        <text x="154" y="168" text-anchor="middle" font-size="11" fill="#666d75">if it knows none is happening</text>
+    
+        <rect x="292" y="110" width="136" height="46" rx="4" fill="#ffffff" stroke="#8a5a00"/>
+        <text x="360" y="130" text-anchor="middle" font-size="11.5" font-weight="600" fill="#8a5a00">Choose consistency</text>
+        <text x="360" y="147" text-anchor="middle" font-size="11" fill="#8a5a00">availability falls</text>
+    
+        <rect x="292" y="166" width="136" height="46" rx="4" fill="#ffffff" stroke="#8a5a00"/>
+        <text x="360" y="186" text-anchor="middle" font-size="11.5" font-weight="600" fill="#8a5a00">Choose availability</text>
+        <text x="360" y="203" text-anchor="middle" font-size="11" fill="#8a5a00">consistency falls</text>
+    
+        <text x="360" y="234" text-anchor="middle" font-size="11" fill="#8a5a00">only one of the two</text>
+    
+        <rect x="452" y="110" width="228" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="566" y="132" text-anchor="middle" fill="#495057" font-weight="600">After the partition</text>
+        <text x="566" y="152" text-anchor="middle" font-size="11.5" fill="#495057">choosing availability means reconciling</text>
+        <text x="566" y="168" text-anchor="middle" font-size="11" fill="#666d75">deferring it loses both</text>
+    
+        <rect x="40" y="292" width="316" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="198" y="312" text-anchor="middle" fill="#8a5a00" font-weight="600">Dropping partition tolerance is not an option</text>
+        <text x="198" y="329" text-anchor="middle" font-size="11.5" fill="#8a5a00">in a real distributed network, partitions are a given</text>
+    
+        <rect x="364" y="292" width="316" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="522" y="312" text-anchor="middle" fill="#495057" font-weight="600">The trade-off can be made per surface</text>
+        <text x="522" y="329" text-anchor="middle" font-size="11.5" fill="#495057">not system-wide; the author said so in 2012</text>
+    
+        <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="368" font-size="11.5" fill="#666d75">No time scale or units here: how long a partition lasts varies by environment.</text>
+        <text x="80" y="384" font-size="11.5" fill="#666d75">The 2000 talk was a conjecture; the 2002 proof, by two other authors, depends on the network model.</text>
+        <text x="696" y="396" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

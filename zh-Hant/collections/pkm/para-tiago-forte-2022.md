@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hant/collections/pkm/para-tiago-forte-2022  
-Captured: 2026-10-05T03:32:22.911101+08:00
+Captured: 2026-11-02T21:27:52.208439+08:00
 
 > 公開理論閱讀鏡像。驗證層及 Lab 案例請到原站閱讀。
 
@@ -35,7 +35,7 @@ Forte 在 2017 年的網上文章首次提出 PARA（月份未核），2022 年�
 
 檢驗一套組織系統，不是看它整齊與否，而是看任務進行到一半時，能否立刻取到相關材料。按主題分類在收藏時最舒服，在行動時最遲鈍；按可行動性分類剛好相反。它還附帶一條誠實的衰退路徑：project 完結就落 Archives，沒有人維持標準的 area 其實已經停用。主題式歸檔會讓過期的東西體面地住在原位；可行動性一問，它們即刻現形。
 
-一條邊界要記住：PARA 管「放在哪」，不管「怎樣連結」。它與網狀筆記不是競爭關係，是分工：前者答「東西擺邊」，後者答「概念點串」。
+一條邊界要記住：PARA 管「放在哪」，不管「怎樣連結」。它與網狀筆記不是競爭關係，是分工：前者答「東西放在哪裏」，後者答「概念怎樣串連」。
 
 ## 參考文獻
 
@@ -44,7 +44,11 @@ Forte 在 2017 年的網上文章首次提出 PARA（月份未核），2022 年�
 - \[1\] Forte, T. (2022). Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential. New York: Atria Books / Simon & Schuster. https://www.simonandschuster.com/books/Building-a-Second-Brain/Tiago-Forte/9781982167387
 - \[2\] Forte Labs blog. The PARA Method: The Simple System for Organizing Your Digital Life in Seconds. https://fortelabs.com/blog/para/ 書目經官方記錄核對。「organize by actionability」措辭與四層名稱已對照原站核實。（2017 首發；2023 年重刊版本）.
 
-引用格式：Trigpoint，〈PARA 組織法〉，trigpoint.pub/zh-Hant/collections/pkm/para-tiago-forte-2022 · © Strategitect Limited. · 內容最後修訂 2026-10-01
+## 知識圖譜
+
+- [<em>下游 ▸</em>CODE 四步法（CODE Method）](code-tiago-forte-2022.md)
+
+引用格式：Trigpoint，〈PARA 組織法〉，trigpoint.pub/zh-Hant/collections/pkm/para-tiago-forte-2022 · © Strategitect Limited. · 內容最後修訂 2026-10-12
 
 ## 來源註記
 

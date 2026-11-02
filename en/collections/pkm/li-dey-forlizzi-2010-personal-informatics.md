@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/li-dey-forlizzi-2010-personal-informatics  
-Captured: 2026-10-05T03:32:11.481679+08:00
+Captured: 2026-11-02T21:27:16.679229+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -46,7 +46,7 @@ The cascade property also gives you an ordering rule. Make upstream choices with
 
 - \[1\] Li, I., Dey, A. K., & Forlizzi, J. (2010). A Stage-Based Model of Personal Informatics Systems. CHI 2010, 557–566. https://doi.org/10.1145/1753326.1753409
 
-Cite as: Trigpoint, “Stage-based model of personal informatics”, trigpoint.pub/collections/pkm/li-dey-forlizzi-2010-personal-informatics · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “Stage-based model of personal informatics”, trigpoint.pub/collections/pkm/li-dey-forlizzi-2010-personal-informatics · © Strategitect Limited. · Content last revised 2026-10-11
 
 ## Source notes
 

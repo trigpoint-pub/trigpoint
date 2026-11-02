@@ -1,0 +1,69 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="上排為定律方向：實際溝通路徑固化成介面、設計沿介面切分、模組邊界長成團隊邊界；下排為反向用法：先改溝通結構讓組織長出目標架構">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">系統長成你的說話方式，不是你的規劃</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Conway (1968)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" font-weight="600" fill="#495057">定律方向</text>
+    
+        <rect x="40" y="82" width="140" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="110" y="104" text-anchor="middle" font-size="11.5" fill="#495057">實際溝通路徑</text>
+        <text x="110" y="122" text-anchor="middle" font-size="11" fill="#666d75">誰真的跟誰講話</text>
+    
+        <path d="M186 108 L212 108" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M212 108 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="218" y="82" width="140" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="288" y="104" text-anchor="middle" font-size="11.5" fill="#495057">介面固化</text>
+        <text x="288" y="122" text-anchor="middle" font-size="11" fill="#666d75">只能在講話的人之間協商</text>
+    
+        <path d="M364 108 L390 108" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M390 108 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="396" y="82" width="140" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="466" y="104" text-anchor="middle" font-size="11.5" fill="#495057">設計沿介面切分</text>
+    
+        <path d="M542 108 L568 108" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M568 108 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="574" y="82" width="106" height="52" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="627" y="104" text-anchor="middle" fill="#212529" font-weight="600">模組邊界</text>
+        <text x="627" y="122" text-anchor="middle" font-size="11" fill="#495057">＝團隊邊界</text>
+    
+        <text x="40" y="176" font-size="11.5" font-weight="600" fill="#495057">反向用法</text>
+    
+        <rect x="40" y="186" width="140" height="52" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="110" y="208" text-anchor="middle" fill="#212529" font-weight="600">想要的架構</text>
+        <text x="110" y="226" text-anchor="middle" font-size="11" fill="#495057">先寫下來</text>
+    
+        <path d="M186 212 L212 212" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M212 212 l-7 -4 v8 z" fill="#8a5a00"/>
+    
+        <rect x="218" y="186" width="196" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="316" y="208" text-anchor="middle" fill="#8a5a00" font-weight="600">先改說話路徑</text>
+        <text x="316" y="226" text-anchor="middle" font-size="11" fill="#8a5a00">頻率、管道、誰對誰</text>
+    
+        <path d="M420 212 L446 212" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M446 212 l-7 -4 v8 z" fill="#8a5a00"/>
+    
+        <rect x="452" y="186" width="228" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="566" y="208" text-anchor="middle" font-size="11.5" fill="#495057">組織自己長出那個架構</text>
+        <text x="566" y="226" text-anchor="middle" font-size="11" fill="#666d75">順序不可逆：先結構後溝通會被拉回原形</text>
+    
+        <rect x="40" y="256" width="316" height="46" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="198" y="276" text-anchor="middle" fill="#8a5a00" font-weight="600">最常見的誤讀</text>
+        <text x="198" y="294" text-anchor="middle" font-size="11.5" fill="#8a5a00">把實際溝通路徑當成組織圖</text>
+    
+        <rect x="364" y="256" width="316" height="46" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="522" y="276" text-anchor="middle" fill="#495057" font-weight="600">它是約束，不是宿命</text>
+        <text x="522" y="294" text-anchor="middle" font-size="11.5" fill="#495057">可被刻意的溝通設計反制</text>
+    
+        <line x1="80" y1="322" x2="640" y2="322" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="340" font-size="11.5" fill="#666d75">因果關係為概念示意，不含效果量、樣本數或任何量測數字。</text>
+        <text x="80" y="358" font-size="11.5" fill="#666d75">鏡像傾向有一項量化研究支持，本站未核其效果量，故不轉述強度。</text>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">「康威定律」之名由他人冠上，非作者自名。</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

@@ -1,0 +1,55 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Overwriting against event sourcing: above, each change overwrites the last and the history goes with it; below, changes stack up and are never altered, current state comes from replay, with snapshots and outside effects marked as the two difficulties">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The facts are the sequence; the present is computed</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Fowler (2005)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" font-weight="600" fill="#8a5a00">Overwriting: only the present is stored</text>
+        <rect x="40" y="82" width="76" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="78" y="104" text-anchor="middle" font-size="11.5" fill="#666d75">State v1</text>
+        <path d="M122 99 L146 99" stroke="#ecd3a8" stroke-width="1.5" fill="none"/>
+        <path d="M146 99 l-7 -4 v8 z" fill="#ecd3a8"/>
+        <rect x="152" y="82" width="76" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="190" y="104" text-anchor="middle" font-size="11.5" fill="#666d75">State v2</text>
+        <path d="M234 99 L258 99" stroke="#ecd3a8" stroke-width="1.5" fill="none"/>
+        <path d="M258 99 l-7 -4 v8 z" fill="#ecd3a8"/>
+        <rect x="264" y="82" width="76" height="34" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="302" y="104" text-anchor="middle" font-size="11.5" fill="#212529">State v3</text>
+        <text x="356" y="104" font-size="11.5" fill="#8a5a00">the first two were overwritten, unrecoverable</text>
+    
+        <text x="40" y="156" font-size="11.5" font-weight="600" fill="#495057">Event sourcing: appended one by one</text>
+        <rect x="40" y="166" width="76" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="78" y="188" text-anchor="middle" font-size="11.5" fill="#495057">Event 1</text>
+        <rect x="122" y="166" width="76" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="160" y="188" text-anchor="middle" font-size="11.5" fill="#495057">Event 2</text>
+        <rect x="204" y="166" width="76" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="242" y="188" text-anchor="middle" font-size="11.5" fill="#495057">Event 3</text>
+        <rect x="286" y="166" width="76" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6" stroke-dasharray="4 3"/>
+        <text x="324" y="188" text-anchor="middle" font-size="11" fill="#666d75">append only</text>
+    
+        <path d="M78 206 L78 232" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M324 206 L324 232" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M78 232 L324 232" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M201 232 L201 252" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M201 252 l-4 -7 h8 z" fill="#495057"/>
+        <text x="212" y="248" font-size="11" fill="#495057">replay</text>
+    
+        <rect x="126" y="258" width="150" height="38" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="201" y="282" text-anchor="middle" fill="#212529">Current state (derived)</text>
+    
+        <rect x="396" y="150" width="284" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="412" y="172" fill="#8a5a00" font-weight="600">Difficulty one: replay needs snapshots</text>
+        <text x="412" y="192" font-size="11.5" fill="#8a5a00">a snapshot accelerates, it deletes nothing</text>
+    
+        <rect x="396" y="212" width="284" height="66" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="412" y="234" fill="#8a5a00" font-weight="600">Difficulty two: outside effects</text>
+        <text x="412" y="254" font-size="11.5" fill="#8a5a00">replay means re-reading existing facts</text>
+        <text x="412" y="272" font-size="11.5" fill="#8a5a00">not running them again</text>
+    
+        <line x1="80" y1="322" x2="640" y2="322" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="342" font-size="11.5" fill="#666d75">The sequence is conceptual: no time scale, counts or measured numbers.</text>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">In the original, a wrong past event is reversed with those after it, then replayed corrected.</text>
+        <text x="80" y="378" font-size="11.5" fill="#666d75">The original still carries the author's own draft notice, recorded here as it stands.</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

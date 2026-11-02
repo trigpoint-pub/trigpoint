@@ -1,0 +1,46 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="四層概念史層系示意，由下往上為結構祖先、承認他處另有版本的倉儲理想、單一主記錄工程實務、今日字面用法；右側標出唯一版本與唯一來源之分岔">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">概念比名字早，名字查不到單一起點</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Devlin &amp; Murphy (1988) → Loshin (2008)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="404" height="46" rx="4" fill="#ffffff" stroke="#dee2e6" stroke-dasharray="5 3"/>
+        <text x="56" y="80" fill="#212529" font-weight="600">今天的字面用法</text>
+        <text x="56" y="98" font-size="11.5" fill="#8a5a00">造詞者查無，標為結構上不可歸屬</text>
+    
+        <rect x="40" y="118" width="404" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="136" fill="#212529" font-weight="600">單一權威主記錄的工程實務</text>
+        <text x="56" y="154" font-size="11.5" fill="#666d75">把多來源調解成一份主記錄　2008</text>
+    
+        <rect x="40" y="174" width="404" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="192" fill="#212529" font-weight="600">倉儲整合層的理想</text>
+        <text x="56" y="210" font-size="11.5" fill="#666d75">用語為「唯一版本」，本站標 Inmon 為普及者　1990s</text>
+    
+        <rect x="40" y="230" width="404" height="46" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="56" y="248" fill="#212529" font-weight="600">結構祖先（本站標示）：整合式單一倉儲</text>
+        <text x="56" y="266" font-size="11.5" fill="#666d75">一般認為提出企業資料倉儲架構　1988</text>
+    
+        <path d="M452 200 L482 200" stroke="#8a5a00" stroke-width="1.5" fill="none"/>
+        <path d="M482 200 l-7 -4 v8 z" fill="#8a5a00"/>
+    
+        <rect x="488" y="140" width="192" height="60" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="584" y="162" text-anchor="middle" fill="#8a5a00" font-weight="600">唯一版本</text>
+        <text x="584" y="180" text-anchor="middle" font-size="11" fill="#8a5a00">承認來源另有版本</text>
+        <text x="584" y="194" text-anchor="middle" font-size="11" fill="#8a5a00">自己是調解結果</text>
+    
+        <rect x="488" y="208" width="192" height="60" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="584" y="230" text-anchor="middle" fill="#495057" font-weight="600">唯一來源</text>
+        <text x="584" y="248" text-anchor="middle" font-size="11" fill="#495057">每個元素只有一處維護</text>
+        <text x="584" y="262" text-anchor="middle" font-size="11" fill="#495057">他處全部引用</text>
+    
+        <text x="584" y="122" text-anchor="middle" font-size="11.5" font-weight="600" fill="#8a5a00">長期被互換的分岔</text>
+    
+        <rect x="40" y="288" width="640" height="40" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="312" text-anchor="middle" fill="#495057" font-weight="600">指定唯一來源之後，脆弱點會移動：從「哪份對」移到「指過去的線還對不對」</text>
+    
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#666d75">層系為概念史示意，不含比例或任何量測數字；年份為已確認之出版年。</text>
+        <text x="80" y="380" font-size="11.5" fill="#666d75">最上層以虛線框標示，因其造詞者查證結果為無法歸屬，而非未查。</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

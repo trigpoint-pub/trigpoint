@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="率失真曲线示意：容许失真越大所需长度下界越低，失真为零时回到熵；曲线下方为不可能区域；另一条虚线示范换一个失真度量会得到完全不同的曲线">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">决策不在压多少，在你允许损失什么</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Shannon (1959) · Berger (1971)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="62" width="404" height="212" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <line x1="92" y1="244" x2="416" y2="244" stroke="#ced4da" stroke-width="1"/>
+        <line x1="92" y1="86" x2="92" y2="244" stroke="#ced4da" stroke-width="1"/>
+    
+        <path d="M92 96 Q160 180 250 218 T410 243 L410 244 L92 244 Z" fill="#f8f9fa"/>
+        <path d="M92 96 Q160 180 250 218 T410 243" stroke="#495057" stroke-width="2" fill="none"/>
+        <path d="M92 130 Q170 196 256 226 T410 243" stroke="#8a5a00" stroke-width="1.8" fill="none" stroke-dasharray="5 3"/>
+    
+        <circle cx="92" cy="96" r="4" fill="#8a5a00"/>
+        <text x="104" y="92" font-size="11" fill="#8a5a00">失真为零时回到熵</text>
+    
+        <text x="250" y="200" text-anchor="middle" font-size="11.5" fill="#666d75">不可能区域</text>
+        <text x="250" y="218" text-anchor="middle" font-size="11" fill="#666d75">宣称落在这里的压缩不成立</text>
+    
+        <text x="80" y="92" text-anchor="end" font-size="11" fill="#666d75">长度</text>
+        <text x="416" y="264" text-anchor="end" font-size="11" fill="#666d75">容许的失真越大</text>
+    
+        <rect x="460" y="62" width="220" height="102" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="570" y="88" text-anchor="middle" fill="#8a5a00" font-weight="600">两条曲线，不是两组量测</text>
+        <text x="570" y="112" text-anchor="middle" font-size="11.5" fill="#8a5a00">换一个失真度量</text>
+        <text x="570" y="130" text-anchor="middle" font-size="11.5" fill="#8a5a00">就换一条曲线与一套最优解</text>
+        <text x="570" y="152" text-anchor="middle" font-size="11" fill="#8a5a00">理论不替你选标准</text>
+    
+        <rect x="460" y="176" width="220" height="98" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="570" y="202" text-anchor="middle" fill="#495057" font-weight="600">预设值的代价</text>
+        <text x="570" y="226" text-anchor="middle" font-size="11.5" fill="#495057">不指定标准，就默认</text>
+        <text x="570" y="244" text-anchor="middle" font-size="11.5" fill="#495057">「读起来顺不顺」</text>
+        <text x="570" y="264" text-anchor="middle" font-size="11" fill="#666d75">于是条件词先被砍掉</text>
+    
+        <rect x="40" y="290" width="640" height="42" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="316" text-anchor="middle" font-size="11.5" fill="#495057">压缩之前先写一句：我允许损失什么。这句话决定后面所有取舍的方向。</text>
+    
+        <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="372" font-size="11.5" fill="#666d75">曲线仅示形状与端点语义，刻意无数值刻度、无单位、无座标值；曲线为渐近极限，短码情形实际率一般高于它。</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

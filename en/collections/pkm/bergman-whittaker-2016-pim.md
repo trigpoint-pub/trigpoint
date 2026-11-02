@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/bergman-whittaker-2016-pim  
-Captured: 2026-10-05T03:32:09.590602+08:00
+Captured: 2026-11-02T21:27:14.778755+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -47,7 +47,7 @@ One honest addition: that definition covers only the cross-tool kind. It does no
 - \[1\] Bergman, O., & Whittaker, S. (2016). The Science of Managing Our Digital Stuff. Cambridge, MA: MIT Press. https://doi.org/10.7551/mitpress/9780262035170.001.0001
 - \[2\] Bergman, O., Beyth-Marom, R., & Nachmias, R. (2006). The project fragmentation problem in personal information management. CHI 2006, 271–274. https://doi.org/10.1145/1124772.1124813
 
-Cite as: Trigpoint, “Personal information management”, trigpoint.pub/collections/pkm/bergman-whittaker-2016-pim · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “Personal information management”, trigpoint.pub/collections/pkm/bergman-whittaker-2016-pim · © Strategitect Limited. · Content last revised 2026-10-11
 
 ## Source notes
 

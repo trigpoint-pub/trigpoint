@@ -1,11 +1,11 @@
 Canonical: https://trigpoint.pub/collections/pkm/para-tiago-forte-2022  
-Captured: 2026-10-05T03:32:12.500037+08:00
+Captured: 2026-11-02T21:27:17.530731+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
 “Filing by topic is enough”: it will not carry that.
 
-# The PARA method
+# PARA method
 
 PARA Method · Forte (2022)
 
@@ -48,7 +48,11 @@ One boundary to keep. PARA governs where things go, not how they link. It does n
 - \[1\] Forte, T. (2022). Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential. New York: Atria Books / Simon & Schuster. https://www.simonandschuster.com/books/Building-a-Second-Brain/Tiago-Forte/9781982167387
 - \[2\] Forte Labs blog. The PARA Method: The Simple System for Organizing Your Digital Life in Seconds. https://fortelabs.com/blog/para/ Bibliographic details checked against the official record. The \\"organize by actionability\\" wording and the four tier names checked against the primary site. First published in 2017; 2023 republished version.
 
-Cite as: Trigpoint, “The PARA method”, trigpoint.pub/collections/pkm/para-tiago-forte-2022 · © Strategitect Limited. · Content last revised 2026-10-01
+## Knowledge graph
+
+- [<em>Downstream ▸</em>CODE method](code-tiago-forte-2022.md)
+
+Cite as: Trigpoint, “PARA method”, trigpoint.pub/collections/pkm/para-tiago-forte-2022 · © Strategitect Limited. · Content last revised 2026-10-12
 
 ## Source notes
 
@@ -58,7 +62,7 @@ Cite as: Trigpoint, “The PARA method”, trigpoint.pub/collections/pkm/para-ti
 
 <a id="reference-note-2"></a>
 
-**[2]** Forte Labs. Bibliographic details checked against the official record. The \\"organize by actionability\\" wording and the four tier names checked against the primary site. Blog, available at fortelabs.com/blog/para. Attribution note: PARA first appeared online in 2017 (month not verified). The current online version is a 2023 republication.
+**[2]** Forte Labs. Bibliographic details checked against the official record. The \"organize by actionability\" wording and the four tier names checked against the primary site. Blog, available at fortelabs.com/blog/para. Attribution note: PARA first appeared online in 2017 (month not verified). The current online version is a 2023 republication.
 
 ---
 

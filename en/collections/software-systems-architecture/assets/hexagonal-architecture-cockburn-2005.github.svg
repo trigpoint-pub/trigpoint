@@ -1,0 +1,53 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Three layers from the inside out: the core declares its ports, each technology writes an adapter implementing one, and dependency always points inward; people and tests drive from the primary side, databases and outside systems sit on the secondary side">
+<rect x="0" y="0" width="720" height="400" fill="#ffffff"/>
+
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The core declares the ports; technology implements them</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Cockburn (2005)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="196" y="130" width="328" height="120" rx="6" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="360" y="152" text-anchor="middle" font-size="11" fill="#666d75">Adapter layer</text>
+    
+        <rect x="238" y="162" width="244" height="72" rx="5" fill="#f8f9fa" stroke="#868e96"/>
+        <text x="360" y="182" text-anchor="middle" font-size="11" fill="#495057">Ports (declared by the core)</text>
+    
+        <rect x="276" y="190" width="168" height="36" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="360" y="213" text-anchor="middle" fill="#212529" font-weight="600">Core</text>
+    
+        <text x="40" y="120" font-size="11.5" font-weight="600" fill="#495057">Primary side</text>
+        <rect x="40" y="130" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="110" y="152" text-anchor="middle" font-size="11.5" fill="#495057">people operating it</text>
+        <rect x="40" y="170" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="110" y="192" text-anchor="middle" font-size="11.5" fill="#495057">automated tests</text>
+        <rect x="40" y="210" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="110" y="232" text-anchor="middle" font-size="11" fill="#495057">batch or another app</text>
+    
+        <text x="540" y="120" font-size="11.5" font-weight="600" fill="#495057">Secondary side</text>
+        <rect x="540" y="130" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="610" y="152" text-anchor="middle" font-size="11.5" fill="#495057">database</text>
+        <rect x="540" y="170" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="610" y="192" text-anchor="middle" font-size="11.5" fill="#495057">outside systems</text>
+        <rect x="540" y="210" width="140" height="34" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="610" y="232" text-anchor="middle" font-size="11.5" fill="#495057">an in-memory fake</text>
+    
+        <path d="M186 187 L232 197" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M232 197 l-8 -2 l1 8 z" fill="#495057"/>
+        <path d="M534 197 L488 197" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M488 197 l7 -4 v8 z" fill="#495057"/>
+        <text x="196" y="264" font-size="11" fill="#666d75">dependency always points inward</text>
+    
+        <rect x="40" y="278" width="316" height="46" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="198" y="298" text-anchor="middle" fill="#495057" font-weight="600">A testable criterion</text>
+        <text x="198" y="316" text-anchor="middle" font-size="11.5" fill="#495057">can the core run with no external technology present?</text>
+    
+        <rect x="364" y="278" width="316" height="46" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="522" y="298" text-anchor="middle" fill="#8a5a00" font-weight="600">What fake decoupling looks like</text>
+        <text x="522" y="316" text-anchor="middle" font-size="11.5" fill="#8a5a00">there are ports, but named in the tool's vocabulary</text>
+    
+        <line x1="80" y1="344" x2="640" y2="344" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="362" font-size="11.5" fill="#666d75">The layers are conceptual, with no measured numbers; no hexagon is drawn, since the six sides carry no meaning.</text>
+        <text x="80" y="380" font-size="11.5" fill="#666d75">Checked against the original 2005 report; only the statement of intent is quoted verbatim.</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

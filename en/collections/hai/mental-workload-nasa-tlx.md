@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/hai/mental-workload-nasa-tlx  
-Captured: 2026-10-05T03:32:08.402201+08:00
+Captured: 2026-11-02T21:27:12.721632+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 

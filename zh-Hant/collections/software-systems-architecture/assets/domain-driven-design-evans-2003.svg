@@ -1,0 +1,58 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="上排為知識入系統之路徑：共用詞彙直接成為模型與程式的名字，中間無翻譯層；下排為規模上來後切界，界內語義一致，跨界靠對照圖與防腐轉換">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">邊界的第一個載體是詞彙，不是圖</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Evans (2003)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="40" y="70" width="126" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="103" y="92" text-anchor="middle" fill="#495057">領域知識</text>
+        <text x="103" y="110" text-anchor="middle" font-size="11" fill="#666d75">含條件與例外</text>
+    
+        <path d="M172 96 L200 96" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M200 96 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="206" y="70" width="150" height="52" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="281" y="92" text-anchor="middle" fill="#212529" font-weight="600">共用一組詞彙</text>
+        <text x="281" y="110" text-anchor="middle" font-size="11" fill="#495057">中間不設翻譯層</text>
+    
+        <path d="M362 96 L390 96" stroke="#495057" stroke-width="1.5" fill="none"/>
+        <path d="M390 96 l-7 -4 v8 z" fill="#495057"/>
+    
+        <rect x="396" y="70" width="150" height="52" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="471" y="92" text-anchor="middle" fill="#495057">模型與程式的名字</text>
+        <text x="471" y="110" text-anchor="middle" font-size="11" fill="#666d75">詞彙表沒有的，不該偷偷長出來</text>
+    
+        <rect x="552" y="70" width="128" height="52" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="616" y="90" text-anchor="middle" font-size="11" fill="#8a5a00">常見誤用：只套命名</text>
+        <text x="616" y="108" text-anchor="middle" font-size="11" fill="#8a5a00">略過語言與切界</text>
+    
+        <text x="40" y="156" font-size="11.5" font-weight="600" fill="#495057">規模上來之後：切界，不是統一</text>
+    
+        <rect x="40" y="166" width="196" height="76" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="138" y="190" text-anchor="middle" fill="#495057" font-weight="600">界 A</text>
+        <text x="138" y="210" text-anchor="middle" font-size="11.5" fill="#495057">界內語義一致</text>
+        <text x="138" y="228" text-anchor="middle" font-size="11" fill="#666d75">同一個詞在此只有一義</text>
+    
+        <rect x="262" y="176" width="196" height="56" rx="4" fill="#ffffff" stroke="#495057"/>
+        <text x="360" y="198" text-anchor="middle" fill="#212529" font-weight="600">對照圖 ＋ 防腐轉換</text>
+        <text x="360" y="218" text-anchor="middle" font-size="11" fill="#495057">跨界一律顯式轉換</text>
+    
+        <rect x="484" y="166" width="196" height="76" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="582" y="190" text-anchor="middle" fill="#495057" font-weight="600">界 B</text>
+        <text x="582" y="210" text-anchor="middle" font-size="11.5" fill="#495057">同一個詞可以是另一義</text>
+        <text x="582" y="228" text-anchor="middle" font-size="11" fill="#666d75">這是允許的，不是缺陷</text>
+    
+        <path d="M242 204 L256 204" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+        <path d="M464 204 L478 204" stroke="#adb5bd" stroke-width="1.5" fill="none"/>
+    
+        <rect x="40" y="256" width="640" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="278" text-anchor="middle" fill="#495057" font-weight="600">發現同一個詞在兩條線指不同東西時，不要統一，畫界</text>
+        <text x="360" y="294" text-anchor="middle" font-size="11.5" fill="#495057">設計力氣優先投在真正差異化的那一塊，其餘用現成做法</text>
+    
+        <line x1="80" y1="322" x2="640" y2="322" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="340" font-size="11.5" fill="#666d75">流程為概念示意，不含任何量測數字。</text>
+        <text x="80" y="358" font-size="11.5" fill="#666d75">一個界不等於一個服務：兩者正交，硬綁部署邊界會誤切，見本站微服務頁。</text>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">據報導，作者後來說：戰術建構元件被過度強調，策略層應更受重視。</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

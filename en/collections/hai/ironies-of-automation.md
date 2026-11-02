@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/hai/ironies-of-automation  
-Captured: 2026-10-05T03:32:07.520702+08:00
+Captured: 2026-11-02T21:27:11.953308+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -10,6 +10,7 @@ Design the human out, and the hardest leftover work still lands on the human.
 ironies of automation · Bainbridge (1983)
 
 Checked against the sources ✓  
+Lab case ✓  
 Human-automation interaction · founding paradox
 
 ## In three sentences
@@ -18,7 +19,7 @@ Automation set out to replace an unreliable human and ended up handing the harde
 
 ![Causal structure of the ironies of automation: designers automate what they can, while residual tasks, skill decay and failed monitoring converge on the moment of takeover; the more successful the automation, the more training the operator needs](assets/ironies-of-automation.github.svg)
 
-<strong>Figure 1</strong> · The causal structure of the ironies. Designers automate the part they can see how to automate; the residual problems, the decayed skills, and the monitoring that was never humanly possible all land on the moment of takeover. Redrawn from the structure of Bainbridge's argument (1983).
+<strong>Figure 1</strong> · The causal structure of the ironies. Designers automate the part they can see how to automate; the residual problems, the decayed skills, and the monitoring that was never humanly possible all land on the moment of takeover.
 
 ## 1. What happened
 
@@ -45,7 +46,7 @@ Boundary: this is a causal argument with no answer to which level to pick; the h
 - \[1\] Bainbridge, L. (1983). Ironies of Automation. Automatica, 19(6), 775–779. https://doi.org/10.1016/0005-1098(83)90046-8
 - \[2\] Mackworth, N. H. (1950). Researches on the Measurement of Human Performance. Cited as reported in Bainbridge (1983).
 
-Cite as: Trigpoint, “Ironies of automation”, trigpoint.pub/collections/hai/ironies-of-automation · © Strategitect Limited. · Content last revised 2026-09-28
+Cite as: Trigpoint, “Ironies of automation”, trigpoint.pub/collections/hai/ironies-of-automation · © Strategitect Limited. · Content last revised 2026-10-21
 
 ## Source notes
 

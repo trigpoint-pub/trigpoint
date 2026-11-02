@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hans/collections/hai/  
-Captured: 2026-10-05T03:32:04.495897+08:00
+Captured: 2026-11-02T21:27:07.168078+08:00
 
 > 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 
@@ -57,13 +57,13 @@ levels of automation · Sheridan & Verplank (1978) · Parasuraman, Sheridan & Wi
 
 vigilance decrement · Mackworth (1948)
 
-人类持续盯住一个少变化的讯号源，侦测率在约三十分钟内显著衰退。
+人类持续盯住一个少变化的讯号源，侦测率会随时间衰退；Mackworth 的实验中，约三十分钟内已明显下跌（量级，经二手转述）。
 
 ### [自动化自满与偏误](automation-complacency.md)
 
 automation complacency & bias · Parasuraman & Manzey (2010)
 
-自满与偏误是同一个注意力机制的两张脸：注意力从自动化输出撤走，监控端漏看沉默失误（自满），决策端盲从系统建议（偏误）。
+自满与偏误是两个重叠的现象，核心都在注意力：注意力从自动化输出撤走，监控端漏看沉默失误（自满），决策端盲从系统建议（偏误）。
 
 ### [脱离回路](out-of-the-loop.md)
 

@@ -1,0 +1,44 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="两条独立判定线交叉之四象限：横轴为是否被来源支持，纵轴为对世界是否为真；左上为脱离来源但查证为真，右下为来源自己错而如实复写">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">两把尺，四种坏法，修法各不相同</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Maynez et al. (2020)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" fill="#666d75">纵轴：对世界是不是真的</text>
+        <text x="452" y="72" font-size="11.5" fill="#666d75">横轴：有没有被来源支持</text>
+    
+        <rect x="152" y="84" width="252" height="92" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="278" y="108" text-anchor="middle" fill="#8a5a00" font-weight="600">不忠实，但为真</text>
+        <text x="278" y="130" text-anchor="middle" font-size="11.5" fill="#8a5a00">脱离来源生成，查证后为真</text>
+        <text x="278" y="150" text-anchor="middle" font-size="11.5" fill="#8a5a00">本站立场：这不是「幸好没错」</text>
+        <text x="278" y="168" text-anchor="middle" font-size="11" font-weight="600" fill="#8a5a00">是流程在该位置没有约束力</text>
+    
+        <rect x="410" y="84" width="252" height="92" rx="4" fill="#f8f9fa" stroke="#495057"/>
+        <text x="536" y="108" text-anchor="middle" fill="#212529" font-weight="600">忠实且为真</text>
+        <text x="536" y="130" text-anchor="middle" font-size="11.5" fill="#495057">理想情形</text>
+        <text x="536" y="150" text-anchor="middle" font-size="11.5" fill="#666d75">两把尺都过</text>
+    
+        <rect x="152" y="186" width="252" height="92" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="278" y="210" text-anchor="middle" fill="#8a5a00" font-weight="600">不忠实，也不为真</text>
+        <text x="278" y="232" text-anchor="middle" font-size="11.5" fill="#8a5a00">典型有害</text>
+        <text x="278" y="252" text-anchor="middle" font-size="11.5" fill="#8a5a00">来源没说，世界也不是这样</text>
+    
+        <rect x="410" y="186" width="252" height="92" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="536" y="210" text-anchor="middle" fill="#495057" font-weight="600">忠实，但不为真</text>
+        <text x="536" y="232" text-anchor="middle" font-size="11.5" fill="#495057">来源自己错，你如实复写</text>
+        <text x="536" y="252" text-anchor="middle" font-size="11.5" fill="#495057">忠实度一百分，结论仍错</text>
+    
+        <text x="40" y="130" font-size="11.5" fill="#495057">为真</text>
+        <text x="40" y="238" font-size="11.5" fill="#495057">不为真</text>
+        <text x="220" y="296" text-anchor="middle" font-size="11.5" fill="#495057">没有</text>
+        <text x="536" y="296" text-anchor="middle" font-size="11.5" fill="#495057">有</text>
+    
+        <rect x="40" y="308" width="640" height="40" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="360" y="332" text-anchor="middle" fill="#495057" font-weight="600">先问「这是我给的材料说的吗」（便宜、可每次做），再问「这对吗」（贵，留给承重的断言）</text>
+    
+        <line x1="80" y1="360" x2="640" y2="360" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="376" font-size="11.5" fill="#666d75">象限为概念示意，刻意不标任何比例：该篇的统计数字本站未逐表核对。</text>
+        <text x="80" y="392" font-size="11.5" fill="#666d75">两轴皆需一个明确的来源文件；开放式生成里忠实这一轴没有比对对象，须外推使用。</text>
+        <text x="696" y="398" text-anchor="end" font-size="10.5" fill="#666d75">图：trigpoint.pub</text>
+      </g>
+    </svg>

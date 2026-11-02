@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hans/collections/pkm/code-tiago-forte-2022  
-Captured: 2026-10-05T03:32:15.861789+08:00
+Captured: 2026-11-02T21:27:32.368914+08:00
 
 > 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 
@@ -10,6 +10,7 @@ Captured: 2026-10-05T03:32:15.861789+08:00
 CODE Method · Forte (2022)
 
 书目已核 ✓  
+Lab 实测 ✓  
 个人知识管理 · 工作流程  
 先读：PARA 组织法
 
@@ -23,8 +24,7 @@ CODE Method · Forte (2022)
 
 <strong>图 1</strong> · 四步由左至右把外部材料逐步变成成果：抓取、组织属发散，提炼、表达属收敛；表达时做出的小件回存，供下一个专案重用。  
 组织一步的结构即 PARA。  
-步骤标签为书第 4 至 7 章章名之转述；两种模式来回交替，出自作者 2018 年网志。  
-示意重绘，非原书图表。
+步骤标签为书第 4 至 7 章章名之转述；两种模式来回交替，出自作者 2018 年网志。
 
 ## 一、发生什么事
 
@@ -49,7 +49,11 @@ CODE Method · Forte (2022)
 - \[3\] Guilford, J. P. (1956). The structure of intellect. Psychological Bulletin, 53(4), 267–293. https://doi.org/10.1037/h0040755 书目经出版社记录核对。「1956 年为已知最早刊出之技术用语」一说依多源一致转述。
 - \[4\] Design Council (UK). History of the Double Diamond. https://www.designcouncil.org.uk/ 书目经官方记录核对。2003／2004 年份与两词用法已对照原站核实。
 
-引用格式：Trigpoint，〈CODE 四步法〉，trigpoint.pub/zh-Hans/collections/pkm/code-tiago-forte-2022 · © Strategitect Limited. · 内容最后修订 2026-10-01
+## 知识图谱
+
+- [<em>前置 ▸</em>PARA 组织法（PARA Method）](para-tiago-forte-2022.md)
+
+引用格式：Trigpoint，〈CODE 四步法〉，trigpoint.pub/zh-Hans/collections/pkm/code-tiago-forte-2022 · © Strategitect Limited. · 内容最后修订 2026-10-21
 
 ## 来源注记
 

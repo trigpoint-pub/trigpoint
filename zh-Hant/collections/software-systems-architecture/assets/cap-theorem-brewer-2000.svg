@@ -1,0 +1,47 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="時間軸示意：分區窗口之外一致與可用可同時具備，窗口之內只能二選一，選可用者需在窗口結束後收斂衝突。橫軸刻意無刻度與單位">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">取捨只在分區那一段，不是永久標籤</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Brewer (2000) · Gilbert &amp; Lynch (2002)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <rect x="278" y="72" width="164" height="176" rx="4" fill="#fdf3e0" stroke="#ecd3a8" stroke-dasharray="5 3"/>
+        <text x="360" y="92" text-anchor="middle" font-size="11.5" font-weight="600" fill="#8a5a00">分區窗口</text>
+    
+        <line x1="40" y1="264" x2="680" y2="264" stroke="#adb5bd" stroke-width="1.5"/>
+        <path d="M680 264 l-7 -4 v8 z" fill="#adb5bd"/>
+        <text x="680" y="284" text-anchor="end" font-size="11" fill="#666d75">時間（刻意無刻度、無單位）</text>
+    
+        <rect x="40" y="110" width="228" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="154" y="132" text-anchor="middle" fill="#495057" font-weight="600">分區之前</text>
+        <text x="154" y="152" text-anchor="middle" font-size="11.5" fill="#495057">一致與可用可以同時有</text>
+        <text x="154" y="168" text-anchor="middle" font-size="11" fill="#666d75">前提：系統確知沒有分區</text>
+    
+        <rect x="292" y="110" width="136" height="46" rx="4" fill="#ffffff" stroke="#8a5a00"/>
+        <text x="360" y="130" text-anchor="middle" font-size="11.5" font-weight="600" fill="#8a5a00">選一致</text>
+        <text x="360" y="147" text-anchor="middle" font-size="11" fill="#8a5a00">阻塞或拒絕，可用下降</text>
+    
+        <rect x="292" y="166" width="136" height="46" rx="4" fill="#ffffff" stroke="#8a5a00"/>
+        <text x="360" y="186" text-anchor="middle" font-size="11.5" font-weight="600" fill="#8a5a00">選可用</text>
+        <text x="360" y="203" text-anchor="middle" font-size="11" fill="#8a5a00">兩側各自服務，一致下降</text>
+    
+        <text x="360" y="234" text-anchor="middle" font-size="11" fill="#8a5a00">只能二選一</text>
+    
+        <rect x="452" y="110" width="228" height="60" rx="4" fill="#f8f9fa" stroke="#dee2e6"/>
+        <text x="566" y="132" text-anchor="middle" fill="#495057" font-weight="600">分區之後</text>
+        <text x="566" y="152" text-anchor="middle" font-size="11.5" fill="#495057">選可用者要收斂衝突</text>
+        <text x="566" y="168" text-anchor="middle" font-size="11" fill="#666d75">推而不做，等於兩頭都失</text>
+    
+        <rect x="40" y="292" width="316" height="44" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="198" y="312" text-anchor="middle" fill="#8a5a00" font-weight="600">放棄分區容錯是偽選項</text>
+        <text x="198" y="329" text-anchor="middle" font-size="11.5" fill="#8a5a00">在真正的分散式網路裡，分區是環境前提</text>
+    
+        <rect x="364" y="292" width="316" height="44" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="522" y="312" text-anchor="middle" fill="#495057" font-weight="600">取捨可以按面分開做</text>
+        <text x="522" y="329" text-anchor="middle" font-size="11.5" fill="#495057">不必全系統一刀切，原作者 2012 年明說</text>
+    
+        <line x1="80" y1="352" x2="640" y2="352" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="368" font-size="11.5" fill="#666d75">本圖無時間刻度與單位：分區的長短因環境而異，不是本頁能給的數字。</text>
+        <text x="80" y="384" font-size="11.5" fill="#666d75">2000 年那場是猜想；2002 年另兩位作者才是證明，結論強弱隨網路模型而變。</text>
+        <text x="696" y="396" text-anchor="end" font-size="10.5" fill="#666d75">圖：trigpoint.pub</text>
+      </g>
+    </svg>

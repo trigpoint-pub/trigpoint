@@ -1,0 +1,51 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A four-cell comparison of the two rulers: the horizontal axis is how statistically random something looks, the vertical axis is how hard it is to generate algorithmically, and the diverging cell holds strings that pass standard statistical tests of randomness yet come from a very short program">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">The two rulers measure different things</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Solomonoff (1964) · Kolmogorov (1965) · Chaitin (1966)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="60" y="76" font-size="11" fill="#666d75">hard to generate</text>
+        <text x="60" y="272" font-size="11" fill="#666d75">easy to generate</text>
+        <line x1="52" y1="86" x2="52" y2="258" stroke="#ced4da" stroke-width="1"/>
+        <line x1="52" y1="258" x2="500" y2="258" stroke="#ced4da" stroke-width="1"/>
+        <text x="64" y="290" font-size="11" fill="#666d75">statistically structured</text>
+        <text x="500" y="290" text-anchor="end" font-size="11" fill="#666d75">looks statistically random</text>
+    
+        <rect x="64" y="86" width="204" height="80" rx="4" fill="#ffffff" stroke="#e9ecef"/>
+        <text x="166" y="112" text-anchor="middle" font-size="11.5" fill="#495057" font-weight="600">Structured yet hard to generate</text>
+        <text x="166" y="134" text-anchor="middle" font-size="11" fill="#666d75">both rulers rate it mid-to-high</text>
+        <text x="166" y="152" text-anchor="middle" font-size="11" fill="#666d75">most real data lands here</text>
+    
+        <rect x="284" y="86" width="204" height="80" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="386" y="112" text-anchor="middle" font-size="11.5" fill="#8a5a00" font-weight="600">Genuinely unstructured</text>
+        <text x="386" y="134" text-anchor="middle" font-size="11" fill="#8a5a00">no description shorter than itself</text>
+        <text x="386" y="152" text-anchor="middle" font-size="11" fill="#8a5a00">this is what random means here</text>
+    
+        <rect x="64" y="178" width="204" height="80" rx="4" fill="#ffffff" stroke="#e9ecef"/>
+        <text x="166" y="204" text-anchor="middle" font-size="11.5" fill="#495057" font-weight="600">Highly repetitive content</text>
+        <text x="166" y="226" text-anchor="middle" font-size="11" fill="#666d75">both rulers rate it low</text>
+        <text x="166" y="244" text-anchor="middle" font-size="11" fill="#666d75">compresses thoroughly</text>
+    
+        <rect x="284" y="178" width="204" height="80" rx="4" fill="#f8f9fa" stroke="#8a5a00"/>
+        <text x="386" y="200" text-anchor="middle" font-size="11.5" fill="#8a5a00" font-weight="600">Where the rulers diverge most</text>
+        <text x="386" y="220" text-anchor="middle" font-size="11" fill="#495057">passes standard randomness tests</text>
+        <text x="386" y="238" text-anchor="middle" font-size="11" fill="#495057">yet comes from a very short program</text>
+        <text x="386" y="254" text-anchor="middle" font-size="11" fill="#666d75">neither ruler is wrong</text>
+    
+        <rect x="516" y="86" width="164" height="172" rx="4" fill="#f8f9fa" stroke="#e9ecef"/>
+        <text x="598" y="112" text-anchor="middle" fill="#495057" font-weight="600">Three independent lines</text>
+        <line x1="536" y1="126" x2="660" y2="126" stroke="#dee2e6" stroke-width="1"/>
+        <text x="598" y="150" text-anchor="middle" font-size="11.5" fill="#495057">universal prior, 1964</text>
+        <text x="598" y="174" text-anchor="middle" font-size="11.5" fill="#495057">string complexity, 1965</text>
+        <text x="598" y="198" text-anchor="middle" font-size="10.5" fill="#495057">algorithmic randomness 1966</text>
+        <line x1="536" y1="214" x2="660" y2="214" stroke="#dee2e6" stroke-width="1"/>
+        <text x="598" y="236" text-anchor="middle" font-size="11" fill="#666d75">one name erases the earliest</text>
+        <text x="598" y="252" text-anchor="middle" font-size="11" fill="#666d75">and the parallel history</text>
+    
+        <line x1="80" y1="304" x2="640" y2="304" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="324" font-size="11.5" fill="#666d75">The four cells locate concepts: no coordinates, proportions or measured numbers.</text>
+        <text x="80" y="342" font-size="11.5" fill="#666d75">The quantity is uncomputable, approachable only from above: a compression ratio is an upper bound.</text>
+        <text x="80" y="360" font-size="11.5" fill="#666d75">The convergence of the two rulers holds under ergodicity, which is a load-bearing premise, not a technicality.</text>
+        <text x="696" y="392" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

@@ -14,7 +14,7 @@ Shelf pages retain the website's sequence and grouping. Links to mirrored nodes 
 
 Inline reference popovers from the public page appear as ordinary linked source notes. Their wording and stated verification depth are retained. The reference list remains in its original numbered wording. Original SVGs are kept byte-for-byte. Display copies add only a white background rectangle so dark source text remains readable in a dark interface; source captions, text, geometry and links to the original SVG are preserved.
 
-Related-node links become readable lists. Six separator characters in four Chinese files use a middle dot in place of the source's long dash; link titles and destinations are otherwise retained. These navigation changes are recorded in `SOURCES.json`. Body sentences and diagrams are unchanged.
+Related-node links become readable lists; link titles and destinations are retained. Where a label's separator has to change for readability, the change is recorded under `format_changes` in `SOURCES.json`; the 2026-11-02 capture needed none. Body sentences and diagrams are unchanged.
 
 The `Captured:` timestamp records when the page was retrieved. A source revision date records what the original page says; neither is a GitHub publication date. `SOURCES.json` lists source URLs and HTML hashes, Markdown hashes and diagram hashes. These identify the captured material; they do not establish that a claim is true.
 
@@ -22,7 +22,7 @@ Use file **History** or Git diffs to see later changes. Consult the original pag
 
 ## Scope and rights
 
-The mirror contains the existing public theory introductions, reference material, corrections, reading indexes and reading rules. Verification-layer sections, counter-example sections in that layer, Lab case content including public trials, locked content, early-access material, forms and executable website code are excluded. Application-only labels without public node links are omitted from the source knowledge graph.
+The mirror contains the existing public theory introductions, common-misreading lists, reference material, corrections, reading indexes and reading rules. Verification-layer sections, counter-example sections in that layer, Lab case content including public trials, locked content, early-access material, forms and executable website code are excluded. Verification records and verification-layer sections are excluded even where the website shows them publicly. Open-question prompts, which the website removes after a reader responds or after a set period, and embedded video introductions are also excluded. Application-only labels without public node links are omitted from the source knowledge graph.
 
 Source diagrams are Trigpoint's published inline SVGs. This repository does not bundle font files or download third-party original illustrations. Existing author attribution and notices remain attached to the content. Third-party quotations and materials are outside the content license; the original source and its rights still apply.
 

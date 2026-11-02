@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hans/collections/pkm/diataxis-procida  
-Captured: 2026-10-05T03:32:16.656528+08:00
+Captured: 2026-11-02T21:27:32.907815+08:00
 
 > 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 
@@ -16,12 +16,11 @@ Diátaxis · Procida
 
 文件写不好，多数不是文笔问题，是四种读者需求被塞进同一份文件。  
 Diátaxis 用两条轴拆开：读者在做还是在想、在学还是在用，推出四型：tutorial、how-to、reference、explanation。  
-核心纪律只有一条：四型分开维护，不混写。
+核心主张是四型各有其职，写法不要互相渗透；框架不规定实作形式，要不要拆成不同档案是使用者自己的取舍。
 
 ![Diátaxis 两轴推导四型：实作对认知乘学习对应用，落出 tutorial、how-to、reference、explanation 四格](assets/diataxis-procida.github.svg)
 
-<strong>图 1</strong> · 两轴推导四型示意：实作对认知（做还是想）× 学习对应用（在学还是在用），落出 tutorial、how-to、reference、explanation 四格，各服务一种读者需求。  
-示意重绘，布局非原站图版。
+<strong>图 1</strong> · 两轴推导四型示意：实作对认知（做还是想）× 学习对应用（在学还是在用），落出 tutorial、how-to、reference、explanation 四格，各服务一种读者需求。
 
 ## 一、发生什么事
 
@@ -31,7 +30,7 @@ Procida 在 Divio 任职期间（2014 至 2021）发表过这套想法的早期�
 
 ## 二、为什么这对你重要
 
-判断一份文件该不该拆，先问读者此刻在哪个象限，而不是问内容属于哪个主题。这也是知识系统设计里三个常被混答的问题之一：东西放哪（组织法的事）、怎么找回来（导航的事）、写成什么型（本框架的事）。三问正交，混答互相拖累。对个人笔记的推论：你写给自己的操作手册与你写给自己的概念解释，也不该是同一份档案，两者更新节奏不同、失效方式不同。
+判断一份文件该不该拆，先问读者此刻在哪个象限，而不是问内容属于哪个主题。放在本站的知识系统设计框架里，这是三个常被混答的问题之一：东西放哪（组织法的事）、怎么找回来（导航的事）、写成什么型（本框架的事）。三问正交，混答互相拖累。延伸到个人笔记是本站的做法，不是框架的规定：我们把写给自己的操作手册与概念解释分成两份档案，因为两者更新节奏不同、失效方式不同。框架本身要的是同一段文字不混用两种需求，不规定拆档[\[1\]](#reference-note-1)。
 
 ## 参考文献
 
@@ -39,7 +38,7 @@ Procida 在 Divio 任职期间（2014 至 2021）发表过这套想法的早期�
 
 - \[1\] Procida, D. Diátaxis. https://diataxis.fr/ 两轴推导、Divio 时期与 2021 年之说明已对照原站核实。（早期版本于 Divio 任职期 2014–2021 发表）.
 
-引用格式：Trigpoint，〈Diátaxis 文件四型〉，trigpoint.pub/zh-Hans/collections/pkm/diataxis-procida · © Strategitect Limited. · 内容最后修订 2026-10-01
+引用格式：Trigpoint，〈Diátaxis 文件四型〉，trigpoint.pub/zh-Hans/collections/pkm/diataxis-procida · © Strategitect Limited. · 内容最后修订 2026-10-11
 
 ## 来源注记
 

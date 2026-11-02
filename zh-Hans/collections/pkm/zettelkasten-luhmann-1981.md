@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hans/collections/pkm/zettelkasten-luhmann-1981  
-Captured: 2026-10-05T03:32:18.446748+08:00
+Captured: 2026-11-02T21:27:35.575368+08:00
 
 > 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 
@@ -22,8 +22,7 @@ Lab 实测 ✓
 ![卡片盒机制流：原子卡、唯一编号、跨引用累积成网，涌现出会回应使用者的沟通伙伴性质](assets/zettelkasten-luhmann-1981.github.svg)
 
 <strong>图 1</strong> · 卡片盒机制流示意：原子卡、唯一编号、跨引用累积成网，到「沟通伙伴」的涌现层。  
-约九万张卡为档案馆学术重建之约数，非普查。  
-示意重绘。
+约九万张卡为档案馆学术重建之约数，非普查。
 
 ## 一、发生什么事
 
@@ -49,13 +48,13 @@ Luhmann 从 1950 年代起累积实体卡片：每张卡原子化载一个概念
 
 - [<em>对照 ▸</em>超文本与跨包含 Hypertext & Transclusion（Ted Nelson 1965）](hypertext-transclusion-nelson-1965.md)
 
-引用格式：Trigpoint，〈卡片盒笔记法〉，trigpoint.pub/zh-Hans/collections/pkm/zettelkasten-luhmann-1981 · © Strategitect Limited. · 内容最后修订 2026-10-01
+引用格式：Trigpoint，〈卡片盒笔记法〉，trigpoint.pub/zh-Hans/collections/pkm/zettelkasten-luhmann-1981 · © Strategitect Limited. · 内容最后修订 2026-10-18
 
 ## 来源注记
 
 <a id="reference-note-1"></a>
 
-**[1]** Luhmann, N. (1981). Kommunikation mit Zettelkästen. Ein Erfahrungsbericht. In Baier, Kepplinger & Reumann (Hrsg.), Öffentliche Meinung und sozialer Wandel. Opladen: Westdeutscher Verlag, 222–228. 书目经多源交叉核对。原始 1981 出处（常见误标为 1992 年重刊本《Universität als Milieu》）；「沟通伙伴」语经英译本核对，德文原文未逐字核对。
+**[1]** Luhmann, N. (1981). Kommunikation mit Zettelkästen. Ein Erfahrungsbericht. In Baier, Kepplinger & Reumann (Hrsg.), Öffentliche Meinung und sozialer Wandel. Opladen: Westdeutscher Verlag, 222–228. 书目经多源交叉核对。原始 1981 出处（常见误标为 1992 年重刊本《Universität als Milieu》）；「沟通伙伴」相关语句已对照德文原刊印本扫描逐字核对（第 222、225、226 页）。
 
 <a id="reference-note-2"></a>
 

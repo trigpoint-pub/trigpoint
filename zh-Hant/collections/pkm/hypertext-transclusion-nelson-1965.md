@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hant/collections/pkm/hypertext-transclusion-nelson-1965  
-Captured: 2026-10-05T03:32:22.057783+08:00
+Captured: 2026-11-02T21:27:50.976906+08:00
 
 > 公開理論閱讀鏡像。驗證層及 Lab 案例請到原站閱讀。
 
@@ -21,8 +21,7 @@ Nelson 稱其概念已含於同一構想之內的 transclusion 更深一層：�
 ![兩種連結對照：跳轉式超連結單向且目標不知被連；transclusion 內容以引用嵌入多處，源頭一改處處同步](assets/hypertext-transclusion-nelson-1965.github.svg)
 
 <strong>圖 1</strong> · 兩種「連結」的對照示意：跳轉式超連結（單向，目標不知道被連）與 transclusion（內容以引用嵌入多處，源頭一改處處同步）。  
-Web 採前者、捨後者，是工程取捨而非願景證偽。  
-示意重繪。
+Web 採前者、捨後者，是工程取捨而非願景證偽。
 
 ## 一、發生什麼事
 
@@ -47,10 +46,10 @@ Nelson 要解的問題：人類思想互聯、可變、不確定，紙本與循�
 ## 知識圖譜
 
 - [<em>前置 ▸</em>Memex（Vannevar Bush 1945）](memex-bush-1945.md)
-- [<em>對照 ▸</em>Zettelkasten · Luhmann 1981](zettelkasten-luhmann-1981.md)
-- [<em>對照 ▸</em>Evergreen Notes · Andy Matuschak](evergreen-notes-matuschak.md)
+- [<em>對照 ▸</em>卡片盒筆記法（Zettelkasten）](zettelkasten-luhmann-1981.md)
+- [<em>對照 ▸</em>常青筆記（Evergreen Notes）](evergreen-notes-matuschak.md)
 
-引用格式：Trigpoint，〈超文本與跨包含〉，trigpoint.pub/zh-Hant/collections/pkm/hypertext-transclusion-nelson-1965 · © Strategitect Limited. · 內容最後修訂 2026-10-01
+引用格式：Trigpoint，〈超文本與跨包含〉，trigpoint.pub/zh-Hant/collections/pkm/hypertext-transclusion-nelson-1965 · © Strategitect Limited. · 內容最後修訂 2026-10-11
 
 ## 來源註記
 

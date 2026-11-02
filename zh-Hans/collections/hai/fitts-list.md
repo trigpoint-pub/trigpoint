@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hans/collections/hai/fitts-list  
-Captured: 2026-10-05T03:32:13.736124+08:00
+Captured: 2026-11-02T21:27:28.879564+08:00
 
 > 公开理论阅读镜像。验证层及 Lab 案例请到原站阅读。
 

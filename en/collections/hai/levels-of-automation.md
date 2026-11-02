@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/hai/levels-of-automation  
-Captured: 2026-10-05T03:32:08.397187+08:00
+Captured: 2026-11-02T21:27:12.263407+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -19,7 +19,7 @@ Level of automation is a continuous scale, running from the human doing everythi
 
 ![Two-axis model of levels of automation: a ten-level autonomy scale on the left; on the right, four functional stages each set to a different level](assets/levels-of-automation.github.svg)
 
-<strong>Figure 1</strong> · The two-axis model, redrawn: a ten-point scale (Sheridan and Verplank 1978) crossed with four stages (Parasuraman, Sheridan and Wickens 2000). Intermediate level labels are omitted; the location of the table in the 1978 report was never verified against the primary source, so the levels are not reproduced verbatim. The settings on the right are illustrative, not measured.
+<strong>Figure 1</strong> · The two-axis model, redrawn: a ten-point scale (Sheridan and Verplank 1978) crossed with four stages (Parasuraman, Sheridan and Wickens 2000). Intermediate level labels are omitted; the location of the table in the 1978 report was never verified against the primary source, so the levels are not reproduced verbatim. The settings on the right are illustrative, not measured. The two dot colours mark two groups: acquisition and analysis sit high on the scale, while decision and action stay low.
 
 ## 1. What happened
 
@@ -52,7 +52,7 @@ Boundary: moving up the scale is a trade. In the same experiment, implementation
 - [<em>Downstream ▸</em>Out-of-the-loop performance problem](out-of-the-loop.md)
 - [<em>Applied by ▸</em>Mental workload (NASA-TLX)](mental-workload-nasa-tlx.md)
 
-Cite as: Trigpoint, “Levels of automation”, trigpoint.pub/collections/hai/levels-of-automation · © Strategitect Limited. · Content last revised 2026-09-28
+Cite as: Trigpoint, “Levels of automation”, trigpoint.pub/collections/hai/levels-of-automation · © Strategitect Limited. · Content last revised 2026-10-12
 
 ## Source notes
 

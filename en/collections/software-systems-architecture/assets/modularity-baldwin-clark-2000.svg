@@ -1,0 +1,45 @@
+<svg viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Two axes decide where a boundary should open: how easily the traffic across a cut can be defined and priced, and how frequent and iterative it is; a thin crossing is where an interface is cheapest to open">
+      <text x="24" y="34" font-family="Inter,'Noto Sans TC',sans-serif" font-size="17" font-weight="600" fill="#212529">Open the boundary where traffic is thinnest</text>
+      <text x="696" y="34" text-anchor="end" font-family="Georgia,'Noto Serif TC',serif" font-size="13" font-style="italic" fill="#666d75">Baldwin &amp; Clark (2000) · Baldwin (2008)</text>
+      <line x1="24" y1="46" x2="696" y2="46" stroke="#dee2e6" stroke-width="1"/>
+      <g font-family="Inter,'Noto Sans TC',sans-serif" font-size="12.5">
+    
+        <text x="40" y="72" font-size="11.5" fill="#666d75">Vertical: how frequent and iterative the traffic</text>
+        <text x="452" y="72" font-size="11.5" fill="#666d75">Horizontal: how easily it is defined and priced</text>
+    
+        <rect x="152" y="84" width="252" height="96" rx="4" fill="#fdf3e0" stroke="#ecd3a8"/>
+        <text x="278" y="112" text-anchor="middle" fill="#8a5a00" font-weight="600">Dense territory</text>
+        <text x="278" y="134" text-anchor="middle" font-size="11.5" fill="#8a5a00">many round trips, re-explained each time</text>
+        <text x="278" y="152" text-anchor="middle" font-size="11.5" fill="#8a5a00">and no clear definition of done</text>
+        <text x="278" y="172" text-anchor="middle" font-size="11" font-weight="600" fill="#8a5a00">an interface here institutionalises friction</text>
+    
+        <rect x="410" y="84" width="252" height="96" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="536" y="112" text-anchor="middle" fill="#495057" font-weight="600">Frequent but definable</text>
+        <text x="536" y="134" text-anchor="middle" font-size="11.5" fill="#495057">many trips, but inputs and outputs are clear</text>
+        <text x="536" y="152" text-anchor="middle" font-size="11.5" fill="#666d75">an interface works, but must be maintained</text>
+    
+        <rect x="152" y="190" width="252" height="96" rx="4" fill="#ffffff" stroke="#dee2e6"/>
+        <text x="278" y="218" text-anchor="middle" fill="#495057" font-weight="600">Sparse but hard to price</text>
+        <text x="278" y="240" text-anchor="middle" font-size="11.5" fill="#495057">rare traffic, but murky when it happens</text>
+        <text x="278" y="258" text-anchor="middle" font-size="11.5" fill="#666d75">define the handover first, then cut</text>
+    
+        <rect x="410" y="190" width="252" height="96" rx="4" fill="#f8f9fa" stroke="#495057"/>
+        <text x="536" y="218" text-anchor="middle" fill="#212529" font-weight="600">A thin crossing</text>
+        <text x="536" y="240" text-anchor="middle" font-size="11.5" fill="#495057">sparse, definable, countable, priceable</text>
+        <text x="536" y="258" text-anchor="middle" font-size="11.5" fill="#495057">mundane transaction costs generally low</text>
+        <text x="536" y="278" text-anchor="middle" font-size="11" font-weight="600" fill="#495057">open the interface here</text>
+    
+        <text x="40" y="130" font-size="11.5" fill="#495057">High</text>
+        <text x="40" y="238" font-size="11.5" fill="#495057">Low</text>
+        <text x="220" y="304" text-anchor="middle" font-size="11.5" fill="#495057">Hard</text>
+        <text x="536" y="304" text-anchor="middle" font-size="11.5" fill="#495057">Easy</text>
+    
+        <line x1="152" y1="314" x2="662" y2="314" stroke="#dee2e6" stroke-width="1" stroke-dasharray="3 4"/>
+        <text x="407" y="330" text-anchor="middle" font-size="11" fill="#666d75">the cells are continuous; judge by observing actual traffic, not by impression</text>
+    
+        <line x1="80" y1="346" x2="640" y2="346" stroke="#eceff1" stroke-width="1"/>
+        <text x="80" y="364" font-size="11.5" fill="#666d75">The quadrants are conceptual: no costs, counts or measured numbers.</text>
+        <text x="80" y="382" font-size="11.5" fill="#666d75">Traffic costs change, so boundaries need re-estimating; interfaces should expect to evolve.</text>
+        <text x="696" y="394" text-anchor="end" font-size="10.5" fill="#666d75">Figure: trigpoint.pub</text>
+      </g>
+    </svg>

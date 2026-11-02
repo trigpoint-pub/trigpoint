@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/pkm/diataxis-procida  
-Captured: 2026-10-05T03:32:10.595769+08:00
+Captured: 2026-11-02T21:27:15.755632+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -14,7 +14,7 @@ Personal knowledge management · documentation
 
 ## In three sentences
 
-Documentation usually fails for structural reasons rather than stylistic ones: four different reader needs get pushed into one document. Diátaxis separates them along two axes, whether the reader is doing or thinking and whether they are learning or working, producing four types: tutorial, how-to, reference and explanation. The core discipline is a single rule. Maintain the four separately and never mix them in one document.
+Documentation usually fails for structural reasons rather than stylistic ones: four different reader needs get pushed into one document. Diátaxis separates them along two axes, whether the reader is doing or thinking and whether they are learning or working, producing four types: tutorial, how-to, reference and explanation. The core claim is that each type has its own job and the kinds of writing should not bleed into each other. The framework does not prescribe an implementation; whether to split them into separate files is the user's own choice.
 
 ![Two axes producing four documentation types: practice against cognition crossed with learning against application, giving tutorial, how-to, reference and explanation](assets/diataxis-procida.github.svg)
 
@@ -36,9 +36,9 @@ The failure mode of mixing them is one everybody has seen: a "tutorial" that ope
 
 To decide whether a document should be split, ask which quadrant the reader is in right now, not which topic the content belongs to.
 
-This is also one of three questions in knowledge system design that routinely get answered together when they should not be: where things go, which is organisation; how you find them again, which is navigation; and what type to write, which is this framework. The three are orthogonal and answering them jointly makes each one worse.
+In this site's framing of knowledge system design, this is also one of three questions that routinely get answered together when they should not be: where things go, which is organisation; how you find them again, which is navigation; and what type to write, which is this framework. The three are orthogonal and answering them jointly makes each one worse.
 
-There is a corollary for personal notes. The operating manual you write for yourself and the conceptual explanation you write for yourself should not be the same file either. They update on different rhythms and they fail in different ways.
+Carrying this into personal notes is our practice, not a rule of the framework. We keep the operating manual and the conceptual explanation we write for ourselves in two files, because they update on different rhythms and fail in different ways. The framework itself asks that one passage not serve two needs at once; it does not prescribe separate files[\[1\]](#reference-note-1).
 
 ## References
 
@@ -46,7 +46,7 @@ There is a corollary for personal notes. The operating manual you write for your
 
 - \[1\] Procida, D. Diátaxis. https://diataxis.fr/ The two-axis derivation and the notes on the Divio years and 2021 checked against the primary site. An early version was published during the author's time at Divio, 2014–2021.
 
-Cite as: Trigpoint, “Diátaxis”, trigpoint.pub/collections/pkm/diataxis-procida · © Strategitect Limited. · Content last revised 2026-10-01
+Cite as: Trigpoint, “Diátaxis”, trigpoint.pub/collections/pkm/diataxis-procida · © Strategitect Limited. · Content last revised 2026-10-11
 
 ## Source notes
 

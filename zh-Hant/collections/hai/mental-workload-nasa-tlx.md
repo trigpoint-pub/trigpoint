@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/zh-Hant/collections/hai/mental-workload-nasa-tlx  
-Captured: 2026-10-05T03:32:19.535922+08:00
+Captured: 2026-11-02T21:27:47.438699+08:00
 
 > 公開理論閱讀鏡像。驗證層及 Lab 案例請到原站閱讀。
 

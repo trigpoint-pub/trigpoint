@@ -1,5 +1,5 @@
 Canonical: https://trigpoint.pub/collections/hai/use-misuse-disuse-abuse  
-Captured: 2026-10-05T03:32:09.409359+08:00
+Captured: 2026-11-02T21:27:14.169885+08:00
 
 > Public theory reading mirror. Verification and Lab case sections remain on the website.
 
@@ -19,7 +19,7 @@ The relationship between people and automation splits into four categories: appr
 
 ![Reliance-calibration quadrants: human trust against true system reliability; too much trust is misuse, too little is disuse; abuse is a design-side dimension](assets/use-misuse-disuse-abuse.github.svg)
 
-<strong>Figure 1</strong> · The reliance calibration quadrants: trust against actual reliability, with two directions of mismatch. Misuse (too much trust) and disuse (too little) have independent causes and are not two ends of one dial. Abuse is a design-side dimension that does not sit on this plane but produces the mismatches on it. Redrawn from the framework in Parasuraman and Riley (1997).
+<strong>Figure 1</strong> · The reliance calibration quadrants: trust against actual reliability, with two directions of mismatch. Misuse (too much trust) and disuse (too little) have independent causes and are not two ends of one dial. Abuse is a design-side dimension that does not sit on this plane but produces the mismatches on it.
 
 ## 1. What happened
 
@@ -41,7 +41,7 @@ Boundary: the four terms are a taxonomy of mismatch, not a maturity scale; misus
 
 - \[1\] Parasuraman, R., & Riley, V. (1997). Humans and Automation: Use, Misuse, Disuse, Abuse. Human Factors: The Journal of the Human Factors and Ergonomics Society, 39(2), 230–253. https://doi.org/10.1518/001872097778543886
 
-Cite as: Trigpoint, “Use, misuse, disuse, abuse”, trigpoint.pub/collections/hai/use-misuse-disuse-abuse · © Strategitect Limited. · Content last revised 2026-09-28
+Cite as: Trigpoint, “Use, misuse, disuse, abuse”, trigpoint.pub/collections/hai/use-misuse-disuse-abuse · © Strategitect Limited. · Content last revised 2026-10-29
 
 ## Source notes
 
