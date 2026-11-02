@@ -28,6 +28,19 @@ Choose a question to explore through the existing free reading notes.
 
 Each note links to its original page; visit [trigpoint.pub](https://trigpoint.pub/) for current content, corrections and further reading.
 
+## From reading to practice / 從閱讀到試用
+
+本 repo 保存閱讀與引用用的文章快照。想把方法用於一個具體任務，可到 [Trigpoint agent skills](https://github.com/trigpoint-pub/agent-skills#choose-by-task)，先看示例與限制，再選擇是否安裝。
+
+This repository preserves reading and citation snapshots. For practical methods, visit the [agent skills collection](https://github.com/trigpoint-pub/agent-skills#choose-by-task), read a first-use example and its validation limits, then choose whether to install.
+
+- **AI 工作分工與檢查 / AI work allocation and checks:** [allocate-ai-work](https://github.com/trigpoint-pub/agent-skills/tree/main/skills/allocate-ai-work), [calibrate-ai-checks](https://github.com/trigpoint-pub/agent-skills/tree/main/skills/calibrate-ai-checks), [classify-ai-incident](https://github.com/trigpoint-pub/agent-skills/tree/main/skills/classify-ai-incident).
+- **論證與知識 / Claims and knowledge:** [red-team-gate](https://github.com/trigpoint-pub/agent-skills/tree/main/skills/red-team-gate), [concept-relations](https://github.com/trigpoint-pub/agent-skills/tree/main/skills/concept-relations).
+
+Skills 是另行發布的實驗工具。文章的研究依據不等於 skill 成效已被證明；請以各版本驗收記錄為準。
+
+Skills are separately released experiments. A method's research basis does not establish a skill's effectiveness; consult its version-specific validation record.
+
 ## Read / 閱讀
 
 | Language | Human-Automation Interaction | Personal Knowledge Management | Rules |
