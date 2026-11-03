@@ -2,6 +2,12 @@
 
 Source capture dates and GitHub navigation updates are identified separately below.
 
+## 2026-11-03 · GitHub navigation update
+
+Added two questions to the root README's starting guide, pointing to existing nodes on the two shelves captured on 2026-11-02: Channel and capacity (Information Theory) and Single source of truth (Software & Systems Architecture).
+
+The source capture remains 2026-11-02. No source-derived note, diagram, license, or paid-content boundary changed.
+
 ## 2026-11-02 · Source capture
 
 Full re-capture of the public site after its second monthly issue (2026-11-01). All pages were retrieved again; `SOURCES.json` now lists 171 pages.
